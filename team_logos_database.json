@@ -4308,6 +4308,344 @@
       "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
       "logoProvider": "ESPN",
       "verified": true
+    },
+    {
+      "teamId": "team_canonical_real_betis",
+      "canonicalName": "Real Betis Balompié",
+      "displayName": "Real Betis",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Betis",
+        "Betis"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_real_sociedad",
+      "canonicalName": "Real Sociedad de Fútbol",
+      "displayName": "Real Sociedad",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Sociedad",
+        "La Real"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_villarreal",
+      "canonicalName": "Villarreal CF",
+      "displayName": "Villarreal",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Villarreal",
+        "Villarreal CF",
+        "Yellow Submarine"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_athletic_bilbao",
+      "canonicalName": "Athletic Club",
+      "displayName": "Athletic Club",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Athletic Club",
+        "Athletic Bilbao",
+        "Los Leones"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_eintracht_frankfurt",
+      "canonicalName": "Eintracht Frankfurt",
+      "displayName": "Eintracht Frankfurt",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Eintracht Frankfurt",
+        "Frankfurt",
+        "Die Adler"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_borussia_monchengladbach",
+      "canonicalName": "Borussia Mönchengladbach",
+      "displayName": "Borussia M'gladbach",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Borussia Monchengladbach",
+        "Gladbach",
+        "BMG"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_wolfsburg",
+      "canonicalName": "VfL Wolfsburg",
+      "displayName": "Wolfsburg",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "VfL Wolfsburg",
+        "Wolfsburg",
+        "Die Wölfe"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_fiorentina",
+      "canonicalName": "ACF Fiorentina",
+      "displayName": "Fiorentina",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Fiorentina",
+        "ACF Fiorentina",
+        "La Viola"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_bologna",
+      "canonicalName": "Bologna FC 1909",
+      "displayName": "Bologna",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Bologna",
+        "Bologna FC",
+        "I Rossoblù"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_lazio",
+      "canonicalName": "S.S. Lazio",
+      "displayName": "Lazio",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lazio",
+        "SS Lazio",
+        "I Biancocelesti"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_lille",
+      "canonicalName": "LOSC Lille",
+      "displayName": "Lille",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lille",
+        "LOSC Lille",
+        "LOSC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_nice",
+      "canonicalName": "OGC Nice",
+      "displayName": "Nice",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Nice",
+        "OGC Nice",
+        "Les Aiglons"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_shabab",
+      "canonicalName": "Al-Shabab FC",
+      "displayName": "Al-Shabab",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Shabab",
+        "Al-Shabab FC",
+        "Al Shabab Riyadh"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7011.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_ettifaq",
+      "canonicalName": "Ettifaq FC",
+      "displayName": "Al-Ettifaq",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Ettifaq",
+        "Ettifaq FC",
+        "Al-Ettifaq Dammam"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7006.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_trabzonspor",
+      "canonicalName": "Trabzonspor Club",
+      "displayName": "Trabzonspor",
+      "country": "Turkey",
+      "continent": "EUROPE",
+      "leagueId": "tur.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Trabzonspor",
+        "Trabzonspor BK",
+        "Fırtına"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/512.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_racing_club",
+      "canonicalName": "Racing Club de Avellaneda",
+      "displayName": "Racing Club",
+      "country": "Argentina",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "arg.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Racing Club",
+        "Racing",
+        "La Academia"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_independiente",
+      "canonicalName": "Club Atlético Independiente",
+      "displayName": "Independiente",
+      "country": "Argentina",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "arg.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Independiente",
+        "CA Independiente",
+        "El Rojo"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_corinthians",
+      "canonicalName": "Sport Club Corinthians Paulista",
+      "displayName": "Corinthians",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Corinthians",
+        "SC Corinthians",
+        "Timão"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/814.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_santos",
+      "canonicalName": "Santos Futebol Clube",
+      "displayName": "Santos",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Santos",
+        "Santos FC",
+        "Peixe"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/825.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_seattle_sounders",
+      "canonicalName": "Seattle Sounders FC",
+      "displayName": "Seattle Sounders",
+      "country": "United States",
+      "continent": "NORTH_AMERICA",
+      "leagueId": "usa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Seattle Sounders",
+        "Sounders FC",
+        "Seattle"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/9844.png",
+      "logoProvider": "ESPN",
+      "verified": true
     }
   ]
 }
