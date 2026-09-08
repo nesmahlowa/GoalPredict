@@ -1,0 +1,4469 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0.0",
+    "datasetType": "SEASON_CALENDAR_DATABASE",
+    "season": "2026-2027",
+    "lastUpdatedIso": "2026-08-21T12:00:00Z",
+    "lastUpdatedTimestamp": 1787313600000,
+    "description": "Full English Premier League 2026-2027 season calendar database containing rounds, schedules, venues, teams and match status."
+  },
+  "leagueSchedules": [
+    {
+      "leagueId": "eng.1",
+      "officialName": "English Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 1,
+          "roundName": "Round 1 - الجولة الأولى",
+          "startDateIso": "2026-08-21",
+          "endDateIso": "2026-08-24",
+          "matches": [
+            {
+              "matchId": "evt_eng1_2627_r1_m1",
+              "homeTeamId": "team_arsenal",
+              "homeTeamName": "Arsenal",
+              "awayTeamId": "team_coventry_city",
+              "awayTeamName": "Coventry City",
+              "schedule": {
+                "dateIso": "2026-08-21",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "19:00 UTC"
+              },
+              "venue": {
+                "venueName": "Emirates Stadium",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m2",
+              "homeTeamId": "team_hull_city",
+              "homeTeamName": "Hull City",
+              "awayTeamId": "team_manchester_united",
+              "awayTeamName": "Manchester United",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "11:30:00Z",
+                "formattedLocalTime": "11:30 UTC"
+              },
+              "venue": {
+                "venueName": "MKM Stadium",
+                "city": "Hull"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m3",
+              "homeTeamId": "team_everton",
+              "homeTeamName": "Everton",
+              "awayTeamId": "team_crystal_palace",
+              "awayTeamName": "Crystal Palace",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "14:00 UTC"
+              },
+              "venue": {
+                "venueName": "Hill Dickinson Stadium",
+                "city": "Liverpool"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m4",
+              "homeTeamId": "team_ipswich_town",
+              "homeTeamName": "Ipswich Town",
+              "awayTeamId": "team_sunderland",
+              "awayTeamName": "Sunderland",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "14:00 UTC"
+              },
+              "venue": {
+                "venueName": "Portman Road",
+                "city": "Ipswich"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m5",
+              "homeTeamId": "team_nottingham_forest",
+              "homeTeamName": "Nottingham Forest",
+              "awayTeamId": "team_leeds_united",
+              "awayTeamName": "Leeds United",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "14:00 UTC"
+              },
+              "venue": {
+                "venueName": "City Ground",
+                "city": "Nottingham"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m6",
+              "homeTeamId": "team_brentford",
+              "homeTeamName": "Brentford",
+              "awayTeamId": "team_tottenham_hotspur",
+              "awayTeamName": "Tottenham Hotspur",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "16:30 UTC"
+              },
+              "venue": {
+                "venueName": "Gtech Community Stadium",
+                "city": "Brentford"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m7",
+              "homeTeamId": "team_brighton_hove_albion",
+              "homeTeamName": "Brighton & Hove Albion",
+              "awayTeamId": "team_aston_villa",
+              "awayTeamName": "Aston Villa",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "13:00 UTC"
+              },
+              "venue": {
+                "venueName": "American Express Stadium",
+                "city": "Falmer"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m8",
+              "homeTeamId": "team_manchester_city",
+              "homeTeamName": "Manchester City",
+              "awayTeamId": "team_afc_bournemouth",
+              "awayTeamName": "AFC Bournemouth",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "13:00 UTC"
+              },
+              "venue": {
+                "venueName": "Etihad Stadium",
+                "city": "Manchester"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m9",
+              "homeTeamId": "team_newcastle_united",
+              "homeTeamName": "Newcastle United",
+              "awayTeamId": "team_liverpool",
+              "awayTeamName": "Liverpool",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "15:30 UTC"
+              },
+              "venue": {
+                "venueName": "St James' Park",
+                "city": "Newcastle upon Tyne"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r1_m10",
+              "homeTeamId": "team_fulham",
+              "homeTeamName": "Fulham",
+              "awayTeamId": "team_chelsea",
+              "awayTeamName": "Chelsea",
+              "schedule": {
+                "dateIso": "2026-08-24",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "19:00 UTC"
+              },
+              "venue": {
+                "venueName": "Craven Cottage",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        },
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-09-04",
+          "endDateIso": "2026-09-06",
+          "matches": [
+            {
+              "matchId": "evt_eng1_2627_r3_m1",
+              "homeTeamId": "team_ipswich_town",
+              "homeTeamName": "Ipswich Town",
+              "awayTeamId": "team_liverpool",
+              "awayTeamName": "Liverpool",
+              "schedule": {
+                "dateIso": "2026-09-04",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "20:00 BST"
+              },
+              "venue": {
+                "venueName": "Portman Road",
+                "city": "Ipswich"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m2",
+              "homeTeamId": "team_newcastle_united",
+              "homeTeamName": "Newcastle United",
+              "awayTeamId": "team_afc_bournemouth",
+              "awayTeamName": "AFC Bournemouth",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "11:30:00Z",
+                "formattedLocalTime": "12:30 BST"
+              },
+              "venue": {
+                "venueName": "St James' Park",
+                "city": "Newcastle upon Tyne"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m3",
+              "homeTeamId": "team_brentford",
+              "homeTeamName": "Brentford",
+              "awayTeamId": "team_sunderland",
+              "awayTeamName": "Sunderland",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Gtech Community Stadium",
+                "city": "Brentford"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m4",
+              "homeTeamId": "team_brighton_hove_albion",
+              "homeTeamName": "Brighton & Hove Albion",
+              "awayTeamId": "team_leeds_united",
+              "awayTeamName": "Leeds United",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "American Express Stadium",
+                "city": "Falmer"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m5",
+              "homeTeamId": "team_fulham",
+              "homeTeamName": "Fulham",
+              "awayTeamId": "team_crystal_palace",
+              "awayTeamName": "Crystal Palace",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Craven Cottage",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m6",
+              "homeTeamId": "team_manchester_city",
+              "homeTeamName": "Manchester City",
+              "awayTeamId": "team_coventry_city",
+              "awayTeamName": "Coventry City",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Etihad Stadium",
+                "city": "Manchester"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m7",
+              "homeTeamId": "team_nottingham_forest",
+              "homeTeamName": "Nottingham Forest",
+              "awayTeamId": "team_tottenham_hotspur",
+              "awayTeamName": "Tottenham Hotspur",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "City Ground",
+                "city": "Nottingham"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m8",
+              "homeTeamId": "team_hull_city",
+              "homeTeamName": "Hull City",
+              "awayTeamId": "team_aston_villa",
+              "awayTeamName": "Aston Villa",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "17:30 BST"
+              },
+              "venue": {
+                "venueName": "MKM Stadium",
+                "city": "Hull"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m9",
+              "homeTeamId": "team_everton",
+              "homeTeamName": "Everton",
+              "awayTeamId": "team_manchester_united",
+              "awayTeamName": "Manchester United",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "14:00 BST"
+              },
+              "venue": {
+                "venueName": "Hill Dickinson Stadium",
+                "city": "Liverpool"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r3_m10",
+              "homeTeamId": "team_arsenal",
+              "homeTeamName": "Arsenal",
+              "awayTeamId": "team_chelsea",
+              "awayTeamName": "Chelsea",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "16:30 BST"
+              },
+              "venue": {
+                "venueName": "Emirates Stadium",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "esp.1",
+      "officialName": "Spanish LaLiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-28",
+          "endDateIso": "2026-08-31",
+          "matches": [
+            {
+              "matchId": "evt_esp1_2627_r3_m1",
+              "homeTeamId": "team_r_racing_club",
+              "homeTeamName": "R. Racing Club",
+              "awayTeamId": "team_elche_cf",
+              "awayTeamName": "Elche CF",
+              "schedule": {
+                "dateIso": "2026-08-28",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CET"
+              },
+              "venue": {
+                "venueName": "El Sardinero",
+                "city": "Santander"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m2",
+              "homeTeamId": "team_deportivo_alaves",
+              "homeTeamName": "Deportivo Alavés",
+              "awayTeamId": "team_villarreal_cf",
+              "awayTeamName": "Villarreal CF",
+              "schedule": {
+                "dateIso": "2026-08-28",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CET"
+              },
+              "venue": {
+                "venueName": "Mendizorroza",
+                "city": "Vitoria-Gasteiz"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m3",
+              "homeTeamId": "team_levante_ud",
+              "homeTeamName": "Levante UD",
+              "awayTeamId": "team_real_betis",
+              "awayTeamName": "Real Betis",
+              "schedule": {
+                "dateIso": "2026-08-29",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CET"
+              },
+              "venue": {
+                "venueName": "Ciutat de Valencia",
+                "city": "Valencia"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m4",
+              "homeTeamId": "team_real_sociedad",
+              "homeTeamName": "Real Sociedad",
+              "awayTeamId": "team_rcd_espanyol",
+              "awayTeamName": "RCD Espanyol de Barcelona",
+              "schedule": {
+                "dateIso": "2026-08-29",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CET"
+              },
+              "venue": {
+                "venueName": "Estadio Municipal de Anoeta",
+                "city": "San Sebastián"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m5",
+              "homeTeamId": "team_sevilla_fc",
+              "homeTeamName": "Sevilla FC",
+              "awayTeamId": "team_atletico_madrid",
+              "awayTeamName": "Atlético de Madrid",
+              "schedule": {
+                "dateIso": "2026-08-29",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CET"
+              },
+              "venue": {
+                "venueName": "Ramón Sánchez-Pizjuán",
+                "city": "Seville"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m6",
+              "homeTeamId": "team_real_madrid",
+              "homeTeamName": "Real Madrid",
+              "awayTeamId": "team_malaga_cf",
+              "awayTeamName": "Málaga CF",
+              "schedule": {
+                "dateIso": "2026-08-30",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CET"
+              },
+              "venue": {
+                "venueName": "Estadio Bernabéu",
+                "city": "Madrid"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m7",
+              "homeTeamId": "team_rc_deportivo",
+              "homeTeamName": "RC Deportivo",
+              "awayTeamId": "team_valencia_cf",
+              "awayTeamName": "Valencia CF",
+              "schedule": {
+                "dateIso": "2026-08-30",
+                "kickoffTimeUtc": "17:30:00Z",
+                "formattedLocalTime": "19:30 CET"
+              },
+              "venue": {
+                "venueName": "ABANCA-Riazor",
+                "city": "A Coruña"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m8",
+              "homeTeamId": "team_rc_celta",
+              "homeTeamName": "RC Celta",
+              "awayTeamId": "team_athletic_club",
+              "awayTeamName": "Athletic Club",
+              "schedule": {
+                "dateIso": "2026-08-30",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CET"
+              },
+              "venue": {
+                "venueName": "Estadio Abanca-Balaídos",
+                "city": "Vigo"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m9",
+              "homeTeamId": "team_ca_osasuna",
+              "homeTeamName": "CA Osasuna",
+              "awayTeamId": "team_getafe_cf",
+              "awayTeamName": "Getafe CF",
+              "schedule": {
+                "dateIso": "2026-08-31",
+                "kickoffTimeUtc": "17:30:00Z",
+                "formattedLocalTime": "19:30 CET"
+              },
+              "venue": {
+                "venueName": "El Sadar",
+                "city": "Pamplona"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_r3_m10",
+              "homeTeamId": "team_fc_barcelona",
+              "homeTeamName": "FC Barcelona",
+              "awayTeamId": "team_rayo_vallecano",
+              "awayTeamName": "Rayo Vallecano",
+              "schedule": {
+                "dateIso": "2026-08-31",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CET"
+              },
+              "venue": {
+                "venueName": "Spotify Camp Nou",
+                "city": "Barcelona"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "ger.1",
+      "officialName": "German Bundesliga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-09-11",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "evt_ger1_2627_r3_m1",
+              "homeTeamId": "team_fc_union_berlin",
+              "homeTeamName": "1. FC Union Berlin",
+              "awayTeamId": "team_fc_schalke_04",
+              "awayTeamName": "FC Schalke 04",
+              "schedule": {
+                "dateIso": "2026-09-11",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "An der Alten Försterei",
+                "city": "Berlin"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m2",
+              "homeTeamId": "team_borussia_dortmund",
+              "homeTeamName": "Borussia Dortmund",
+              "awayTeamId": "team_sc_paderborn_07",
+              "awayTeamName": "SC Paderborn 07",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "SIGNAL IDUNA PARK",
+                "city": "Dortmund"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m3",
+              "homeTeamId": "team_tsg_hoffenheim",
+              "homeTeamName": "TSG Hoffenheim",
+              "awayTeamId": "team_vfb_stuttgart",
+              "awayTeamName": "VfB Stuttgart",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "SNP Arena",
+                "city": "Sinsheim"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m4",
+              "homeTeamId": "team_sc_freiburg",
+              "homeTeamName": "SC Freiburg",
+              "awayTeamId": "team_borussia_monchengladbach",
+              "awayTeamName": "Borussia Mönchengladbach",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "Europa-Park Stadion",
+                "city": "Freiburg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m5",
+              "homeTeamId": "team_fc_augsburg",
+              "homeTeamName": "FC Augsburg",
+              "awayTeamId": "team_bayer_leverkusen",
+              "awayTeamName": "Bayer 04 Leverkusen",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "WWK ARENA",
+                "city": "Augsburg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m6",
+              "homeTeamId": "team_fsv_mainz_05",
+              "homeTeamName": "1. FSV Mainz 05",
+              "awayTeamId": "team_eintracht_frankfurt",
+              "awayTeamName": "Eintracht Frankfurt",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "MEWA ARENA",
+                "city": "Mainz"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m7",
+              "homeTeamId": "team_fc_koln",
+              "homeTeamName": "1. FC Köln",
+              "awayTeamId": "team_werder_bremen",
+              "awayTeamName": "SV Werder Bremen",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "18:30 CEST"
+              },
+              "venue": {
+                "venueName": "RheinEnergieSTADION",
+                "city": "Cologne"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m8",
+              "homeTeamId": "team_rb_leipzig",
+              "homeTeamName": "RB Leipzig",
+              "awayTeamId": "team_hamburger_sv",
+              "awayTeamName": "Hamburger SV",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "Red Bull Arena",
+                "city": "Leipzig"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m9",
+              "homeTeamId": "team_sv_elversberg",
+              "homeTeamName": "SV Elversberg",
+              "awayTeamId": "team_bayern_munich",
+              "awayTeamName": "FC Bayern München",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "17:30 CEST"
+              },
+              "venue": {
+                "venueName": "URSAPHARM-Arena",
+                "city": "Spiesen-Elversberg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "ita.1",
+      "officialName": "Italian Serie A",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-09-04",
+          "endDateIso": "2026-09-07",
+          "matches": [
+            {
+              "matchId": "evt_ita1_2627_r3_m1",
+              "homeTeamId": "team_genoa",
+              "homeTeamName": "Genoa",
+              "awayTeamId": "team_como",
+              "awayTeamName": "Como",
+              "schedule": {
+                "dateIso": "2026-09-04",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Luigi Ferraris",
+                "city": "Genoa"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m2",
+              "homeTeamId": "team_fiorentina",
+              "homeTeamName": "Fiorentina",
+              "awayTeamId": "team_torino",
+              "awayTeamName": "Torino",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Artemio Franchi",
+                "city": "Florence"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m3",
+              "homeTeamId": "team_inter",
+              "homeTeamName": "Inter",
+              "awayTeamId": "team_napoli",
+              "awayTeamName": "Napoli",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Giuseppe Meazza",
+                "city": "Milan"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m4",
+              "homeTeamId": "team_roma",
+              "homeTeamName": "Roma",
+              "awayTeamId": "team_atalanta",
+              "awayTeamName": "Atalanta",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Olimpico",
+                "city": "Rome"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m5",
+              "homeTeamId": "team_frosinone",
+              "homeTeamName": "Frosinone",
+              "awayTeamId": "team_venezia",
+              "awayTeamName": "Venezia",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Benito Stirpe",
+                "city": "Frosinone"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m6",
+              "homeTeamId": "team_parma",
+              "homeTeamName": "Parma",
+              "awayTeamId": "team_monza",
+              "awayTeamName": "Monza",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Ennio Tardini",
+                "city": "Parma"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m7",
+              "homeTeamId": "team_bologna",
+              "homeTeamName": "Bologna",
+              "awayTeamId": "team_sassuolo",
+              "awayTeamName": "Sassuolo",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Renato Dall'Ara",
+                "city": "Bologna"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m8",
+              "homeTeamId": "team_juventus",
+              "homeTeamName": "Juventus",
+              "awayTeamId": "team_milan",
+              "awayTeamName": "Milan",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Allianz Stadium",
+                "city": "Turin"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m9",
+              "homeTeamId": "team_cagliari",
+              "homeTeamName": "Cagliari",
+              "awayTeamId": "team_lecce",
+              "awayTeamName": "Lecce",
+              "schedule": {
+                "dateIso": "2026-09-07",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Unipol Domus",
+                "city": "Cagliari"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r3_m10",
+              "homeTeamId": "team_udinese",
+              "homeTeamName": "Udinese",
+              "awayTeamId": "team_lazio",
+              "awayTeamName": "Lazio",
+              "schedule": {
+                "dateIso": "2026-09-07",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Bluenergy Stadium",
+                "city": "Udine"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "fra.1",
+      "officialName": "French Ligue 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-09-03",
+          "endDateIso": "2026-09-06",
+          "matches": [
+            {
+              "matchId": "evt_fra1_2627_r3_m1",
+              "homeTeamId": "team_toulouse",
+              "homeTeamName": "Toulouse",
+              "awayTeamId": "team_lille",
+              "awayTeamName": "Lille",
+              "schedule": {
+                "dateIso": "2026-09-03",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stadium de Toulouse",
+                "city": "Toulouse"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m2",
+              "homeTeamId": "team_lyon",
+              "homeTeamName": "Lyon",
+              "awayTeamId": "team_auxerre",
+              "awayTeamName": "Auxerre",
+              "schedule": {
+                "dateIso": "2026-09-04",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "Groupama Stadium",
+                "city": "Décines-Charpieu"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m3",
+              "homeTeamId": "team_paris_saint_germain",
+              "homeTeamName": "Paris Saint-Germain",
+              "awayTeamId": "team_monaco",
+              "awayTeamName": "AS Monaco",
+              "schedule": {
+                "dateIso": "2026-09-04",
+                "kickoffTimeUtc": "19:05:00Z",
+                "formattedLocalTime": "21:05 CEST"
+              },
+              "venue": {
+                "venueName": "Parc des Princes",
+                "city": "Paris"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m4",
+              "homeTeamId": "team_lens",
+              "homeTeamName": "Lens",
+              "awayTeamId": "team_lorient",
+              "awayTeamName": "Lorient",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:15:00Z",
+                "formattedLocalTime": "17:15 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Bollaert-Delelis",
+                "city": "Lens"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m5",
+              "homeTeamId": "team_nice",
+              "homeTeamName": "Nice",
+              "awayTeamId": "team_le_mans",
+              "awayTeamName": "Le Mans",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Allianz Riviera",
+                "city": "Nice"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m6",
+              "homeTeamId": "team_le_havre",
+              "homeTeamName": "Le Havre",
+              "awayTeamId": "team_brest",
+              "awayTeamName": "Brest",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Océane",
+                "city": "Le Havre"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m7",
+              "homeTeamId": "team_troyes",
+              "homeTeamName": "Troyes",
+              "awayTeamId": "team_strasbourg",
+              "awayTeamName": "Strasbourg",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stade de l'Aube",
+                "city": "Troyes"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m8",
+              "homeTeamId": "team_angers",
+              "homeTeamName": "Angers",
+              "awayTeamId": "team_rennes",
+              "awayTeamName": "Rennes",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "15:15:00Z",
+                "formattedLocalTime": "17:15 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Raymond Kopa",
+                "city": "Angers"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r3_m9",
+              "homeTeamId": "team_marseille",
+              "homeTeamName": "Marseille",
+              "awayTeamId": "team_paris_fc",
+              "awayTeamName": "Paris FC",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Orange Vélodrome",
+                "city": "Marseille"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "ned.1",
+      "officialName": "Dutch Eredivisie",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-22",
+          "endDateIso": "2026-09-15",
+          "matches": [
+            {
+              "matchId": "evt_ned1_2627_r3_m1",
+              "homeTeamId": "team_fortuna_sittard",
+              "homeTeamName": "Fortuna Sittard",
+              "awayTeamId": "team_az_alkmaar",
+              "awayTeamName": "AZ",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "16:30 CEST"
+              },
+              "venue": {
+                "venueName": "Fortuna Sittard Stadion",
+                "city": "Sittard"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m2",
+              "homeTeamId": "team_sparta_rotterdam",
+              "homeTeamName": "Sparta Rotterdam",
+              "awayTeamId": "team_fc_utrecht",
+              "awayTeamName": "FC Utrecht",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "16:45:00Z",
+                "formattedLocalTime": "18:45 CEST"
+              },
+              "venue": {
+                "venueName": "Spartastadion Het Kasteel",
+                "city": "Rotterdam"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m3",
+              "homeTeamId": "team_sc_heerenveen",
+              "homeTeamName": "sc Heerenveen",
+              "awayTeamId": "team_pec_zwolle",
+              "awayTeamName": "PEC Zwolle",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "21:00 CEST"
+              },
+              "venue": {
+                "venueName": "Abe Lenstra Stadion",
+                "city": "Heerenveen"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m4",
+              "homeTeamId": "team_go_ahead_eagles",
+              "homeTeamName": "Go Ahead Eagles",
+              "awayTeamId": "team_ado_den_haag",
+              "awayTeamName": "ADO Den Haag",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "10:15:00Z",
+                "formattedLocalTime": "12:15 CEST"
+              },
+              "venue": {
+                "venueName": "De Adelaarshorst",
+                "city": "Deventer"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m5",
+              "homeTeamId": "team_psv_eindhoven",
+              "homeTeamName": "PSV",
+              "awayTeamId": "team_fc_groningen",
+              "awayTeamName": "FC Groningen",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "12:30:00Z",
+                "formattedLocalTime": "14:30 CEST"
+              },
+              "venue": {
+                "venueName": "Philips Stadion",
+                "city": "Eindhoven"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m6",
+              "homeTeamId": "team_sc_cambuur",
+              "homeTeamName": "SC Cambuur",
+              "awayTeamId": "team_feyenoord",
+              "awayTeamName": "Feyenoord",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "14:45:00Z",
+                "formattedLocalTime": "16:45 CEST"
+              },
+              "venue": {
+                "venueName": "Cambuur Stadion",
+                "city": "Leeuwarden"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m7",
+              "homeTeamId": "team_nec_nijmegen",
+              "homeTeamName": "N.E.C. Nijmegen",
+              "awayTeamId": "team_excelsior_rotterdam",
+              "awayTeamName": "Excelsior Rotterdam",
+              "schedule": {
+                "dateIso": "2026-09-08",
+                "kickoffTimeUtc": "16:45:00Z",
+                "formattedLocalTime": "18:45 CEST"
+              },
+              "venue": {
+                "venueName": "Goffertstadion",
+                "city": "Nijmegen"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m8",
+              "homeTeamId": "team_fc_twente",
+              "homeTeamName": "FC Twente",
+              "awayTeamId": "team_telstar",
+              "awayTeamName": "Telstar",
+              "schedule": {
+                "dateIso": "2026-09-09",
+                "kickoffTimeUtc": "16:45:00Z",
+                "formattedLocalTime": "18:45 CEST"
+              },
+              "venue": {
+                "venueName": "De Grolsch Veste",
+                "city": "Enschede"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ned1_2627_r3_m9",
+              "homeTeamId": "team_afc_ajax",
+              "homeTeamName": "Ajax",
+              "awayTeamId": "team_willem_ii",
+              "awayTeamName": "Willem II",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "20:00 CEST"
+              },
+              "venue": {
+                "venueName": "Johan Cruijff ArenA",
+                "city": "Amsterdam"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "por.1",
+      "officialName": "Portuguese Primeira Liga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-22",
+          "endDateIso": "2026-09-10",
+          "matches": [
+            {
+              "matchId": "evt_por1_2627_r3_m1",
+              "homeTeamId": "team_maritimo",
+              "homeTeamName": "Marítimo",
+              "awayTeamId": "team_academico",
+              "awayTeamName": "Académico",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "15:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio do Marítimo",
+                "city": "Funchal"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m2",
+              "homeTeamId": "team_estoril_praia",
+              "homeTeamName": "Estoril Praia",
+              "awayTeamId": "team_rio_ave",
+              "awayTeamName": "Rio Ave",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "18:00 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio António Coimbra da Mota",
+                "city": "Estoril"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m3",
+              "homeTeamId": "team_sporting_cp",
+              "homeTeamName": "Sporting CP",
+              "awayTeamId": "team_fc_alverca",
+              "awayTeamName": "FC Alverca",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "20:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio José Alvalade",
+                "city": "Lisbon"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m4",
+              "homeTeamId": "team_vitoria_sc",
+              "homeTeamName": "Vitória SC",
+              "awayTeamId": "team_cd_nacional",
+              "awayTeamName": "CD Nacional",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "15:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio D. Afonso Henriques",
+                "city": "Guimarães"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m5",
+              "homeTeamId": "team_santa_clara",
+              "homeTeamName": "Santa Clara",
+              "awayTeamId": "team_fc_famalicao",
+              "awayTeamName": "FC Famalicão",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "18:00 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio de São Miguel",
+                "city": "Ponta Delgada"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m6",
+              "homeTeamId": "team_fc_porto",
+              "homeTeamName": "FC Porto",
+              "awayTeamId": "team_fc_arouca",
+              "awayTeamName": "FC Arouca",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "20:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio do Dragão",
+                "city": "Porto"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m7",
+              "homeTeamId": "team_gil_vicente",
+              "homeTeamName": "Gil Vicente",
+              "awayTeamId": "team_casa_pia_ac",
+              "awayTeamName": "Casa Pia AC",
+              "schedule": {
+                "dateIso": "2026-08-24",
+                "kickoffTimeUtc": "19:15:00Z",
+                "formattedLocalTime": "20:15 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio Cidade de Barcelos",
+                "city": "Barcelos"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m8",
+              "homeTeamId": "team_moreirense",
+              "homeTeamName": "Moreirense",
+              "awayTeamId": "team_sl_benfica",
+              "awayTeamName": "SL Benfica",
+              "schedule": {
+                "dateIso": "2026-09-09",
+                "kickoffTimeUtc": "19:15:00Z",
+                "formattedLocalTime": "20:15 WEST"
+              },
+              "venue": {
+                "venueName": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+                "city": "Moreira de Cónegos"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r3_m9",
+              "homeTeamId": "team_estrela_amadora",
+              "homeTeamName": "Estrela Amadora",
+              "awayTeamId": "team_sc_braga",
+              "awayTeamName": "SC Braga",
+              "schedule": {
+                "dateIso": "2026-09-10",
+                "kickoffTimeUtc": "19:15:00Z",
+                "formattedLocalTime": "20:15 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio José Gomes",
+                "city": "Amadora"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "bel.1",
+      "officialName": "Belgian Pro League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-21",
+          "endDateIso": "2026-09-03",
+          "matches": [
+            {
+              "matchId": "evt_bel1_2627_r3_m1",
+              "homeTeamId": "team_standard_liege",
+              "homeTeamName": "Standard de Liège",
+              "awayTeamId": "team_raal_la_louviere",
+              "awayTeamName": "RAAL La Louvière",
+              "schedule": {
+                "dateIso": "2026-08-21",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Maurice Dufrasnestadion",
+                "city": "Liège"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m2",
+              "homeTeamId": "team_zulte_waregem",
+              "homeTeamName": "SV Zulte Waregem",
+              "awayTeamId": "team_sk_beveren",
+              "awayTeamName": "SK Beveren",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "Elindus Arena",
+                "city": "Waregem"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m3",
+              "homeTeamId": "team_charleroi",
+              "homeTeamName": "Sporting Charleroi",
+              "awayTeamId": "team_kv_mechelen",
+              "awayTeamName": "KV Mechelen",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "16:15:00Z",
+                "formattedLocalTime": "18:15 CEST"
+              },
+              "venue": {
+                "venueName": "Stade du Pays de Charleroi",
+                "city": "Charleroi"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m4",
+              "homeTeamId": "team_royal_antwerp",
+              "homeTeamName": "Royal Antwerp FC",
+              "awayTeamId": "team_krc_genk",
+              "awayTeamName": "KRC Genk",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Bosuilstadion",
+                "city": "Antwerp"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m5",
+              "homeTeamId": "team_lommel_sk",
+              "homeTeamName": "Lommel SK",
+              "awayTeamId": "team_kvc_westerlo",
+              "awayTeamName": "KVC Westerlo",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "Soevereinstadion",
+                "city": "Lommel"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m6",
+              "homeTeamId": "team_club_brugge",
+              "homeTeamName": "Club Brugge",
+              "awayTeamId": "team_cercle_brugge",
+              "awayTeamName": "Cercle Brugge",
+              "schedule": {
+                "dateIso": "2026-08-23",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "18:30 CEST"
+              },
+              "venue": {
+                "venueName": "Jan Breydelstadion",
+                "city": "Bruges"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m7",
+              "homeTeamId": "team_stvv",
+              "homeTeamName": "STVV",
+              "awayTeamId": "team_royale_union_saint_gilloise",
+              "awayTeamName": "Royale Union Saint-Gilloise",
+              "schedule": {
+                "dateIso": "2026-09-02",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stayen",
+                "city": "Sint-Truiden"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m8",
+              "homeTeamId": "team_rsc_anderlecht",
+              "homeTeamName": "RSC Anderlecht",
+              "awayTeamId": "team_kv_kortrijk",
+              "awayTeamName": "KV Kortrijk",
+              "schedule": {
+                "dateIso": "2026-09-03",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "Lotto Park",
+                "city": "Anderlecht"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r3_m9",
+              "homeTeamId": "team_kaa_gent",
+              "homeTeamName": "KAA Gent",
+              "awayTeamId": "team_oh_leuven",
+              "awayTeamName": "OH Leuven",
+              "schedule": {
+                "dateIso": "2026-09-03",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "Planet Group Arena",
+                "city": "Ghent"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "sco.1",
+      "officialName": "Scottish Premiership",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-22",
+          "endDateIso": "2026-09-15",
+          "matches": [
+            {
+              "matchId": "evt_sco1_2627_r3_m1",
+              "homeTeamId": "team_dundee_united",
+              "homeTeamName": "Dundee United",
+              "awayTeamId": "team_dundee",
+              "awayTeamName": "Dundee",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "16:45:00Z",
+                "formattedLocalTime": "17:45 BST"
+              },
+              "venue": {
+                "venueName": "Tannadice Park",
+                "city": "Dundee"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m2",
+              "homeTeamId": "team_falkirk",
+              "homeTeamName": "Falkirk",
+              "awayTeamId": "team_heart_of_midlothian",
+              "awayTeamName": "Heart of Midlothian",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "19:45 BST"
+              },
+              "venue": {
+                "venueName": "Falkirk Stadium",
+                "city": "Falkirk"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m3",
+              "homeTeamId": "team_hibernian",
+              "homeTeamName": "Hibernian",
+              "awayTeamId": "team_kilmarnock",
+              "awayTeamName": "Kilmarnock",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "19:45 BST"
+              },
+              "venue": {
+                "venueName": "Easter Road",
+                "city": "Edinburgh"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m4",
+              "homeTeamId": "team_motherwell",
+              "homeTeamName": "Motherwell",
+              "awayTeamId": "team_aberdeen",
+              "awayTeamName": "Aberdeen",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "19:45 BST"
+              },
+              "venue": {
+                "venueName": "Fir Park",
+                "city": "Motherwell"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m5",
+              "homeTeamId": "team_rangers",
+              "homeTeamName": "Rangers",
+              "awayTeamId": "team_st_mirren",
+              "awayTeamName": "St Mirren",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Ibrox Stadium",
+                "city": "Glasgow"
+              },
+              "status": {
+                "matchStatus": "POSTPONED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m6",
+              "homeTeamId": "team_st_johnstone",
+              "homeTeamName": "St Johnstone",
+              "awayTeamId": "team_celtic",
+              "awayTeamName": "Celtic",
+              "schedule": {
+                "dateIso": "2026-08-22",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "McDiarmid Park",
+                "city": "Perth"
+              },
+              "status": {
+                "matchStatus": "POSTPONED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "tun.1",
+      "officialName": "Tunisian Ligue Professionnelle 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-09-05",
+          "endDateIso": "2026-09-05",
+          "matches": [
+            {
+              "matchId": "evt_tun1_2627_r3_m1",
+              "homeTeamId": "team_ca_bizertin",
+              "homeTeamName": "CA Bizertin",
+              "awayTeamId": "team_olympique_beja",
+              "awayTeamName": "Olympique Béja",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade 15 Octobre",
+                "city": "Bizerte"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m2",
+              "homeTeamId": "team_es_metlaoui",
+              "homeTeamName": "ES Métlaoui",
+              "awayTeamId": "team_es_hammam_sousse",
+              "awayTeamName": "ES Hammam-Sousse",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade de Métlaoui",
+                "city": "Métlaoui"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m3",
+              "homeTeamId": "team_esperance_de_tunis",
+              "homeTeamName": "Espérance de Tunis",
+              "awayTeamId": "team_as_la_marsa",
+              "awayTeamName": "AS La Marsa",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade Hammadi Agrebi",
+                "city": "Radès"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m4",
+              "homeTeamId": "team_esperance_zarzis",
+              "homeTeamName": "Espérance Zarzis",
+              "awayTeamId": "team_us_monastir",
+              "awayTeamName": "US Monastir",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade Complexe Zarzis",
+                "city": "Zarzis"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m5",
+              "homeTeamId": "team_etoile_du_sahel",
+              "homeTeamName": "Étoile du Sahel",
+              "awayTeamId": "team_js_omrane",
+              "awayTeamName": "JS Omrane",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade Olympique de Sousse",
+                "city": "Sousse"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m6",
+              "homeTeamId": "team_ps_sakiet_eddaier",
+              "homeTeamName": "PS Sakiet Eddaïer",
+              "awayTeamId": "team_cs_hammam_lif",
+              "awayTeamName": "CS Hammam-Lif",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade Municipal de Sakiet Eddaïer",
+                "city": "Sakiet Eddaïer"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m7",
+              "homeTeamId": "team_stade_tunisien",
+              "homeTeamName": "Stade Tunisien",
+              "awayTeamId": "team_club_africain",
+              "awayTeamName": "Club Africain",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade Hédi Enneifer",
+                "city": "Bardo"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tun1_2627_r3_m8",
+              "homeTeamId": "team_us_ben_guerdane",
+              "homeTeamName": "US Ben Guerdane",
+              "awayTeamId": "team_cs_sfaxien",
+              "awayTeamName": "CS Sfaxien",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "16:00 WAT"
+              },
+              "venue": {
+                "venueName": "Stade 7 Mars",
+                "city": "Ben Guerdane"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "ksa.1",
+      "officialName": "Saudi Pro League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-24",
+          "endDateIso": "2026-09-01",
+          "matches": [
+            {
+              "matchId": "evt_ksa1_2627_r3_m1",
+              "homeTeamId": "team_neom_sc",
+              "homeTeamName": "NEOM SC",
+              "awayTeamId": "team_al_qadsiah",
+              "awayTeamName": "Al Qadsiah",
+              "schedule": {
+                "dateIso": "2026-08-24",
+                "kickoffTimeUtc": "16:40:00Z",
+                "formattedLocalTime": "19:40 KSA"
+              },
+              "venue": {
+                "venueName": "King Khalid Sports City Stadium",
+                "city": "Tabuk"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m2",
+              "homeTeamId": "team_al_ittihad",
+              "homeTeamName": "Al Ittihad",
+              "awayTeamId": "team_al_hazem",
+              "awayTeamName": "Al Hazem",
+              "schedule": {
+                "dateIso": "2026-08-24",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 KSA"
+              },
+              "venue": {
+                "venueName": "Prince Abdullah Al Faisal Stadium",
+                "city": "Jeddah"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m3",
+              "homeTeamId": "team_abha",
+              "homeTeamName": "Abha",
+              "awayTeamId": "team_al_khaleej",
+              "awayTeamName": "Al Khaleej",
+              "schedule": {
+                "dateIso": "2026-08-25",
+                "kickoffTimeUtc": "16:05:00Z",
+                "formattedLocalTime": "19:05 KSA"
+              },
+              "venue": {
+                "venueName": "Prince Sultan bin Abdulaziz Sports City",
+                "city": "Abha"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m4",
+              "homeTeamId": "team_al_taawoun",
+              "homeTeamName": "Al Taawoun",
+              "awayTeamId": "team_al_fayha",
+              "awayTeamName": "Al Fayha",
+              "schedule": {
+                "dateIso": "2026-08-25",
+                "kickoffTimeUtc": "16:10:00Z",
+                "formattedLocalTime": "19:10 KSA"
+              },
+              "venue": {
+                "venueName": "Al Taawoun Club Stadium",
+                "city": "Buraidah"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m5",
+              "homeTeamId": "team_al_ettifaq",
+              "homeTeamName": "Al Ettifaq",
+              "awayTeamId": "team_al_nassr",
+              "awayTeamName": "Al Nassr",
+              "schedule": {
+                "dateIso": "2026-08-25",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 KSA"
+              },
+              "venue": {
+                "venueName": "Al Ettifaq Stadium",
+                "city": "Dammam"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m6",
+              "homeTeamId": "team_al_shabab",
+              "homeTeamName": "Al Shabab",
+              "awayTeamId": "team_al_riyadh",
+              "awayTeamName": "Al Riyadh",
+              "schedule": {
+                "dateIso": "2026-08-25",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 KSA"
+              },
+              "venue": {
+                "venueName": "SHG Arena",
+                "city": "Riyadh"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m7",
+              "homeTeamId": "team_al_faisaly",
+              "homeTeamName": "Al Faisaly",
+              "awayTeamId": "team_al_fateh",
+              "awayTeamName": "Al Fateh",
+              "schedule": {
+                "dateIso": "2026-08-26",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 KSA"
+              },
+              "venue": {
+                "venueName": "Al Majma'ah Sports City",
+                "city": "Al Majma'ah"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m8",
+              "homeTeamId": "team_diriyah",
+              "homeTeamName": "Diriyah",
+              "awayTeamId": "team_al_kholood",
+              "awayTeamName": "Al Kholood",
+              "schedule": {
+                "dateIso": "2026-08-26",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 KSA"
+              },
+              "venue": {
+                "venueName": "Prince Faisal bin Fahd Stadium",
+                "city": "Riyadh"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ksa1_2627_r3_m9",
+              "homeTeamId": "team_al_hilal",
+              "homeTeamName": "Al Hilal",
+              "awayTeamId": "team_al_ahli",
+              "awayTeamName": "Al Ahli",
+              "schedule": {
+                "dateIso": "2026-09-01",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 KSA"
+              },
+              "venue": {
+                "venueName": "Kingdom Arena",
+                "city": "Riyadh"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "can.1",
+      "officialName": "Canadian Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-04-18",
+          "endDateIso": "2026-04-19",
+          "matches": [
+            {
+              "matchId": "evt_can1_2627_r3_m1",
+              "homeTeamId": "team_hfx_wanderers",
+              "homeTeamName": "HFX Wanderers",
+              "awayTeamId": "team_pacific_fc",
+              "awayTeamName": "Pacific FC",
+              "schedule": {
+                "dateIso": "2026-04-18",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "14:00 ADT"
+              },
+              "venue": {
+                "venueName": "Wanderers Grounds",
+                "city": "Halifax"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_can1_2627_r3_m2",
+              "homeTeamId": "team_forge_fc",
+              "homeTeamName": "Forge FC",
+              "awayTeamId": "team_cavalry_fc",
+              "awayTeamName": "Cavalry FC",
+              "schedule": {
+                "dateIso": "2026-04-18",
+                "kickoffTimeUtc": "20:00:00Z",
+                "formattedLocalTime": "16:00 EDT"
+              },
+              "venue": {
+                "venueName": "Tim Hortons Field",
+                "city": "Hamilton"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_can1_2627_r3_m3",
+              "homeTeamId": "team_fc_supra",
+              "homeTeamName": "FC Supra",
+              "awayTeamId": "team_atletico_ottawa",
+              "awayTeamName": "Atlético Ottawa",
+              "schedule": {
+                "dateIso": "2026-04-19",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "14:00 EDT"
+              },
+              "venue": {
+                "venueName": "Stade du CEPSUM",
+                "city": "Montreal"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_can1_2627_r3_m4",
+              "homeTeamId": "team_inter_toronto",
+              "homeTeamName": "Inter Toronto",
+              "awayTeamId": "team_vancouver_fc",
+              "awayTeamName": "Vancouver FC",
+              "schedule": {
+                "dateIso": "2026-04-19",
+                "kickoffTimeUtc": "21:00:00Z",
+                "formattedLocalTime": "17:00 EDT"
+              },
+              "venue": {
+                "venueName": "York Lions Stadium",
+                "city": "Toronto"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "aut.1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-14",
+          "endDateIso": "2026-08-16",
+          "matches": [
+            {
+              "matchId": "evt_aut1_2627_r3_m1",
+              "homeTeamId": "team_lask",
+              "homeTeamName": "LASK",
+              "awayTeamId": "team_sv_oberbank_ried",
+              "awayTeamName": "SV Oberbank Ried",
+              "schedule": {
+                "dateIso": "2026-08-14",
+                "kickoffTimeUtc": "17:30:00Z",
+                "formattedLocalTime": "19:30 CEST"
+              },
+              "venue": {
+                "venueName": "Raiffeisen Arena",
+                "city": "Linz"
+              },
+              "status": {
+                "matchStatus": "FINISHED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": 4,
+                "awayScore": 1,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r3_m2",
+              "homeTeamId": "team_sc_austria_lustenau",
+              "homeTeamName": "SC Austria Lustenau",
+              "awayTeamId": "team_rz_pellets_wac",
+              "awayTeamName": "RZ Pellets WAC",
+              "schedule": {
+                "dateIso": "2026-08-15",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CEST"
+              },
+              "venue": {
+                "venueName": "SUN MINIMEAL Arena",
+                "city": "Lustenau"
+              },
+              "status": {
+                "matchStatus": "FINISHED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": 2,
+                "awayScore": 1,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r3_m3",
+              "homeTeamId": "team_sk_puntigamer_sturm_graz",
+              "homeTeamName": "SK Puntigamer Sturm Graz",
+              "awayTeamId": "team_scr_altach",
+              "awayTeamName": "SCR Altach",
+              "schedule": {
+                "dateIso": "2026-08-15",
+                "kickoffTimeUtc": "17:30:00Z",
+                "formattedLocalTime": "19:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion Graz-Liebenau",
+                "city": "Graz"
+              },
+              "status": {
+                "matchStatus": "FINISHED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": 1,
+                "awayScore": 0,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r3_m4",
+              "homeTeamId": "team_tsv_egger_glas_hartberg",
+              "homeTeamName": "TSV Egger Glas Hartberg",
+              "awayTeamId": "team_fk_austria_wien",
+              "awayTeamName": "FK Austria Wien",
+              "schedule": {
+                "dateIso": "2026-08-16",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CEST"
+              },
+              "venue": {
+                "venueName": "Profertil Arena Hartberg",
+                "city": "Hartberg"
+              },
+              "status": {
+                "matchStatus": "FINISHED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": 0,
+                "awayScore": 2,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r3_m5",
+              "homeTeamId": "team_wsg_tirol",
+              "homeTeamName": "WSG Tirol",
+              "awayTeamId": "team_fc_red_bull_salzburg",
+              "awayTeamName": "FC Red Bull Salzburg",
+              "schedule": {
+                "dateIso": "2026-08-16",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CEST"
+              },
+              "venue": {
+                "venueName": "Tivoli Stadion Tirol",
+                "city": "Innsbruck"
+              },
+              "status": {
+                "matchStatus": "FINISHED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": 0,
+                "awayScore": 3,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r3_m6",
+              "homeTeamId": "team_sk_rapid",
+              "homeTeamName": "SK Rapid",
+              "awayTeamId": "team_grazer_ak_1902",
+              "awayTeamName": "Grazer AK 1902",
+              "schedule": {
+                "dateIso": "2026-08-16",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "Allianz Stadion",
+                "city": "Vienna"
+              },
+              "status": {
+                "matchStatus": "FINISHED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": 8,
+                "awayScore": 0,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "sui.1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-08",
+          "endDateIso": "2026-08-09",
+          "matches": [
+            {
+              "matchId": "evt_sui1_2627_r3_m1",
+              "homeTeamId": "team_fc_lausanne_sport",
+              "homeTeamName": "FC Lausanne-Sport",
+              "awayTeamId": "team_bsc_young_boys",
+              "awayTeamName": "BSC Young Boys",
+              "schedule": {
+                "dateIso": "2026-08-08",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stade de la Tuilière",
+                "city": "Lausanne"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sui1_2627_r3_m2",
+              "homeTeamId": "team_servette_fc",
+              "homeTeamName": "Servette FC",
+              "awayTeamId": "team_grasshopper_club_zurich",
+              "awayTeamName": "Grasshopper Club Zürich",
+              "schedule": {
+                "dateIso": "2026-08-08",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stade de Genève",
+                "city": "Geneva"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sui1_2627_r3_m3",
+              "homeTeamId": "team_fc_lugano",
+              "homeTeamName": "FC Lugano",
+              "awayTeamId": "team_fc_zurich",
+              "awayTeamName": "FC Zürich",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "AIL Arena",
+                "city": "Lugano"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sui1_2627_r3_m4",
+              "homeTeamId": "team_fc_sion",
+              "homeTeamName": "FC Sion",
+              "awayTeamId": "team_fc_vaduz",
+              "awayTeamName": "FC Vaduz",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "16:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stade de Tourbillon",
+                "city": "Sion"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sui1_2627_r3_m5",
+              "homeTeamId": "team_fc_st_gallen_1879",
+              "homeTeamName": "FC St. Gallen 1879",
+              "awayTeamId": "team_fc_luzern",
+              "awayTeamName": "FC Luzern",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "16:30 CEST"
+              },
+              "venue": {
+                "venueName": "Kybunpark",
+                "city": "St. Gallen"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sui1_2627_r3_m6",
+              "homeTeamId": "team_fc_basel_1893",
+              "homeTeamName": "FC Basel 1893",
+              "awayTeamId": "team_fc_thun_berner_oberland",
+              "awayTeamName": "FC Thun Berner Oberland",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "16:30 CEST"
+              },
+              "venue": {
+                "venueName": "St. Jakob-Park",
+                "city": "Basel"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "tur.1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-28",
+          "endDateIso": "2026-08-31",
+          "matches": [
+            {
+              "matchId": "evt_tur1_2627_r3_m1",
+              "homeTeamId": "team_genclerbirligi",
+              "homeTeamName": "Gençlerbirliği",
+              "awayTeamId": "team_erzurumspor_fk",
+              "awayTeamName": "Erzurumspor FK",
+              "schedule": {
+                "dateIso": "2026-08-28",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Eryaman Stadyumu",
+                "city": "Ankara"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m2",
+              "homeTeamId": "team_tumosan_konyaspor",
+              "homeTeamName": "TÜMOSAN Konyaspor",
+              "awayTeamId": "team_kocaelispor",
+              "awayTeamName": "Kocaelispor",
+              "schedule": {
+                "dateIso": "2026-08-29",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 TRT"
+              },
+              "venue": {
+                "venueName": "Konya Büyükşehir Belediye Stadyumu",
+                "city": "Konya"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m3",
+              "homeTeamId": "team_gaziantep_fk",
+              "homeTeamName": "Gaziantep Futbol Kulübü A.Ş.",
+              "awayTeamId": "team_caykur_rizespor",
+              "awayTeamName": "Çaykur Rizespor A.Ş.",
+              "schedule": {
+                "dateIso": "2026-08-29",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Gaziantep Stadyumu",
+                "city": "Gaziantep"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m4",
+              "homeTeamId": "team_galatasaray",
+              "homeTeamName": "Galatasaray A.Ş.",
+              "awayTeamId": "team_goztepe",
+              "awayTeamName": "Göztepe A.Ş.",
+              "schedule": {
+                "dateIso": "2026-08-29",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Ali Sami Yen Spor Kompleksi RAMS Park",
+                "city": "Istanbul"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m5",
+              "homeTeamId": "team_eyupspor",
+              "homeTeamName": "Eyüpspor",
+              "awayTeamId": "team_corendon_alanyaspor",
+              "awayTeamName": "Corendon Alanyaspor",
+              "schedule": {
+                "dateIso": "2026-08-30",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 TRT"
+              },
+              "venue": {
+                "venueName": "Eyüp Stadyumu",
+                "city": "Istanbul"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m6",
+              "homeTeamId": "team_istanbul_basaksehir_fk",
+              "homeTeamName": "İstanbul Başakşehir FK",
+              "awayTeamId": "team_kasimpasa",
+              "awayTeamName": "Kasımpaşa A.Ş.",
+              "schedule": {
+                "dateIso": "2026-08-30",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Başakşehir Fatih Terim Stadyumu",
+                "city": "Istanbul"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m7",
+              "homeTeamId": "team_samsunspor",
+              "homeTeamName": "Samsunspor A.Ş.",
+              "awayTeamId": "team_fenerbahce",
+              "awayTeamName": "Fenerbahçe A.Ş.",
+              "schedule": {
+                "dateIso": "2026-08-30",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Samsun Yeni 19 Mayıs Stadyumu",
+                "city": "Samsun"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m8",
+              "homeTeamId": "team_amed_sportif",
+              "homeTeamName": "Amed Sportif Faaliyetler",
+              "awayTeamId": "team_trabzonspor",
+              "awayTeamName": "Trabzonspor A.Ş.",
+              "schedule": {
+                "dateIso": "2026-08-31",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Diyarbakır Stadyumu",
+                "city": "Diyarbakır"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r3_m9",
+              "homeTeamId": "team_besiktas",
+              "homeTeamName": "Beşiktaş A.Ş.",
+              "awayTeamId": "team_corum_fk",
+              "awayTeamName": "Arca Çorum FK",
+              "schedule": {
+                "dateIso": "2026-08-31",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 TRT"
+              },
+              "venue": {
+                "venueName": "Tüpraş Stadyumu",
+                "city": "Istanbul"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "gre.1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-09-05",
+          "endDateIso": "2026-09-07",
+          "matches": [
+            {
+              "matchId": "evt_gre1_2627_r3_m1",
+              "homeTeamId": "team_volos_nfc",
+              "homeTeamName": "Volos NFC",
+              "awayTeamId": "team_olympiacos",
+              "awayTeamName": "Olympiacos FC",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "Panthessaliko Stadium",
+                "city": "Volos"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r3_m2",
+              "homeTeamId": "team_aek_athens",
+              "homeTeamName": "AEK Athens FC",
+              "awayTeamId": "team_aris_fc",
+              "awayTeamName": "Aris FC",
+              "schedule": {
+                "dateIso": "2026-09-05",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 EEST"
+              },
+              "venue": {
+                "venueName": "Allwyn Arena",
+                "city": "Athens"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r3_m3",
+              "homeTeamId": "team_atromitos",
+              "homeTeamName": "Atromitos FC",
+              "awayTeamId": "team_kalamata_fc",
+              "awayTeamName": "Kalamata FC",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "Peristeri Municipal Stadium",
+                "city": "Peristeri"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r3_m4",
+              "homeTeamId": "team_ofi_crete",
+              "homeTeamName": "OFI Crete FC",
+              "awayTeamId": "team_kifisia_fc",
+              "awayTeamName": "Kifisia FC",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "19:30 EEST"
+              },
+              "venue": {
+                "venueName": "Pankritio Stadium",
+                "city": "Heraklion"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r3_m5",
+              "homeTeamId": "team_levadiakos",
+              "homeTeamName": "Levadiakos FC",
+              "awayTeamId": "team_panaitolikos",
+              "awayTeamName": "Panaitolikos FC",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "20:00 EEST"
+              },
+              "venue": {
+                "venueName": "Livadeia Municipal Stadium",
+                "city": "Livadeia"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r3_m6",
+              "homeTeamId": "team_panathinaikos",
+              "homeTeamName": "Panathinaikos FC",
+              "awayTeamId": "team_paok",
+              "awayTeamName": "PAOK FC",
+              "schedule": {
+                "dateIso": "2026-09-06",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 EEST"
+              },
+              "venue": {
+                "venueName": "Olympic Stadium (OAKA)",
+                "city": "Athens"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r3_m7",
+              "homeTeamId": "team_pot_iraklis",
+              "homeTeamName": "P.O.T. Iraklis",
+              "awayTeamId": "team_asteras_aktor",
+              "awayTeamName": "Asteras AKTOR FC",
+              "schedule": {
+                "dateIso": "2026-09-07",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "18:00 EEST"
+              },
+              "venue": {
+                "venueName": "Theodoros Kolokotronis Stadium",
+                "city": "Tripoli"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "den.1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-07",
+          "endDateIso": "2026-09-03",
+          "matches": [
+            {
+              "matchId": "evt_den1_2627_r3_m1",
+              "homeTeamId": "team_sonderjyske_fodbold",
+              "homeTeamName": "Sønderjyske Fodbold",
+              "awayTeamId": "team_viborg_ff",
+              "awayTeamName": "Viborg FF",
+              "schedule": {
+                "dateIso": "2026-08-07",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "AL Sydbank Park",
+                "city": "Haderslev"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r3_m2",
+              "homeTeamId": "team_randers_fc",
+              "homeTeamName": "Randers FC",
+              "awayTeamId": "team_lyngby_bk",
+              "awayTeamName": "Lyngby BK",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "16:00 CEST"
+              },
+              "venue": {
+                "venueName": "Cepheus Park Randers",
+                "city": "Randers"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r3_m3",
+              "homeTeamId": "team_ac_horsens",
+              "homeTeamName": "AC Horsens",
+              "awayTeamId": "team_brondby_if",
+              "awayTeamName": "Brøndby IF",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Hybel Arena Horsens",
+                "city": "Horsens"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r3_m4",
+              "homeTeamId": "team_silkeborg_if",
+              "homeTeamName": "Silkeborg IF",
+              "awayTeamId": "team_odense_bk",
+              "awayTeamName": "Odense BK",
+              "schedule": {
+                "dateIso": "2026-08-10",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "JYSK park",
+                "city": "Silkeborg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r3_m5",
+              "homeTeamId": "team_agf",
+              "homeTeamName": "AGF",
+              "awayTeamId": "team_fc_midtjylland",
+              "awayTeamName": "FC Midtjylland",
+              "schedule": {
+                "dateIso": "2026-09-02",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "20:00 CEST"
+              },
+              "venue": {
+                "venueName": "Ceres Park Vejlby",
+                "city": "Aarhus"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r3_m6",
+              "homeTeamId": "team_fc_kobenhavn",
+              "homeTeamName": "FC København",
+              "awayTeamId": "team_fc_nordsjaelland",
+              "awayTeamName": "FC Nordsjælland",
+              "schedule": {
+                "dateIso": "2026-09-03",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "20:00 CEST"
+              },
+              "venue": {
+                "venueName": "Parken",
+                "city": "Copenhagen"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "pol.1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 3,
+          "roundName": "Round 3 - الجولة الثالثة",
+          "startDateIso": "2026-08-07",
+          "endDateIso": "2026-10-12",
+          "matches": [
+            {
+              "matchId": "evt_pol1_2627_r3_m1",
+              "homeTeamId": "team_wisla_krakow",
+              "homeTeamName": "Wisła Kraków",
+              "awayTeamId": "team_wisla_plock",
+              "awayTeamName": "Wisła Płock",
+              "schedule": {
+                "dateIso": "2026-08-07",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "Synerise Arena - Stadion Miejski im. Henryka Reymana",
+                "city": "Kraków"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m2",
+              "homeTeamId": "team_radomiak_radom",
+              "homeTeamName": "Radomiak Radom",
+              "awayTeamId": "team_gornik_zabrze",
+              "awayTeamName": "Górnik Zabrze",
+              "schedule": {
+                "dateIso": "2026-08-08",
+                "kickoffTimeUtc": "12:45:00Z",
+                "formattedLocalTime": "14:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion im. Braci Czachorów",
+                "city": "Radom"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m3",
+              "homeTeamId": "team_pogon_szczecin",
+              "homeTeamName": "Pogoń Szczecin",
+              "awayTeamId": "team_motor_lublin",
+              "awayTeamName": "Motor Lublin",
+              "schedule": {
+                "dateIso": "2026-08-08",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "17:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion Miejski im. Floriana Krygiera",
+                "city": "Szczecin"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m4",
+              "homeTeamId": "team_korona_kielce",
+              "homeTeamName": "Korona Kielce",
+              "awayTeamId": "team_legia_warszawa",
+              "awayTeamName": "Legia Warszawa",
+              "schedule": {
+                "dateIso": "2026-08-08",
+                "kickoffTimeUtc": "18:15:00Z",
+                "formattedLocalTime": "20:15 CEST"
+              },
+              "venue": {
+                "venueName": "EXBUD Arena",
+                "city": "Kielce"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m5",
+              "homeTeamId": "team_slask_wroclaw",
+              "homeTeamName": "Śląsk Wrocław",
+              "awayTeamId": "team_cracovia",
+              "awayTeamName": "Cracovia",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "12:45:00Z",
+                "formattedLocalTime": "14:45 CEST"
+              },
+              "venue": {
+                "venueName": "Tarczyński Arena Wrocław",
+                "city": "Wrocław"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m6",
+              "homeTeamId": "team_lech_poznan",
+              "homeTeamName": "Lech Poznań",
+              "awayTeamId": "team_piast_gliwice",
+              "awayTeamName": "Piast Gliwice",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "17:30 CEST"
+              },
+              "venue": {
+                "venueName": "Enea Stadion",
+                "city": "Poznań"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m7",
+              "homeTeamId": "team_jagiellonia_bialystok",
+              "homeTeamName": "Jagiellonia Białystok",
+              "awayTeamId": "team_widzew_lodz",
+              "awayTeamName": "Widzew Łódź",
+              "schedule": {
+                "dateIso": "2026-08-09",
+                "kickoffTimeUtc": "18:15:00Z",
+                "formattedLocalTime": "20:15 CEST"
+              },
+              "venue": {
+                "venueName": "Chorten Arena",
+                "city": "Białystok"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m8",
+              "homeTeamId": "team_rakow_czestochowa",
+              "homeTeamName": "Raków Częstochowa",
+              "awayTeamId": "team_kghm_zaglebie_lubin",
+              "awayTeamName": "KGHM Zagłębie Lubin",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Miejski Stadion Piłkarski Raków w Częstochowie",
+                "city": "Częstochowa"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_r3_m9",
+              "homeTeamId": "team_gks_katowice",
+              "homeTeamName": "GKS Katowice",
+              "awayTeamId": "team_wieczysta_krakow",
+              "awayTeamName": "Wieczysta Kraków",
+              "schedule": {
+                "dateIso": "2026-10-12",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "Arena Katowice",
+                "city": "Katowice"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
