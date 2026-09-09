@@ -1058,6 +1058,257 @@
           "startDateIso": "2026-09-04",
           "endDateIso": "2026-09-07",
           "matches": []
+        },
+        {
+          "roundNumber": 4,
+          "roundName": "Round 4 - الجولة الرابعة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_ita1_2627_r4_m1",
+              "homeTeamId": "team_genoa",
+              "homeTeamName": "Genoa",
+              "awayTeamId": "team_frosinone",
+              "awayTeamName": "Frosinone",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Luigi Ferraris",
+                "city": "Genoa"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m2",
+              "homeTeamId": "team_lazio",
+              "homeTeamName": "Lazio",
+              "awayTeamId": "team_milan",
+              "awayTeamName": "Milan",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Olimpico",
+                "city": "Rome"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m3",
+              "homeTeamId": "team_atalanta",
+              "homeTeamName": "Atalanta",
+              "awayTeamId": "team_cagliari",
+              "awayTeamName": "Cagliari",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "New Balance Arena",
+                "city": "Bergamo"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m4",
+              "homeTeamId": "team_torino",
+              "homeTeamName": "Torino",
+              "awayTeamId": "team_roma",
+              "awayTeamName": "Roma",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "10:30:00Z",
+                "formattedLocalTime": "12:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Olimpico Grande Torino",
+                "city": "Turin"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m5",
+              "homeTeamId": "team_como",
+              "homeTeamName": "Como",
+              "awayTeamId": "team_parma",
+              "awayTeamName": "Parma",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Giuseppe Sinigaglia",
+                "city": "Como"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m6",
+              "homeTeamId": "team_lecce",
+              "homeTeamName": "Lecce",
+              "awayTeamId": "team_monza",
+              "awayTeamName": "Monza",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Via del Mare",
+                "city": "Lecce"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m7",
+              "homeTeamId": "team_napoli",
+              "homeTeamName": "Napoli",
+              "awayTeamId": "team_bologna",
+              "awayTeamName": "Bologna",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Diego Armando Maradona",
+                "city": "Naples"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m8",
+              "homeTeamId": "team_sassuolo",
+              "homeTeamName": "Sassuolo",
+              "awayTeamId": "team_juventus",
+              "awayTeamName": "Juventus",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "MAPEI Stadium – Città del Tricolore",
+                "city": "Reggio Emilia"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ita1_2627_r4_m9",
+              "homeTeamId": "team_inter",
+              "homeTeamName": "Inter",
+              "awayTeamId": "team_udinese",
+              "awayTeamName": "Udinese",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stadio Giuseppe Meazza",
+                "city": "Milan"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
