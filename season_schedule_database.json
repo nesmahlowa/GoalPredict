@@ -2895,6 +2895,230 @@
           "startDateIso": "2026-08-28",
           "endDateIso": "2026-08-31",
           "matches": []
+        },
+        {
+          "roundNumber": 5,
+          "roundName": "Round 5 - الجولة الخامسة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_tur1_2627_r5_m1",
+              "homeTeamId": "team_eyupspor",
+              "homeTeamName": "Eyüpspor",
+              "awayTeamId": "team_caykur_rizespor",
+              "awayTeamName": "Çaykur Rizespor",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "17:00 TRT"
+              },
+              "venue": {
+                "venueName": "Esenyurt Necmi Kadıoğlu Stadyumu",
+                "city": "Istanbul"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m2",
+              "homeTeamId": "team_samsunspor",
+              "homeTeamName": "Samsunspor A.Ş.",
+              "awayTeamId": "team_corum_fk",
+              "awayTeamName": "Çorum FK",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "17:00 TRT"
+              },
+              "venue": {
+                "venueName": "Samsun Yeni 19 Mayıs Stadyumu",
+                "city": "Samsun"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m3",
+              "homeTeamId": "team_alanyaspor",
+              "homeTeamName": "Corendon Alanyaspor",
+              "awayTeamId": "team_goztepe",
+              "awayTeamName": "Göztepe A.Ş.",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "20:00 TRT"
+              },
+              "venue": {
+                "venueName": "Alanya Oba Stadyumu",
+                "city": "Alanya"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m4",
+              "homeTeamId": "team_konyaspor",
+              "homeTeamName": "TÜMOSAN Konyaspor",
+              "awayTeamId": "team_canonical_trabzonspor",
+              "awayTeamName": "Trabzonspor Club",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "20:00 TRT"
+              },
+              "venue": {
+                "venueName": "Konya Büyükşehir Belediye Stadyumu",
+                "city": "Konya"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m5",
+              "homeTeamId": "team_genclerbirligi",
+              "homeTeamName": "Gençlerbirliği",
+              "awayTeamId": "team_kasimpasa",
+              "awayTeamName": "Kasımpaşa A.Ş.",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "17:00 TRT"
+              },
+              "venue": {
+                "venueName": "Eryaman Stadyumu",
+                "city": "Ankara"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m6",
+              "homeTeamId": "team_amed_sf",
+              "homeTeamName": "Amed Sportif Faaliyetler",
+              "awayTeamId": "team_basaksehir",
+              "awayTeamName": "İstanbul Başakşehir FK",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "20:00 TRT"
+              },
+              "venue": {
+                "venueName": "Diyarbakır Stadyumu",
+                "city": "Diyarbakır"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m7",
+              "homeTeamId": "team_canonical_galatasaray",
+              "homeTeamName": "Galatasaray SK",
+              "awayTeamId": "team_kocaelispor",
+              "awayTeamName": "Kocaelispor",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "20:00 TRT"
+              },
+              "venue": {
+                "venueName": "Ali Sami Yen Spor Kompleksi RAMS Park",
+                "city": "Istanbul"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_tur1_2627_r5_m8",
+              "homeTeamId": "team_gaziantep_fk",
+              "homeTeamName": "Gaziantep Futbol Kulübü A.Ş.",
+              "awayTeamId": "team_canonical_fenerbahce",
+              "awayTeamName": "Fenerbahçe SK",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "20:00 TRT"
+              },
+              "venue": {
+                "venueName": "Gaziantep Stadyumu",
+                "city": "Gaziantep"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
