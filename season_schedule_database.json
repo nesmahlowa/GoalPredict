@@ -2327,9 +2327,91 @@
         {
           "roundNumber": 3,
           "roundName": "Round 3 - الجولة الثالثة",
-          "startDateIso": "2026-08-22",
+          "startDateIso": "2026-09-15",
           "endDateIso": "2026-09-15",
-          "matches": []
+          "matches": [
+            {
+              "matchId": "evt_sco1_2627_r3_m1",
+              "homeTeamId": "team_falkirk",
+              "homeTeamName": "Falkirk",
+              "awayTeamId": "team_heart_of_midlothian",
+              "awayTeamName": "Hearts",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "19:45 BST"
+              },
+              "venue": {
+                "venueName": "Falkirk Stadium",
+                "city": "Falkirk"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m2",
+              "homeTeamId": "team_hibernian",
+              "homeTeamName": "Hibernian",
+              "awayTeamId": "team_kilmarnock",
+              "awayTeamName": "Kilmarnock",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "19:45 BST"
+              },
+              "venue": {
+                "venueName": "Easter Road",
+                "city": "Edinburgh"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_sco1_2627_r3_m3",
+              "homeTeamId": "team_motherwell",
+              "homeTeamName": "Motherwell",
+              "awayTeamId": "team_aberdeen",
+              "awayTeamName": "Aberdeen",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "19:45 BST"
+              },
+              "venue": {
+                "venueName": "Fir Park",
+                "city": "Motherwell"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
