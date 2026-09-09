@@ -1323,6 +1323,230 @@
           "startDateIso": "2026-09-03",
           "endDateIso": "2026-09-06",
           "matches": []
+        },
+        {
+          "roundNumber": 4,
+          "roundName": "Round 4 - الجولة الرابعة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "evt_fra1_2627_r4_m1",
+              "homeTeamId": "team_strasbourg",
+              "homeTeamName": "Strasbourg",
+              "awayTeamId": "team_monaco",
+              "awayTeamName": "AS Monaco",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "15:15:00Z",
+                "formattedLocalTime": "17:15 CEST"
+              },
+              "venue": {
+                "venueName": "Stade de la Meinau",
+                "city": "Strasbourg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m2",
+              "homeTeamId": "team_auxerre",
+              "homeTeamName": "Auxerre",
+              "awayTeamId": "team_nice",
+              "awayTeamName": "Nice",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade de l'Abbé-Deschamps",
+                "city": "Auxerre"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m3",
+              "homeTeamId": "team_le_havre",
+              "homeTeamName": "Le Havre",
+              "awayTeamId": "team_angers",
+              "awayTeamName": "Angers",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Océane",
+                "city": "Le Havre"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m4",
+              "homeTeamId": "team_lorient",
+              "homeTeamName": "Lorient",
+              "awayTeamId": "team_toulouse",
+              "awayTeamName": "Toulouse",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Yves-Allainmat",
+                "city": "Lorient"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m5",
+              "homeTeamId": "team_paris_fc",
+              "homeTeamName": "Paris FC",
+              "awayTeamId": "team_lyon",
+              "awayTeamName": "Lyon",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Jean-Bouin",
+                "city": "Paris"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m6",
+              "homeTeamId": "team_lille",
+              "homeTeamName": "Lille",
+              "awayTeamId": "team_troyes",
+              "awayTeamName": "Troyes",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "15:00 CEST"
+              },
+              "venue": {
+                "venueName": "Decathlon Arena – Stade Pierre-Mauroy",
+                "city": "Villeneuve-d'Ascq"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m7",
+              "homeTeamId": "team_le_mans",
+              "homeTeamName": "Le Mans",
+              "awayTeamId": "team_lens",
+              "awayTeamName": "Lens",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:15:00Z",
+                "formattedLocalTime": "17:15 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Marie-Marvingt",
+                "city": "Le Mans"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fra1_2627_r4_m8",
+              "homeTeamId": "team_brest",
+              "homeTeamName": "Brest",
+              "awayTeamId": "team_paris_saint_germain",
+              "awayTeamName": "Paris Saint-Germain",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Francis-Le Blé",
+                "city": "Brest"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
