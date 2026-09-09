@@ -4965,6 +4965,183 @@
           ]
         }
       ]
+    },
+    {
+      "leagueId": "rou.1",
+      "officialName": "Romanian Liga I",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 9,
+          "roundName": "Round 9 - الجولة التاسعة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_rou1_2627_r9_m1",
+              "homeTeamId": "team_sepsi_osk",
+              "homeTeamName": "Sepsi OSK Sfântu Gheorghe",
+              "awayTeamId": "team_cfr_cluj",
+              "awayTeamName": "CFR 1907 Cluj",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "18:30 EEST"
+              },
+              "venue": {
+                "venueName": "Sepsi Arena",
+                "city": "Sfântu Gheorghe"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_rou1_2627_r9_m2",
+              "homeTeamId": "team_rapid_bucuresti",
+              "homeTeamName": "FC Rapid 1923",
+              "awayTeamId": "team_fc_voluntari",
+              "awayTeamName": "FC Voluntari",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 EEST"
+              },
+              "venue": {
+                "venueName": "Stadion Rapid Giulești",
+                "city": "Bucharest"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_rou1_2627_r9_m3",
+              "homeTeamId": "team_fc_arges",
+              "homeTeamName": "FC Argeș",
+              "awayTeamId": "team_fc_botosani",
+              "awayTeamName": "FC Botoșani",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "15:00 EEST"
+              },
+              "venue": {
+                "venueName": "Stadion Municipal",
+                "city": "Mioveni"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_rou1_2627_r9_m4",
+              "homeTeamId": "team_corvinul_hunedoara",
+              "homeTeamName": "Corvinul Hunedoara",
+              "awayTeamId": "team_universitatea_craiova",
+              "awayTeamName": "Universitatea Craiova",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "17:30:00Z",
+                "formattedLocalTime": "20:30 EEST"
+              },
+              "venue": {
+                "venueName": "Arena Francisc Neuman",
+                "city": "Arad"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_rou1_2627_r9_m5",
+              "homeTeamId": "team_universitatea_cluj",
+              "homeTeamName": "Universitatea Cluj",
+              "awayTeamId": "team_otelul_galati",
+              "awayTeamName": "Oțelul Galați",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "18:00 EEST"
+              },
+              "venue": {
+                "venueName": "Cluj Arena",
+                "city": "Cluj-Napoca"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_rou1_2627_r9_m6",
+              "homeTeamId": "team_fcsb",
+              "homeTeamName": "FCSB",
+              "awayTeamId": "team_petrolul_ploiesti",
+              "awayTeamName": "FC Petrolul Ploiești",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 EEST"
+              },
+              "venue": {
+                "venueName": "Arena Națională",
+                "city": "Bucharest"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }
