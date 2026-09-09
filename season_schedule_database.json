@@ -3493,11 +3493,271 @@
       "season": "2026-2027",
       "rounds": [
         {
+          "roundNumber": 2,
+          "roundName": "Round 2 - الجولة الثانية",
+          "startDateIso": "2026-09-15",
+          "endDateIso": "2026-09-15",
+          "matches": [
+            {
+              "matchId": "evt_pol1_2627_m9",
+              "homeTeamId": "team_korona_kielce",
+              "homeTeamName": "Korona Kielce",
+              "awayTeamId": "team_gornik_zabrze",
+              "awayTeamName": "Górnik Zabrze",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "20:30 CEST"
+              },
+              "venue": {
+                "venueName": "EXBUD Arena",
+                "city": "Kielce"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        },
+        {
           "roundNumber": 3,
           "roundName": "Round 3 - الجولة الثالثة",
           "startDateIso": "2026-08-07",
           "endDateIso": "2026-10-12",
-          "matches": []
+          "matches": [
+            {
+              "matchId": "evt_pol1_2627_m8",
+              "homeTeamId": "team_rakow_czestochowa",
+              "homeTeamName": "Raków Częstochowa",
+              "awayTeamId": "team_zaglebie_lubin",
+              "awayTeamName": "Zagłębie Lubin",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Miejski Stadion Piłkarski Raków w Częstochowie",
+                "city": "Częstochowa"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        },
+        {
+          "roundNumber": 8,
+          "roundName": "Round 8 - الجولة الثامنة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_pol1_2627_m1",
+              "homeTeamId": "team_slask_wroclaw",
+              "homeTeamName": "Śląsk Wrocław",
+              "awayTeamId": "team_korona_kielce",
+              "awayTeamName": "Korona Kielce",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "12:45:00Z",
+                "formattedLocalTime": "14:45 CEST"
+              },
+              "venue": {
+                "venueName": "Tarczyński Arena Wrocław",
+                "city": "Wrocław"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_m2",
+              "homeTeamId": "team_gornik_zabrze",
+              "homeTeamName": "Górnik Zabrze",
+              "awayTeamId": "team_lech_poznan",
+              "awayTeamName": "Lech Poznań",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "17:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion im. Ernesta Pohla",
+                "city": "Zabrze"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_m3",
+              "homeTeamId": "team_zaglebie_lubin",
+              "homeTeamName": "Zagłębie Lubin",
+              "awayTeamId": "team_gks_katowice",
+              "awayTeamName": "GKS Katowice",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:15:00Z",
+                "formattedLocalTime": "20:15 CEST"
+              },
+              "venue": {
+                "venueName": "KGHM Zagłębie Arena",
+                "city": "Lubin"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_m4",
+              "homeTeamId": "team_wisla_plock",
+              "homeTeamName": "Wisła Płock",
+              "awayTeamId": "team_cracovia",
+              "awayTeamName": "Cracovia",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "10:15:00Z",
+                "formattedLocalTime": "12:15 CEST"
+              },
+              "venue": {
+                "venueName": "Orlen Stadion",
+                "city": "Płock"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_m5",
+              "homeTeamId": "team_pogon_szczecin",
+              "homeTeamName": "Pogoń Szczecin",
+              "awayTeamId": "team_wieczysta_krakow",
+              "awayTeamName": "Wieczysta Kraków",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:45:00Z",
+                "formattedLocalTime": "14:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion Miejski im. Floriana Krygiera",
+                "city": "Szczecin"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_m6",
+              "homeTeamId": "team_legia_warsaw",
+              "homeTeamName": "Legia Warszawa",
+              "awayTeamId": "team_widzew_lodz",
+              "awayTeamName": "Widzew Łódź",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "17:30 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion Wojska Polskiego",
+                "city": "Warsaw"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_pol1_2627_m7",
+              "homeTeamId": "team_radomiak_radom",
+              "homeTeamName": "Radomiak Radom",
+              "awayTeamId": "team_piast_gliwice",
+              "awayTeamName": "Piast Gliwice",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion im. Braci Czachorów",
+                "city": "Radom"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
