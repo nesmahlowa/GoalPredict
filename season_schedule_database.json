@@ -2092,6 +2092,230 @@
           "startDateIso": "2026-08-21",
           "endDateIso": "2026-09-03",
           "matches": []
+        },
+        {
+          "roundNumber": 6,
+          "roundName": "Round 6 - الجولة السادسة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "evt_bel1_2627_r6_m1",
+              "homeTeamId": "team_sk_beveren",
+              "homeTeamName": "Beveren",
+              "awayTeamId": "team_stvv",
+              "awayTeamName": "STVV",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "16:00 CEST"
+              },
+              "venue": {
+                "venueName": "Freethielstadion",
+                "city": "Beveren"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m2",
+              "homeTeamId": "team_kvc_westerlo",
+              "homeTeamName": "Westerlo",
+              "awayTeamId": "team_standard_liege",
+              "awayTeamName": "Standard Liège",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:15:00Z",
+                "formattedLocalTime": "18:15 CEST"
+              },
+              "venue": {
+                "venueName": "Het Kuipje",
+                "city": "Westerlo"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m3",
+              "homeTeamId": "team_oh_leuven",
+              "homeTeamName": "OH Leuven",
+              "awayTeamId": "team_cercle_brugge",
+              "awayTeamName": "Cercle Brugge",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "King Power at Den Dreef",
+                "city": "Leuven"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m4",
+              "homeTeamId": "team_royale_union_saint_gilloise",
+              "homeTeamName": "Union SG",
+              "awayTeamId": "team_lommel_sk",
+              "awayTeamName": "Lommel",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:45:00Z",
+                "formattedLocalTime": "20:45 CEST"
+              },
+              "venue": {
+                "venueName": "Stade Joseph Marien",
+                "city": "Brussels"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m5",
+              "homeTeamId": "team_club_brugge",
+              "homeTeamName": "Club Brugge",
+              "awayTeamId": "team_royal_antwerp",
+              "awayTeamName": "Antwerp",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "11:30:00Z",
+                "formattedLocalTime": "13:30 CEST"
+              },
+              "venue": {
+                "venueName": "Jan Breydelstadion",
+                "city": "Bruges"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m6",
+              "homeTeamId": "team_krc_genk",
+              "homeTeamName": "Genk",
+              "awayTeamId": "team_kaa_gent",
+              "awayTeamName": "Gent",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "16:00 CEST"
+              },
+              "venue": {
+                "venueName": "Cegeka Arena",
+                "city": "Genk"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m7",
+              "homeTeamId": "team_zulte_waregem",
+              "homeTeamName": "Zulte Waregem",
+              "awayTeamId": "team_charleroi",
+              "awayTeamName": "Charleroi",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "18:30 CEST"
+              },
+              "venue": {
+                "venueName": "Elindus Arena",
+                "city": "Waregem"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_bel1_2627_r6_m8",
+              "homeTeamId": "team_raal_la_louviere",
+              "homeTeamName": "La Louvière",
+              "awayTeamId": "team_kv_kortrijk",
+              "awayTeamName": "Kortrijk",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "17:15:00Z",
+                "formattedLocalTime": "19:15 CEST"
+              },
+              "venue": {
+                "venueName": "Easi Arena",
+                "city": "La Louvière"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
