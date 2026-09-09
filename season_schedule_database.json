@@ -568,6 +568,284 @@
               "refereeName": null
             }
           ]
+        },
+        {
+          "roundNumber": 4,
+          "roundName": "Round 4 - الجولة الرابعة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_eng1_2627_r4_m1",
+              "homeTeamId": "team_aston_villa",
+              "homeTeamName": "Aston Villa",
+              "awayTeamId": "team_nottingham_forest",
+              "awayTeamName": "Nottingham Forest",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Villa Park",
+                "city": "Birmingham"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m2",
+              "homeTeamId": "team_afc_bournemouth",
+              "homeTeamName": "AFC Bournemouth",
+              "awayTeamId": "team_brentford",
+              "awayTeamName": "Brentford",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Vitality Stadium",
+                "city": "Bournemouth"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m3",
+              "homeTeamId": "team_chelsea",
+              "homeTeamName": "Chelsea",
+              "awayTeamId": "team_hull_city",
+              "awayTeamName": "Hull City",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Stamford Bridge",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m4",
+              "homeTeamId": "team_crystal_palace",
+              "homeTeamName": "Crystal Palace",
+              "awayTeamId": "team_ipswich_town",
+              "awayTeamName": "Ipswich Town",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Selhurst Park",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m5",
+              "homeTeamId": "team_liverpool",
+              "homeTeamName": "Liverpool",
+              "awayTeamId": "team_fulham",
+              "awayTeamName": "Fulham",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "15:00 BST"
+              },
+              "venue": {
+                "venueName": "Anfield",
+                "city": "Liverpool"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m6",
+              "homeTeamId": "team_tottenham_hotspur",
+              "homeTeamName": "Tottenham Hotspur",
+              "awayTeamId": "team_everton",
+              "awayTeamName": "Everton",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "17:30 BST"
+              },
+              "venue": {
+                "venueName": "Tottenham Hotspur Stadium",
+                "city": "London"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m7",
+              "homeTeamId": "team_sunderland",
+              "homeTeamName": "Sunderland",
+              "awayTeamId": "team_arsenal",
+              "awayTeamName": "Arsenal",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "20:00 BST"
+              },
+              "venue": {
+                "venueName": "Stadium of Light",
+                "city": "Sunderland"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m8",
+              "homeTeamId": "team_coventry_city",
+              "homeTeamName": "Coventry City",
+              "awayTeamId": "team_brighton_hove_albion",
+              "awayTeamName": "Brighton & Hove Albion",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "13:00:00Z",
+                "formattedLocalTime": "14:00 BST"
+              },
+              "venue": {
+                "venueName": "Coventry Building Society Arena",
+                "city": "Coventry"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m9",
+              "homeTeamId": "team_manchester_united",
+              "homeTeamName": "Manchester United",
+              "awayTeamId": "team_manchester_city",
+              "awayTeamName": "Manchester City",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "16:30 BST"
+              },
+              "venue": {
+                "venueName": "Old Trafford",
+                "city": "Manchester"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_eng1_2627_r4_m10",
+              "homeTeamId": "team_leeds_united",
+              "homeTeamName": "Leeds United",
+              "awayTeamId": "team_newcastle_united",
+              "awayTeamName": "Newcastle United",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "20:00 BST"
+              },
+              "venue": {
+                "venueName": "Elland Road",
+                "city": "Leeds"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
