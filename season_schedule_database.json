@@ -1827,6 +1827,257 @@
           "startDateIso": "2026-08-22",
           "endDateIso": "2026-09-10",
           "matches": []
+        },
+        {
+          "roundNumber": 6,
+          "roundName": "Round 6 - الجولة السادسة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_por1_2627_r6_m1",
+              "homeTeamId": "team_cd_nacional",
+              "homeTeamName": "CD Nacional",
+              "awayTeamId": "team_fc_alverca",
+              "awayTeamName": "FC Alverca",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:30:00Z",
+                "formattedLocalTime": "15:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio da Madeira",
+                "city": "Funchal"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m2",
+              "homeTeamId": "team_casa_pia_ac",
+              "homeTeamName": "Casa Pia AC",
+              "awayTeamId": "team_fc_porto",
+              "awayTeamName": "FC Porto",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "18:00 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio Municipal de Rio Maior",
+                "city": "Rio Maior"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m3",
+              "homeTeamId": "team_academico",
+              "homeTeamName": "Académico de Viseu",
+              "awayTeamId": "team_vitoria_sc",
+              "awayTeamName": "Vitória SC",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "20:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio Municipal do Fontelo",
+                "city": "Viseu"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m4",
+              "homeTeamId": "team_sl_benfica",
+              "homeTeamName": "SL Benfica",
+              "awayTeamId": "team_gil_vicente",
+              "awayTeamName": "Gil Vicente FC",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "18:00 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio do Sport Lisboa e Benfica",
+                "city": "Lisbon"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m5",
+              "homeTeamId": "team_fc_arouca",
+              "homeTeamName": "FC Arouca",
+              "awayTeamId": "team_santa_clara",
+              "awayTeamName": "CD Santa Clara",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "18:00 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio Municipal de Arouca",
+                "city": "Arouca"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m6",
+              "homeTeamId": "team_fc_famalicao",
+              "homeTeamName": "FC Famalicão",
+              "awayTeamId": "team_sporting_cp",
+              "awayTeamName": "Sporting CP",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "20:30 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio Municipal de Famalicão",
+                "city": "Vila Nova de Famalicão"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m7",
+              "homeTeamId": "team_rio_ave",
+              "homeTeamName": "Rio Ave FC",
+              "awayTeamId": "team_estrela_amadora",
+              "awayTeamName": "CF Estrela da Amadora",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "17:45:00Z",
+                "formattedLocalTime": "18:45 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio do Rio Ave Futebol Clube",
+                "city": "Vila do Conde"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m8",
+              "homeTeamId": "team_moreirense",
+              "homeTeamName": "Moreirense FC",
+              "awayTeamId": "team_maritimo",
+              "awayTeamName": "CS Marítimo",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "19:15:00Z",
+                "formattedLocalTime": "20:15 WEST"
+              },
+              "venue": {
+                "venueName": "Parque Desportivo Comendador Joaquim de Almeida Freitas",
+                "city": "Moreira de Cónegos"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_por1_2627_r6_m9",
+              "homeTeamId": "team_sc_braga",
+              "homeTeamName": "SC Braga",
+              "awayTeamId": "team_estoril_praia",
+              "awayTeamName": "GD Estoril Praia",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "19:45:00Z",
+                "formattedLocalTime": "20:45 WEST"
+              },
+              "venue": {
+                "venueName": "Estádio Municipal de Braga",
+                "city": "Braga"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
