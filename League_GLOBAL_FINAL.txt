@@ -1,0 +1,662 @@
+  --------------------------------------------------------------------------------
+  countryId                  الدولة / الإقليم  الاسم             الاسم العربي
+                                               الرسمي/الشائع     
+                                               الحالي للدوري     
+  -------------------------- ----------------- ----------------- -----------------
+  afghanistan                Afghanistan       Afghan Premier    الدوري الأفغاني
+                                               League            الممتاز
+
+  australia                  Australia         A-League Men      الدوري الأسترالي
+                                                                 للمحترفين
+
+  bahrain                    Bahrain           Bahraini Premier  الدوري البحريني
+                                               League            الممتاز
+
+  bangladesh                 Bangladesh        Bangladesh        الدوري
+                                               Premier League    البنغلاديشي
+                                                                 الممتاز
+
+  bhutan                     Bhutan            Bhutan Premier    الدوري البوتاني
+                                               League            الممتاز
+
+  brunei                     Brunei Darussalam Brunei Super      الدوري البروناوي
+                                               League            الممتاز
+
+  cambodia                   Cambodia          Cambodian Premier الدوري الكمبودي
+                                               League            الممتاز
+
+  china                      China             Chinese Super     الدوري الصيني
+                                               League            الممتاز
+
+  chinese_taipei             Chinese Taipei    Taiwan Football   الدوري التايواني
+                                               Premier League    الممتاز
+
+  hong_kong                  Hong Kong         Hong Kong Premier الدوري الممتاز في
+                                               League            هونغ كونغ
+
+  india                      India             Indian Super      الدوري الهندي
+                                               League            الممتاز
+
+  indonesia                  Indonesia         Liga 1            الدوري الإندونيسي
+
+  iran                       Iran              Persian Gulf Pro  الدوري الإيراني
+                                               League            للمحترفين
+
+  iraq                       Iraq              Iraq Stars League دوري نجوم العراق
+
+  japan                      Japan             J1 League         الدوري الياباني
+                                                                 J1
+
+  jordan                     Jordan            Jordanian Pro     الدوري الأردني
+                                               League            للمحترفين
+
+  kuwait                     Kuwait            Kuwait Premier    الدوري الكويتي
+                                               League            الممتاز
+
+  kyrgyzstan                 Kyrgyzstan        Kyrgyz Premier    الدوري
+                                               League            القرغيزستاني
+                                                                 الممتاز
+
+  laos                       Laos              Lao League 1      الدوري اللاوسي
+                                                                 الأول
+
+  lebanon                    Lebanon           Lebanese Premier  الدوري اللبناني
+                                               League            الممتاز
+
+  macau                      Macau             Liga de Elite     دوري النخبة في
+                                                                 ماكاو
+
+  malaysia                   Malaysia          Malaysia Super    الدوري الماليزي
+                                               League            الممتاز
+
+  maldives                   Maldives          Dhivehi Premier   الدوري المالديفي
+                                               League            الممتاز
+
+  mongolia                   Mongolia          Mongolia Premier  الدوري المنغولي
+                                               League            الممتاز
+
+  myanmar                    Myanmar           Myanmar National  الدوري الوطني
+                                               League            الميانماري
+
+  nepal                      Nepal             Martyr’s Memorial دوري الدرجة
+                                               A-Division League الأولى النيبالي
+
+  north_korea                North Korea       DPR Korea Premier الدوري الكوري
+                                               Football League   الشمالي الممتاز
+
+  oman                       Oman              Oman Professional الدوري العماني
+                                               League            للمحترفين
+
+  pakistan                   Pakistan          Pakistan Premier  الدوري الباكستاني
+                                               League            الممتاز
+
+  palestine                  Palestine         West Bank Premier دوري الضفة
+                                               League            الغربية الممتاز
+
+  philippines                Philippines       Philippines       الدوري الفلبيني
+                                               Football League   
+
+  qatar                      Qatar             Qatar Stars       دوري نجوم قطر
+                                               League            
+
+  saudi_arabia               Saudi Arabia      Saudi Pro League  الدوري السعودي
+                                                                 للمحترفين
+
+  singapore                  Singapore         Singapore Premier الدوري السنغافوري
+                                               League            الممتاز
+
+  south_korea                South Korea       K League 1        الدوري الكوري
+                                                                 الجنوبي K1
+
+  sri_lanka                  Sri Lanka         Sri Lanka Super   الدوري السريلانكي
+                                               League            الممتاز
+
+  syria                      Syria             Syrian Premier    الدوري السوري
+                                               League            الممتاز
+
+  tajikistan                 Tajikistan        Tajikistan Higher الدوري الطاجيكي
+                                               League            الممتاز
+
+  thailand                   Thailand          Thai League 1     الدوري التايلاندي
+                                                                 الأول
+
+  timor_leste                Timor-Leste       Liga Futebol      دوري تيمور
+                                               Amadora           الشرقية
+
+  turkmenistan               Turkmenistan      Ýokary Liga       الدوري التركماني
+                                                                 الممتاز
+
+  united_arab_emirates       United Arab       UAE Pro League    دوري أدنوك
+                             Emirates                            للمحترفين
+
+  uzbekistan                 Uzbekistan        Uzbekistan Super  الدوري الأوزبكي
+                                               League            الممتاز
+
+  vietnam                    Vietnam           V.League 1        الدوري الفيتنامي
+                                                                 الأول
+
+  yemen                      Yemen             Yemeni League     الدوري اليمني
+
+  algeria                    Algeria           Ligue             الرابطة الجزائرية
+                                               Professionnelle 1 المحترفة الأولى
+
+  angola                     Angola            Girabola          الدوري الأنغولي
+                                                                 الممتاز
+
+  benin                      Benin             Ligue             الدوري البنيني
+                                               Professionnelle   
+
+  botswana                   Botswana          Botswana Premier  الدوري البوتسواني
+                                               League            الممتاز
+
+  burkina_faso               Burkina Faso      Burkinabè Premier الدوري
+                                               League            البوركينابي
+                                                                 الممتاز
+
+  burundi                    Burundi           Ligue A           الدوري البوروندي
+                                                                 الممتاز
+
+  cabo_verde                 Cabo Verde        Campeonato        البطولة الوطنية
+                                               Nacional          في الرأس الأخضر
+
+  cameroon                   Cameroon          Elite One         الدوري الكاميروني
+                                                                 الممتاز
+
+  central_african_republic   Central African   Central African   الدوري لجمهورية
+                             Republic          Republic League   أفريقيا الوسطى
+
+  chad                       Chad              Chad Premier      الدوري التشادي
+                                               League            الممتاز
+
+  comoros                    Comoros           Comoros Premier   الدوري القمري
+                                               League            الممتاز
+
+  congo                      Republic of the   Ligue 1           الدوري الكونغولي
+                             Congo                               
+
+  dr_congo                   DR Congo          Linafoot Ligue 1  الدوري الكونغولي
+                                                                 الديمقراطي
+
+  cote_divoire               Côte d’Ivoire     Ligue 1           الدوري الإيفواري
+                                                                 الممتاز
+
+  djibouti                   Djibouti          Djibouti Premier  الدوري الجيبوتي
+                                               League            الممتاز
+
+  egypt                      Egypt             Egyptian Premier  الدوري المصري
+                                               League            الممتاز
+
+  equatorial_guinea          Equatorial Guinea Primera División  الدوري الغيني
+                                                                 الاستوائي
+
+  eritrea                    Eritrea           Eritrean Premier  الدوري الإريتري
+                                               League            الممتاز
+
+  eswatini                   Eswatini          Premier League of الدوري الإسواتيني
+                                               Eswatini          الممتاز
+
+  ethiopia                   Ethiopia          Ethiopian Premier الدوري الإثيوبي
+                                               League            الممتاز
+
+  gabon                      Gabon             Gabon Championnat الدوري الغابوني
+                                               National D1       الممتاز
+
+  gambia                     The Gambia        GFA League First  دوري غامبيا الأول
+                                               Division          
+
+  ghana                      Ghana             Ghana Premier     الدوري الغاني
+                                               League            الممتاز
+
+  guinea                     Guinea            Ligue 1           الدوري الغيني
+                                                                 الممتاز
+
+  guinea_bissau              Guinea-Bissau     Campeonato        الدوري الوطني
+                                               Nacional da       لغينيا بيساو
+                                               Guiné-Bissau      
+
+  kenya                      Kenya             Kenyan Premier    الدوري الكيني
+                                               League            الممتاز
+
+  lesotho                    Lesotho           Lesotho Premier   الدوري الليسوتي
+                                               League            الممتاز
+
+  liberia                    Liberia           Liberian First    الدوري الليبيري
+                                               Division          الأول
+
+  libya                      Libya             Libyan Premier    الدوري الليبي
+                                               League            الممتاز
+
+  madagascar                 Madagascar        Orange Pro League الدوري الملغاشي
+                                                                 الممتاز
+
+  malawi                     Malawi            Malawi Super      الدوري المالاوي
+                                               League            الممتاز
+
+  mali                       Mali              Malian Première   الدوري المالي
+                                               Division          الممتاز
+
+  mauritania                 Mauritania        Ligue 1           الدوري الموريتاني
+                                                                 الممتاز
+
+  mauritius                  Mauritius         Mauritian Premier الدوري الموريشي
+                                               League            الممتاز
+
+  morocco                    Morocco           Botola Pro        البطولة
+                                                                 الاحترافية
+                                                                 المغربية
+
+  mozambique                 Mozambique        Moçambola         الدوري الموزمبيقي
+                                                                 الممتاز
+
+  namibia                    Namibia           Namibia Premier   الدوري الناميبي
+                                               Football League   الممتاز
+
+  niger                      Niger             Super Ligue       الدوري النيجري
+                                                                 الممتاز
+
+  nigeria                    Nigeria           Nigeria Premier   الدوري النيجيري
+                                               Football League   الممتاز
+
+  rwanda                     Rwanda            Rwanda Premier    الدوري الرواندي
+                                               League            الممتاز
+
+  sao_tome                   São Tomé and      Campeonato        الدوري الوطني
+                             Príncipe          Nacional          لساو تومي
+                                                                 وبرينسيبي
+
+  senegal                    Senegal           Ligue 1           الدوري السنغالي
+                                                                 الممتاز
+
+  seychelles                 Seychelles        Seychelles        الدوري السيشيلي
+                                               Premier League    الممتاز
+
+  sierra_leone               Sierra Leone      Sierra Leone      الدوري
+                                               Premier League    السيراليوني
+                                                                 الممتاز
+
+  somalia                    Somalia           Somali Premier    الدوري الصومالي
+                                               League            الممتاز
+
+  south_africa               South Africa      Betway            الدوري الجنوب
+                                               Premiership       أفريقي الممتاز
+
+  south_sudan                South Sudan       South Sudan       الدوري الجنوب
+                                               Premier League    سوداني الممتاز
+
+  sudan                      Sudan             Sudan Premier     الدوري السوداني
+                                               League            الممتاز
+
+  tanzania                   Tanzania          NBC Premier       الدوري التنزاني
+                                               League            الممتاز
+
+  togo                       Togo              Championnat       الدوري التوغولي
+                                               National          الممتاز
+
+  tunisia                    Tunisia           Ligue             الرابطة التونسية
+                                               Professionnelle 1 المحترفة الأولى
+
+  uganda                     Uganda            Uganda Premier    الدوري الأوغندي
+                                               League            الممتاز
+
+  zambia                     Zambia            Zambia Super      الدوري الزامبي
+                                               League            الممتاز
+
+  zimbabwe                   Zimbabwe          Zimbabwe Premier  الدوري الزيمبابوي
+                                               Soccer League     الممتاز
+
+  argentina                  Argentina         Liga Profesional  الدوري الأرجنتيني
+                                               de Fútbol         للمحترفين
+
+  bolivia                    Bolivia           División          الدوري البوليفي
+                                               Profesional       للمحترفين
+
+  brazil                     Brazil            Campeonato        الدوري البرازيلي
+                                               Brasileiro Série  الدرجة الأولى
+                                               A                 
+
+  chile                      Chile             Liga de Primera   الدوري التشيلي
+                                                                 الممتاز
+
+  colombia                   Colombia          Categoría Primera الدوري الكولومبي
+                                               A                 الممتاز
+
+  ecuador                    Ecuador           LigaPro Serie A   الدوري الإكوادوري
+                                                                 الممتاز
+
+  paraguay                   Paraguay          División de Honor دوري الدرجة
+                                                                 الأولى
+                                                                 الباراغواياني
+
+  peru                       Peru              Liga 1            الدوري البيروفي
+                                                                 الممتاز
+
+  uruguay                    Uruguay           Liga AUF Uruguaya الدوري
+                                                                 الأوروغواياني
+
+  venezuela                  Venezuela         Liga FUTVE        الدوري الفنزويلي
+                                                                 الممتاز
+
+  antigua_barbuda            Antigua and       Premier Division  الدوري الممتاز
+                             Barbuda                             لأنتيغوا وبربودا
+
+  anguilla                   Anguilla          AFA Senior Male   دوري أنغويلا
+                                               League            للرجال
+
+  aruba                      Aruba             Aruban Division   دوري أروبا
+                                               di Honor          الممتاز
+
+  bahamas                    Bahamas           New Providence    دوري جزر البهاما
+                                               Football League   
+
+  barbados                   Barbados          Barbados Premier  الدوري البربادوسي
+                                               League            الممتاز
+
+  belize                     Belize            Premier League of الدوري البلِيزِي
+                                               Belize            الممتاز
+
+  bermuda                    Bermuda           Bermuda Premier   الدوري البرمودي
+                                               Division          الممتاز
+
+  bonaire                    Bonaire           Bonaire League    دوري بونير
+
+  british_virgin_islands     British Virgin    BVIFA National    الدوري الوطني
+                             Islands           League            لجزر العذراء
+                                                                 البريطانية
+
+  canada                     Canada            Canadian Premier  الدوري الكندي
+                                               League            الممتاز
+
+  cayman_islands             Cayman Islands    Cayman Islands    الدوري الممتاز
+                                               Premier League    لجزر كايمان
+
+  costa_rica                 Costa Rica        Liga Promerica    الدوري
+                                                                 الكوستاريكي
+                                                                 الممتاز
+
+  cuba                       Cuba              Campeonato        البطولة الوطنية
+                                               Nacional de       الكوبية
+                                               Fútbol            
+
+  curacao                    Curaçao           Curaçao Promé     الدوري الممتاز في
+                                               Divishon          كوراساو
+
+  dominica                   Dominica          Dominica Premier  الدوري الدومينيكي
+                                               League            الممتاز
+
+  dominican_republic         Dominican         Liga Dominicana   الدوري
+                             Republic          de Fútbol         الدومينيكاني
+
+  el_salvador                El Salvador       Primera División  الدوري السلفادوري
+                                                                 الممتاز
+
+  grenada                    Grenada           GFA Premier       الدوري الغرينادي
+                                               League            الممتاز
+
+  guatemala                  Guatemala         Liga Nacional     الدوري
+                                                                 الغواتيمالي
+                                                                 الممتاز
+
+  guyana                     Guyana            GFF Elite League  الدوري الغوياني
+                                                                 الممتاز
+
+  haiti                      Haiti             Ligue Haïtienne   الدوري الهايتي
+                                                                 الممتاز
+
+  honduras                   Honduras          Liga Nacional     الدوري الهندوراسي
+                                                                 الممتاز
+
+  jamaica                    Jamaica           Jamaica Premier   الدوري الجامايكي
+                                               League            الممتاز
+
+  mexico                     Mexico            Liga MX           الدوري المكسيكي
+                                                                 الممتاز
+
+  montserrat                 Montserrat        Montserrat        دوري مونتسرات
+                                               Championship      
+
+  nicaragua                  Nicaragua         Liga Primera      الدوري
+                                                                 النيكاراغوي
+                                                                 الممتاز
+
+  panama                     Panama            Liga Panameña de  الدوري البنمي
+                                               Fútbol            الممتاز
+
+  puerto_rico                Puerto Rico       Liga Puerto Rico  الدوري
+                                                                 البورتوريكي
+
+  saint_kitts_nevis          Saint Kitts and   SKNFA Premier     الدوري الممتاز
+                             Nevis             League            لسانت كيتس ونيفيس
+
+  saint_lucia                Saint Lucia       SLFA First        دوري سانت لوسيا
+                                               Division          الأول
+
+  saint_vincent_grenadines   Saint Vincent and NLA Premier       الدوري الممتاز
+                             the Grenadines    League            لسانت فنسنت
+                                                                 والغرينادين
+
+  suriname                   Suriname          Suriname Major    الدوري السورينامي
+                                               League            الممتاز
+
+  trinidad_tobago            Trinidad and      Trinidad and      الدوري الممتاز في
+                             Tobago            Tobago Premier    ترينيداد وتوباغو
+                                               Football League   
+
+  turks_caicos               Turks and Caicos  Provo Premier     دوري بروفو
+                             Islands           League            الممتاز
+
+  united_states              United States     Major League      الدوري الأمريكي
+                                               Soccer            للمحترفين
+
+  us_virgin_islands          U.S. Virgin       USVI Premier      الدوري الممتاز
+                             Islands           League            لجزر العذراء
+                                                                 الأمريكية
+
+  wales                      Wales             Cymru Premier     الدوري الويلزي
+                                                                 الممتاز
+
+  england                    England           Premier League    الدوري الإنجليزي
+                                                                 الممتاز
+
+  scotland                   Scotland          Scottish          الدوري الاسكتلندي
+                                               Premiership       الممتاز
+
+  northern_ireland           Northern Ireland  NIFL Premiership  الدوري الممتاز في
+                                                                 أيرلندا الشمالية
+
+  albania                    Albania           Kategoria         الدوري الألباني
+                                               Superiore         الممتاز
+
+  andorra                    Andorra           Primera Divisió   الدوري الأندوري
+
+  armenia                    Armenia           Armenian Premier  الدوري الأرميني
+                                               League            الممتاز
+
+  austria                    Austria           Austrian          الدوري النمساوي
+                                               Bundesliga        الممتاز
+
+  azerbaijan                 Azerbaijan        Azerbaijan        الدوري
+                                               Premier League    الأذربيجاني
+                                                                 الممتاز
+
+  belarus                    Belarus           Belarusian        الدوري البيلاروسي
+                                               Premier League    الممتاز
+
+  belgium                    Belgium           Belgian Pro       الدوري البلجيكي
+                                               League            للمحترفين
+
+  bosnia_herzegovina         Bosnia and        Premier League of الدوري الممتاز
+                             Herzegovina       Bosnia and        للبوسنة والهرسك
+                                               Herzegovina       
+
+  bulgaria                   Bulgaria          First             الدوري البلغاري
+                                               Professional      الممتاز
+                                               Football League   
+
+  croatia                    Croatia           HNL               الدوري الكرواتي
+
+  cyprus                     Cyprus            Cypriot First     الدوري القبرصي
+                                               Division          الأول
+
+  czechia                    Czechia           Czech First       الدوري التشيكي
+                                               League            الأول
+
+  denmark                    Denmark           Danish Superliga  الدوري الدنماركي
+                                                                 الممتاز
+
+  estonia                    Estonia           Meistriliiga      الدوري الإستوني
+                                                                 الممتاز
+
+  faroe_islands              Faroe Islands     Betri deildin     الدوري الممتاز
+                                                                 لجزر فارو
+
+  finland                    Finland           Veikkausliiga     الدوري الفنلندي
+                                                                 الممتاز
+
+  france                     France            Ligue 1           الدوري الفرنسي
+
+  georgia                    Georgia           Erovnuli Liga     الدوري الجورجي
+                                                                 الممتاز
+
+  germany                    Germany           Bundesliga        الدوري الألماني
+
+  gibraltar                  Gibraltar         Gibraltar         الدوري الجبرلتاري
+                                               Football League   
+
+  greece                     Greece            Super League      الدوري اليوناني
+                                               Greece            الممتاز
+
+  hungary                    Hungary           Nemzeti Bajnokság الدوري المجري
+                                               I                 الممتاز
+
+  iceland                    Iceland           Besta deild karla الدوري الأيسلندي
+                                                                 الممتاز
+
+  ireland                    Republic of       League of Ireland الدوري الأيرلندي
+                             Ireland           Premier Division  الممتاز
+
+  italy                      Italy             Serie A           الدوري الإيطالي
+
+  kazakhstan                 Kazakhstan        Kazakhstan        الدوري
+                                               Premier League    الكازاخستاني
+                                                                 الممتاز
+
+  kosovo                     Kosovo            Football          الدوري الممتاز في
+                                               Superleague of    كوسوفو
+                                               Kosovo            
+
+  latvia                     Latvia            Virslīga          الدوري اللاتفي
+                                                                 الممتاز
+
+  lithuania                  Lithuania         A Lyga            الدوري الليتواني
+                                                                 الممتاز
+
+  luxembourg                 Luxembourg        Luxembourg        الدوري الوطني
+                                               National Division اللوكسمبورغي
+
+  malta                      Malta             Maltese Premier   الدوري المالطي
+                                               League            الممتاز
+
+  moldova                    Moldova           Super Liga        الدوري المولدوفي
+                                                                 الممتاز
+
+  montenegro                 Montenegro        Montenegrin First الدوري
+                                               League            المونتينيغري
+                                                                 الأول
+
+  netherlands                Netherlands       Eredivisie        الدوري الهولندي
+
+  north_macedonia            North Macedonia   Macedonian First  الدوري المقدوني
+                                               Football League   الأول
+
+  norway                     Norway            Eliteserien       الدوري النرويجي
+                                                                 الممتاز
+
+  poland                     Poland            Ekstraklasa       الدوري البولندي
+                                                                 الممتاز
+
+  portugal                   Portugal          Primeira Liga     الدوري البرتغالي
+
+  romania                    Romania           SuperLiga         الدوري الروماني
+                                                                 الممتاز
+
+  san_marino                 San Marino        Campionato        الدوري السان
+                                               Sammarinese       ماريني
+
+  serbia                     Serbia            Serbian SuperLiga الدوري الصربي
+                                                                 الممتاز
+
+  slovakia                   Slovakia          Niké Liga         الدوري السلوفاكي
+                                                                 الممتاز
+
+  slovenia                   Slovenia          PrvaLiga          الدوري السلوفيني
+                                                                 الممتاز
+
+  spain                      Spain             LaLiga            الدوري الإسباني
+
+  sweden                     Sweden            Allsvenskan       الدوري السويدي
+                                                                 الممتاز
+
+  switzerland                Switzerland       Swiss Super       الدوري السويسري
+                                               League            الممتاز
+
+  turkey                     Türkiye           Süper Lig         الدوري التركي
+                                                                 الممتاز
+
+  ukraine                    Ukraine           Ukrainian Premier الدوري الأوكراني
+                                               League            الممتاز
+
+  russia                     Russia            Russian Premier   الدوري الروسي
+                                               League            الممتاز
+
+  american_samoa             American Samoa    FFAS Senior       دوري ساموا
+                                               League            الأمريكية
+
+  cook_islands               Cook Islands      Cook Islands      كأس جزر كوك
+                                               Round Cup         
+
+  fiji                       Fiji              Fiji Premier      الدوري الفيجي
+                                               League            الممتاز
+
+  kiribati                   Kiribati          Kiribati National البطولة الوطنية
+                                               Championship      لكيريباتي
+
+  new_caledonia              New Caledonia     New Caledonia     الدوري الممتاز في
+                                               Super Ligue       كاليدونيا الجديدة
+
+  new_zealand                New Zealand       New Zealand       الدوري الوطني
+                                               National League   النيوزيلندي
+
+  papua_new_guinea           Papua New Guinea  PNG Premier       الدوري الممتاز
+                                               Soccer League     لبابوا غينيا
+                                                                 الجديدة
+
+  samoa                      Samoa             Samoa National    الدوري الوطني
+                                               League            لساموا
+
+  solomon_islands            Solomon Islands   S-League          دوري جزر سليمان
+
+  tahiti                     Tahiti            Ligue 1 Vini      الدوري التاهيتي
+                                                                 الممتاز
+
+  tonga                      Tonga             Tonga Major       الدوري الرئيسي في
+                                               League            تونغا
+
+  tuvalu                     Tuvalu            Tuvalu A-Division دوري توفالو
+
+  vanuatu                    Vanuatu           VFF National      الدوري الوطني
+                                               Super League      الممتاز لفانواتو
+  --------------------------------------------------------------------------------
+
+ملاحظات النطاق
+
+-   هذا الملف هو مرجع الدوريات الوطنية/الرئيسية للرجال (المستوى الأول)
+    المستخدم في GoalPredict.
+-   تمت توسعته ليغطي آسيا وأفريقيا وأوروبا وأمريكا الشمالية والوسطى
+    والكاريبي وأمريكا الجنوبية وأوقيانوسيا.
+-   لا يشمل الدرجات الدنيا أو دوريات الشباب أو السيدات أو الصالات أو
+    البطولات الإقليمية الفرعية.
+-   بعض الاتحادات لا تملك دوريًا وطنيًا مستقلًا بصيغة تقليدية؛ لا يتم
+    اختراع دوري لها.
+-   countryId معرف برمجي ثابت، بينما قد يتغير الاسم التجاري للدوري من
+    موسم إلى آخر.
+-   تم الحفاظ على بنية الملف المرجعية ذات الأعمدة الأربعة.

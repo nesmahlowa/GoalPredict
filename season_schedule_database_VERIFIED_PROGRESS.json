@@ -1,0 +1,5002 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0.0",
+    "datasetType": "SEASON_CALENDAR_DATABASE",
+    "season": "2026-2027",
+    "lastUpdatedIso": "2026-09-09T00:00:00Z",
+    "lastUpdatedTimestamp": null,
+    "description": "Verified date-range schedule compilation for 2026-2027, target window 2026-09-12 through 2026-09-17. Fixtures retained only when supported by available schedule evidence; no IDs or venues invented."
+  },
+  "leagueSchedules": [
+    {
+      "leagueId": "",
+      "officialName": "Afghan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "A-League Men",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Bahraini Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Bangladesh Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Bhutan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Brunei Super League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Cambodian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Chinese Super League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "12:00",
+              "homeTeam": "Tianjin Jinmen Tiger",
+              "awayTeam": "Liaoning Tieren",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "12:35",
+              "homeTeam": "Wuhan Three Towns",
+              "awayTeam": "Henan Songshan Longmen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Taiwan Football Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Hong Kong Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Indian Super League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Persian Gulf Pro League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Iraq Stars League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-14",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "15:45",
+              "homeTeam": "Al Naft",
+              "awayTeam": "Karbalaa",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "15:45",
+              "homeTeam": "Al-Jolan SC",
+              "awayTeam": "Newroz",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "18:00",
+              "homeTeam": "Erbil",
+              "awayTeam": "Al-Karma",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "16:45",
+              "homeTeam": "Al Karkh",
+              "awayTeam": "Naft Maysan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "19:00",
+              "homeTeam": "Al Zawraa",
+              "awayTeam": "Al-Gharraf",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "J1 League J1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "10:00",
+              "homeTeam": "Mito Hollyhock",
+              "awayTeam": "Kawasaki Frontale",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "10:30",
+              "homeTeam": "Shimizu S-Pulse",
+              "awayTeam": "Avispa Fukuoka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Gamba Osaka",
+              "awayTeam": "FC Tokyo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Machida Zelvia",
+              "awayTeam": "Yokohama F.Marinos",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Sanfrecce Hiroshima",
+              "awayTeam": "Cerezo Osaka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "V-Varen Nagasaki",
+              "awayTeam": "Nagoya Grampus Eight",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Jordanian Pro League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:30",
+              "homeTeam": "Al-Salt",
+              "awayTeam": "Al-Wehdat",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:30",
+              "homeTeam": "Ramtha SC",
+              "awayTeam": "Al-Arabi",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Kuwait Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Kyrgyz Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Lao League 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Lebanese Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga de Elite",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Malaysia Super League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "09:45",
+              "homeTeam": "Pulau Pinang",
+              "awayTeam": "Kelantan Red Warrior",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:15",
+              "homeTeam": "Kuching FA",
+              "awayTeam": "Melaka FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "Imigresen FC",
+              "awayTeam": "Terengganu",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Dhivehi Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Mongolia Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Myanmar National League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Martyr’s Memorial A-Division League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "DPR Korea Premier Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Oman Professional League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Pakistan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "West Bank Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Philippines Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Qatar Stars League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Saudi Pro League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Singapore Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "K League 1 K1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Sri Lanka Super League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Syrian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Tajikistan Higher League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Thai League 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "12:00",
+              "homeTeam": "Sisaket United",
+              "awayTeam": "Ayutthaya United FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "12:30",
+              "homeTeam": "Uthai Thani FC",
+              "awayTeam": "Pattani FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:00",
+              "homeTeam": "BG Pathum United",
+              "awayTeam": "Rasisalai United",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Futebol Amadora",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ýokary Liga",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "UAE Pro League Emirates",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Uzbekistan Super League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "V.League 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:15",
+              "homeTeam": "Ha Noi FC",
+              "awayTeam": "Song Lam Nghe An",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Yemeni League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Girabola",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue Professionnelle",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Botswana Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Enesia FC",
+              "awayTeam": "Matebele FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Sua Flamingoes",
+              "awayTeam": "Prisons XI",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Tonota FC",
+              "awayTeam": "BDF XI",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Burkinabè Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue A",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Campeonato Nacional",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Elite One",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Central African Republic Republic League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Chad Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Comoros Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1 Congo",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Linafoot Ligue 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Djibouti Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Egyptian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Eritrean Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Premier League of Eswatini",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ethiopian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Gabon Championnat National D1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "GFA League First Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ghana Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Campeonato Nacional da Guiné-Bissau",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Kenyan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Lesotho Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liberian First Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Libyan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Orange Pro League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Malawi Super League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Malian Première Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Mauritian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Botola Pro",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Moçambola",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Namibia Premier Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Super Ligue",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Nigeria Premier Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Rwanda Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Campeonato Príncipe Nacional",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Seychelles Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Sierra Leone Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Somali Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Betway Premiership",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "AmaZulu",
+              "awayTeam": "Marumo Gallants",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Polokwane",
+              "awayTeam": "Kaizer Chiefs",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Chippa",
+              "awayTeam": "Mamelodi Sundowns",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "18:30",
+              "homeTeam": "Orlando Pirates",
+              "awayTeam": "Durban City F.C",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "South Sudan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Sudan Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "NBC Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Championnat National",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue Professionnelle 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue Professionnelle 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Avenir de La Marsa",
+              "awayTeam": "Etoile du Sahel",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "CS Hammam-Lif",
+              "awayTeam": "Esperance",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "CS Sfaxien",
+              "awayTeam": "CA Bizertin",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "ES Hamam Sousse",
+              "awayTeam": "Stade Tunisien",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Js Omrane",
+              "awayTeam": "Etoile Metlaoui",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Olympique de Beja",
+              "awayTeam": "PS Sakiet Eddaier",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "US Monastir",
+              "awayTeam": "Ben Guerdane",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "15:00",
+              "homeTeam": "Stade Tunisien",
+              "awayTeam": "Club Africain",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "15:00",
+              "homeTeam": "Zarzis",
+              "awayTeam": "US Monastir",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Uganda Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Zambia Super League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Zimbabwe Premier Soccer League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Profesional de Fútbol",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-16",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "02:00",
+              "homeTeam": "Gimnasia y Tiro",
+              "awayTeam": "Tristan Suarez",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "Atlanta",
+              "awayTeam": "Atletico Guemes",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "Colegiales",
+              "awayTeam": "Nueva Chicago",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "All Boys",
+              "awayTeam": "San Telmo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "Almagro",
+              "awayTeam": "Deportivo Maipu",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Ciudad de Bolivar",
+              "awayTeam": "Central Norte",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "21:00",
+              "homeTeam": "Quilmes",
+              "awayTeam": "San Martin San Juan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "18:30",
+              "homeTeam": "CA Defensores de Belgrano",
+              "awayTeam": "Deportivo Madryn",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "19:00",
+              "homeTeam": "San Martin San Juan",
+              "awayTeam": "Tristan Suarez",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "División Profesional",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "01:00",
+              "homeTeam": "Real Potosi",
+              "awayTeam": "Oriente Petrolero",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "GV San Jose",
+              "awayTeam": "Nacional Potosi",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "22:15",
+              "homeTeam": "The Strongest",
+              "awayTeam": "CDT Real Oruro",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Campeonato Brasileiro Série A",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga de Primera",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Categoría Primera A",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "00:15",
+              "homeTeam": "CD Jaguares",
+              "awayTeam": "Fortaleza FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "02:20",
+              "homeTeam": "Alianza FC Valledupar",
+              "awayTeam": "Atletico Junior",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Deportivo Pereira",
+              "awayTeam": "Bucaramanga",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "22:05",
+              "homeTeam": "Internacional de Bogota",
+              "awayTeam": "Llaneros FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "01:15",
+              "homeTeam": "Cucuta",
+              "awayTeam": "Millonarios",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "01:30",
+              "homeTeam": "Chico FC",
+              "awayTeam": "Alianza FC Valledupar",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "00:15",
+              "homeTeam": "Once Caldas",
+              "awayTeam": "Tolima",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "02:20",
+              "homeTeam": "Internacional de Bogota",
+              "awayTeam": "Atletico Nacional",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "LigaPro Serie A",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "División de Honor",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "09:30",
+              "homeTeam": "PSS Sleman",
+              "awayTeam": "Madura United",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "09:30",
+              "homeTeam": "Persija Jakarta",
+              "awayTeam": "Persib Bandung",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:00",
+              "homeTeam": "Persijap Jepara",
+              "awayTeam": "Borneo FC Samarinda",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga AUF Uruguaya",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Racing",
+              "awayTeam": "Boston River",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:30",
+              "homeTeam": "Montevideo Wanderers",
+              "awayTeam": "Nacional",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "23:30",
+              "homeTeam": "Cerro Largo",
+              "awayTeam": "Central Espanol",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga FUTVE",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Premier Division Barbuda",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "AFA Senior Male League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Aruban Division di Honor",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "New Providence Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Barbados Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Premier League of Belize",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Bermuda Premier Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Bonaire League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "BVIFA National Islands League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Canadian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Cayman Islands Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Promerica",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Campeonato Nacional de Fútbol",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Curaçao Promé Divishon",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Dominica Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Dominicana Republic de Fútbol",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Primera División",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Primera División",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Atletico Nublense",
+              "awayTeam": "Everton CD",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "Cobresal",
+              "awayTeam": "Coquimbo Unido",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "23:30",
+              "homeTeam": "Union La Calera",
+              "awayTeam": "Club Deportes Limache",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "GFA Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "GFF Elite League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue Haïtienne",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Nacional",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Nacional",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "02:30",
+              "homeTeam": "Estrella Roja",
+              "awayTeam": "Platense FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Racing",
+              "awayTeam": "Boston River",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:30",
+              "homeTeam": "Montevideo Wanderers",
+              "awayTeam": "Nacional",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "23:30",
+              "homeTeam": "Cerro Largo",
+              "awayTeam": "Central Espanol",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "01:30",
+              "homeTeam": "Atletico Independiente",
+              "awayTeam": "Juticalpa",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Jamaica Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga MX",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-16",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "02:00",
+              "homeTeam": "Necaxa",
+              "awayTeam": "Puebla",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "04:00",
+              "homeTeam": "Atlante",
+              "awayTeam": "Pachuca",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "04:00",
+              "homeTeam": "Tijuana",
+              "awayTeam": "Queretaro FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "02:00",
+              "homeTeam": "Leon",
+              "awayTeam": "Atletico de San Luis",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "02:00",
+              "homeTeam": "Puebla",
+              "awayTeam": "Toluca",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Montserrat Championship",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Primera",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Panameña de Fútbol",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Liga Puerto Rico",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "SKNFA Premier Nevis League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "SLFA First Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "NLA Premier the Grenadines League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Suriname Major League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Trinidad and Tobago Tobago Premier Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Provo Premier Islands League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Major League Soccer",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "USVI Premier Islands League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Cymru Premier",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-15",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:30",
+              "homeTeam": "Colwyn Bay",
+              "awayTeam": "Connah's Quay",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "19:45",
+              "homeTeam": "The New Saints",
+              "awayTeam": "Flint Town United",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "09:00",
+              "homeTeam": "Southern District RSA",
+              "awayTeam": "Kitchee",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "09:00",
+              "homeTeam": "Tai Po",
+              "awayTeam": "Hong Kong FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Cherkasy",
+              "awayTeam": "FC Obolon Kyiv",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Kryvbas",
+              "awayTeam": "Metalist 1925",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "12:30",
+              "homeTeam": "Hougang United FC",
+              "awayTeam": "Lion City Sailors FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:00",
+              "homeTeam": "Kaspyi Aktau",
+              "awayTeam": "Aktobe",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "Arsenal Dzerzhinsk",
+              "awayTeam": "FC Baranovichi",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "FC Yelimay",
+              "awayTeam": "Zhetysu Taldykorgan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "Polisi Tanzania FC",
+              "awayTeam": "Mbeya City",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "FC Kapaz",
+              "awayTeam": "Gabala FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "AFC Bournemouth",
+              "awayTeam": "Brentford",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Aston Villa",
+              "awayTeam": "Nottingham Forest",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Chelsea",
+              "awayTeam": "Hull City",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Crystal Palace",
+              "awayTeam": "Ipswich Town",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Gandzasar",
+              "awayTeam": "Ararat Yerevan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Liverpool",
+              "awayTeam": "Fulham",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Ordabasy Shymkent",
+              "awayTeam": "FC Astana",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Borac Banja Luka",
+              "awayTeam": "Zrinjski Mostar",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Celik Zenica",
+              "awayTeam": "Radnik Bijeljina",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "FK Velez Mostar",
+              "awayTeam": "FK Sarajevo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "FK Vitebsk",
+              "awayTeam": "Belshina Bobruisk",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Kaisar Kyzylorda",
+              "awayTeam": "Atyrau",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Siroki Brijeg",
+              "awayTeam": "FK BSK Banja Luka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Veres Rivne",
+              "awayTeam": "Kudrivka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Zhenis",
+              "awayTeam": "FC Kyzylzhar Petropavlovsk",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:45",
+              "homeTeam": "Sumqayit",
+              "awayTeam": "Shamakhi FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Al Ahli",
+              "awayTeam": "Al Ittifaq BHR",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Coastal Union",
+              "awayTeam": "JKT Tanzania",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Sitra",
+              "awayTeam": "Al-Hidd",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Urartu FC",
+              "awayTeam": "FC Noah",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:30",
+              "homeTeam": "Tottenham Hotspur",
+              "awayTeam": "Everton",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Neman Grodno",
+              "awayTeam": "Torpedo Zhodino",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Sunderland",
+              "awayTeam": "Arsenal",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "21:00",
+              "homeTeam": "Supra du Quebec",
+              "awayTeam": "HFX Wanderers FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "03:00",
+              "homeTeam": "Irtysh Pavlodar",
+              "awayTeam": "Okzhetpes Kokshetau",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "05:00",
+              "homeTeam": "Coventry City",
+              "awayTeam": "Brighton",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "05:00",
+              "homeTeam": "Ulytau",
+              "awayTeam": "Altai Semey",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "06:00",
+              "homeTeam": "Kairat Almaty",
+              "awayTeam": "Tobol Kostanay",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "07:30",
+              "homeTeam": "Manchester United",
+              "awayTeam": "Manchester City",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "15:00",
+              "homeTeam": "Shafa",
+              "awayTeam": "Sabah FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "19:00",
+              "homeTeam": "Leeds United",
+              "awayTeam": "Newcastle United",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "15:00",
+              "homeTeam": "Asyut Petroleum",
+              "awayTeam": "Modern Sport FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "15:00",
+              "homeTeam": "El Gounah",
+              "awayTeam": "Petrojet",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "16:00",
+              "homeTeam": "Sloga Doboj",
+              "awayTeam": "Borac Banja Luka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "ENPPI",
+              "awayTeam": "Pyramids FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "Ghazl El Mehalla",
+              "awayTeam": "El Zamalek",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "11:00",
+              "homeTeam": "Lion City Sailors FC",
+              "awayTeam": "BG Pathum United",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "17:30",
+              "homeTeam": "Orlando Pirates",
+              "awayTeam": "Durban City F.C",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Scottish Premiership",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "NIFL Premiership",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Carrick Rangers",
+              "awayTeam": "Cliftonville",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Crusaders",
+              "awayTeam": "Limavady United",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Glentoran",
+              "awayTeam": "Bangor",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Portadown",
+              "awayTeam": "Larne",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Dungannon Swifts",
+              "awayTeam": "Linfield",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Kategoria Superiore",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Partizani",
+              "awayTeam": "FC Dinamo City",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:30",
+              "homeTeam": "Teuta Durres",
+              "awayTeam": "Vora",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Primera Divisió",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "Atletic Escaldes",
+              "awayTeam": "Sporting Escaldes",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Armenian Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Gandzasar",
+              "awayTeam": "Ararat Yerevan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Urartu FC",
+              "awayTeam": "FC Noah",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Austrian Bundesliga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "SCR Altach",
+              "awayTeam": "Grazer AK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:30",
+              "homeTeam": "Wolfsberger AC",
+              "awayTeam": "Rapid Wien",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:30",
+              "homeTeam": "Austria Wien",
+              "awayTeam": "Austria Lustenau",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:30",
+              "homeTeam": "WSG Tirol",
+              "awayTeam": "TSV Hartberg",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "Sturm Graz",
+              "awayTeam": "LASK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Azerbaijan Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "FC Kapaz",
+              "awayTeam": "Gabala FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:45",
+              "homeTeam": "Sumqayit",
+              "awayTeam": "Shamakhi FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:30",
+              "homeTeam": "Araz PFK",
+              "awayTeam": "Turan Tovuz",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "Zira",
+              "awayTeam": "Qarabag FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Belarusian Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Arsenal Dzyarzhynsk",
+              "awayTeam": "Baranovichi",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Vitebsk",
+              "awayTeam": "Belshina",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Neman Grodno",
+              "awayTeam": "Torpedo Zhodino",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "11:00",
+              "homeTeam": "Isloch",
+              "awayTeam": "Gomel",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:00",
+              "homeTeam": "Dnepr Mogilev",
+              "awayTeam": "Maxline Vitebsk",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "BATE Borisov",
+              "awayTeam": "Naftan Novopolotsk",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "18:10",
+              "homeTeam": "Dinamo Minsk",
+              "awayTeam": "Dinamo Brest",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Belgian Pro League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Premier League of Herzegovina Bosnia and Herzegovina",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "First Professional Football League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-16",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "CSKA 1948 Sofia",
+              "awayTeam": "Dunav Ruse",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:15",
+              "homeTeam": "CSKA Sofia",
+              "awayTeam": "Arda Kardzhali",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "17:00",
+              "homeTeam": "PFC Lokomotiv Sofia 1929",
+              "awayTeam": "PFC CSKA Sofia",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "HNL",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Osijek",
+              "awayTeam": "Dinamo Zagreb",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "NK Lokomotiva",
+              "awayTeam": "Rijeka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Cypriot First Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Czech First League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "Bohemians 1905",
+              "awayTeam": "Slovacko",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "FC Zbrojovka Brno",
+              "awayTeam": "SK Lisen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "Slovan Liberec",
+              "awayTeam": "Mlada Boleslav",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Sparta Prague",
+              "awayTeam": "Jablonec",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "12:00",
+              "homeTeam": "Banik Ostrava",
+              "awayTeam": "Pardubice",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "14:00",
+              "homeTeam": "FC Zlin",
+              "awayTeam": "Hradec Kralove",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "14:00",
+              "homeTeam": "Viktoria Plzen",
+              "awayTeam": "SK Sigma Olomouc",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "17:00",
+              "homeTeam": "Teplice",
+              "awayTeam": "Slavia Prague",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Danish Superliga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-13",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "12:00",
+              "homeTeam": "Lyngby",
+              "awayTeam": "Sonderjyske",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:00",
+              "homeTeam": "Silkeborg",
+              "awayTeam": "Viborg",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "14:00",
+              "homeTeam": "Randers",
+              "awayTeam": "OB Odense",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "15:00",
+              "homeTeam": "Nordsjaelland",
+              "awayTeam": "Aarhus",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Meistriliiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-17",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "17:00",
+              "homeTeam": "FCI Levadia",
+              "awayTeam": "Tammeka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Betri deildin",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Veikkausliiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "IFK Mariehamn",
+              "awayTeam": "TPS",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "AC Oulu",
+              "awayTeam": "IF Gnistan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "FF Jaro",
+              "awayTeam": "SJK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Ilves",
+              "awayTeam": "FC Lahti",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:00",
+              "homeTeam": "KuPS",
+              "awayTeam": "HJK Helsinki",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:15",
+              "homeTeam": "Strasbourg",
+              "awayTeam": "AS Monaco",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "MB Rouissat",
+              "awayTeam": "Olympique Akbou",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:45",
+              "homeTeam": "Auxerre",
+              "awayTeam": "Nice",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:45",
+              "homeTeam": "Le Havre",
+              "awayTeam": "Angers",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:45",
+              "homeTeam": "Lorient",
+              "awayTeam": "Toulouse",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:45",
+              "homeTeam": "Paris FC",
+              "awayTeam": "Lyon",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "21:00",
+              "homeTeam": "CS Constantine",
+              "awayTeam": "ASO Chlef",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "05:00",
+              "homeTeam": "Lille",
+              "awayTeam": "Troyes",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "07:15",
+              "homeTeam": "Le Mans",
+              "awayTeam": "Lens",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "10:45",
+              "homeTeam": "Brest",
+              "awayTeam": "Paris Saint-Germain",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Erovnuli Liga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-14",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "12:00",
+              "homeTeam": "FC Meshakhte Tkibuli",
+              "awayTeam": "FC Rustavi",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "15:00",
+              "homeTeam": "Torpedo Kutaisi",
+              "awayTeam": "FC Samgurali Tskhaltubo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "17:00",
+              "homeTeam": "Dinamo Tbilisi",
+              "awayTeam": "FC Gagra",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "16:00",
+              "homeTeam": "FC Iberia 1999",
+              "awayTeam": "Dila Gori",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Bundesliga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "Augsburg",
+              "awayTeam": "Bayer Leverkusen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "Borussia Dortmund",
+              "awayTeam": "Paderborn",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "Freiburg",
+              "awayTeam": "Borussia M'gladbach",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "Hoffenheim",
+              "awayTeam": "VfB Stuttgart",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:30",
+              "homeTeam": "Mainz 05",
+              "awayTeam": "Eintracht Frankfurt",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "SCR Altach",
+              "awayTeam": "Grazer AK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:30",
+              "homeTeam": "FC Cologne",
+              "awayTeam": "Werder Bremen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:30",
+              "homeTeam": "Wolfsberger AC",
+              "awayTeam": "Rapid Wien",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "05:30",
+              "homeTeam": "RB Leipzig",
+              "awayTeam": "Hamburger SV",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "07:30",
+              "homeTeam": "Elversberg",
+              "awayTeam": "Bayern Munich",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Gibraltar Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Super League Greece",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Olympiacos",
+              "awayTeam": "OFI Crete",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "Iraklis",
+              "awayTeam": "Atromitos",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "Kalamata",
+              "awayTeam": "NFC Volos",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "17:00",
+              "homeTeam": "Asteras Tripolis",
+              "awayTeam": "AEK Athens",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "19:00",
+              "homeTeam": "Kifisia FC",
+              "awayTeam": "Levadiakos",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "19:00",
+              "homeTeam": "PAOK FC",
+              "awayTeam": "Aris",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "19:30",
+              "homeTeam": "Panathinaikos",
+              "awayTeam": "Panetolikos",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Nemzeti Bajnokság I",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Besta deild karla",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "League of Ireland Ireland Premier Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Serie A",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-16",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "01:00",
+              "homeTeam": "Coritiba",
+              "awayTeam": "Athletico Paranaense",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "Genoa",
+              "awayTeam": "Frosinone",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Lazio",
+              "awayTeam": "AC Milan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:45",
+              "homeTeam": "Atalanta",
+              "awayTeam": "Cagliari",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Atletico MG",
+              "awayTeam": "Fluminense",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Gremio",
+              "awayTeam": "Vasco da Gama",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "21:00",
+              "homeTeam": "Chapecoense AF",
+              "awayTeam": "Internacional",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "22:30",
+              "homeTeam": "Palmeiras",
+              "awayTeam": "Sao Paulo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "05:00",
+              "homeTeam": "Lecce",
+              "awayTeam": "Monza",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "08:00",
+              "homeTeam": "Napoli",
+              "awayTeam": "Bologna",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "10:45",
+              "homeTeam": "Sassuolo",
+              "awayTeam": "Juventus",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "16:30",
+              "homeTeam": "Como 1907",
+              "awayTeam": "Parma",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "16:30",
+              "homeTeam": "Torino",
+              "awayTeam": "AS Roma",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "18:45",
+              "homeTeam": "Inter",
+              "awayTeam": "Udinese",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "00:00",
+              "homeTeam": "Bahia",
+              "awayTeam": "Remo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "23:30",
+              "homeTeam": "Botafogo FR",
+              "awayTeam": "Gremio",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Kazakhstan Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:00",
+              "homeTeam": "Kaspiy Aktau",
+              "awayTeam": "Aktobe",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "FC Yelimay",
+              "awayTeam": "Zhetysu Taldykorgan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Ordabasy Shymkent",
+              "awayTeam": "FC Astana",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Zhenis",
+              "awayTeam": "FC Kyzyl-Zhar Petropavlovsk",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Kaisar Kyzylorda",
+              "awayTeam": "Atyrau",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "12:00",
+              "homeTeam": "Irtysh Pavlodar",
+              "awayTeam": "Okzhetpes",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "14:00",
+              "homeTeam": "Ulytau",
+              "awayTeam": "Altay",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "15:00",
+              "homeTeam": "Kairat Almaty",
+              "awayTeam": "Tobol Kostanay",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "13:00",
+              "homeTeam": "Tobol Kostanay",
+              "awayTeam": "FC Yelimay",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "14:00",
+              "homeTeam": "FC Astana",
+              "awayTeam": "Kairat Almaty",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "14:00",
+              "homeTeam": "Tobol Kostanay",
+              "awayTeam": "Yelimay Semey",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "15:00",
+              "homeTeam": "Atyrau",
+              "awayTeam": "Ordabasy Shymkent",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Football Superleague of Kosovo",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Virsl ga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "12:00",
+              "homeTeam": "Grobina",
+              "awayTeam": "FK Jelgava",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "03:00",
+              "homeTeam": "BFC Daugavpils",
+              "awayTeam": "RFS",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "A Lyga",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Luxembourg National Division",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Racing FC Union Luxembourg",
+              "awayTeam": "AS Jeunesse Esch",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "US Hostert",
+              "awayTeam": "F91 Dudelange",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "FC Differdange 03",
+              "awayTeam": "FC Etzella Ettelbruck",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "FC Wiltz 71",
+              "awayTeam": "FC Progres Niederkorn",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "06:00",
+              "homeTeam": "Swift Hesperange",
+              "awayTeam": "Walferdange",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "06:00",
+              "homeTeam": "US Mondorf les Bains",
+              "awayTeam": "Una Strassen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "06:00",
+              "homeTeam": "US Rumelange",
+              "awayTeam": "Atert Bissen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Maltese Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Birkirkara",
+              "awayTeam": "Hibernians",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "Floriana",
+              "awayTeam": "Marsaxlokk FC",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Super Liga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Dukla Banska Bystrica",
+              "awayTeam": "Skalica",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Ruzomberok",
+              "awayTeam": "Zemplin Michalovce",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Trencin",
+              "awayTeam": "DAC 1904 Dunajska Streda",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "Spartak Trnava",
+              "awayTeam": "FC Kosice",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Montenegrin First League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Eredivisie",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-15",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:30",
+              "homeTeam": "FC Twente",
+              "awayTeam": "ADO Den Haag",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:45",
+              "homeTeam": "Go Ahead Eagles",
+              "awayTeam": "FC Groningen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:00",
+              "homeTeam": "Fortuna Sittard",
+              "awayTeam": "Ajax",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Cambuur",
+              "awayTeam": "NEC Nijmegen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "02:15",
+              "homeTeam": "Excelsior",
+              "awayTeam": "FC Utrecht",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "04:30",
+              "homeTeam": "SC Heerenveen",
+              "awayTeam": "Telstar",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "06:45",
+              "homeTeam": "PEC Zwolle",
+              "awayTeam": "Feyenoord",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "19:00",
+              "homeTeam": "Ajax",
+              "awayTeam": "Willem II",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Macedonian First Football League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Eliteserien",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Lillestroem",
+              "awayTeam": "Vaalerenga",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Rosenborg",
+              "awayTeam": "Tromsoe",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ekstraklasa",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:45",
+              "homeTeam": "Slask Wroclaw",
+              "awayTeam": "Korona Kielce",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Gornik Zabrze",
+              "awayTeam": "Lech Poznan",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:15",
+              "homeTeam": "Zaglebie Lubin",
+              "awayTeam": "GKS Katowice",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Primeira Liga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:30",
+              "homeTeam": "Nacional",
+              "awayTeam": "Alverca",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Casa Pia AC",
+              "awayTeam": "FC Porto",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:30",
+              "homeTeam": "Academico Viseu",
+              "awayTeam": "Vitoria de Guimaraes",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "17:45",
+              "homeTeam": "Rio Ave",
+              "awayTeam": "CF Estrela da Amadora",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "19:15",
+              "homeTeam": "Moreirense",
+              "awayTeam": "Maritimo",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "19:45",
+              "homeTeam": "SC Braga",
+              "awayTeam": "Estoril",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "SuperLiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Sepsi OSK",
+              "awayTeam": "CFR Cluj",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "FC Rapid 1923",
+              "awayTeam": "FC Voluntari",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "13:00",
+              "homeTeam": "ACS Champions FC Arges",
+              "awayTeam": "Botosani",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Campionato Sammarinese",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Serbian SuperLiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:30",
+              "homeTeam": "Cukaricki",
+              "awayTeam": "Novi Pazar",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "FK Radnicki 1923",
+              "awayTeam": "Mladost Lucani",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "Radnicki Nis",
+              "awayTeam": "OFK Beograd",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "18:00",
+              "homeTeam": "FK IMT Beograd",
+              "awayTeam": "FK Crvena Zvezda",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "20:00",
+              "homeTeam": "Partizan Beograd",
+              "awayTeam": "Vojvodina",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Niké Liga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Dukla Banska Bystrica",
+              "awayTeam": "Skalica",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Ruzomberok",
+              "awayTeam": "Zemplin Michalovce",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Trencin",
+              "awayTeam": "DAC 1904 Dunajska Streda",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:30",
+              "homeTeam": "Spartak Trnava",
+              "awayTeam": "FC Kosice",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "Zeleziarne Podbrezova",
+              "awayTeam": "Komarno",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "18:00",
+              "homeTeam": "Slovan Bratislava",
+              "awayTeam": "Zilina",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "PrvaLiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-12",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "Koper",
+              "awayTeam": "Olimpija Ljubljana",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "19:15",
+              "homeTeam": "NK Bravo",
+              "awayTeam": "NK Celje",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "LaLiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "13:00",
+              "homeTeam": "Racing Santander",
+              "awayTeam": "Deportivo Alaves",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:15",
+              "homeTeam": "Osasuna",
+              "awayTeam": "Espanyol",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:30",
+              "homeTeam": "Athletic Club",
+              "awayTeam": "Elche",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "20:00",
+              "homeTeam": "Real Madrid",
+              "awayTeam": "Rayo Vallecano",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "04:00",
+              "homeTeam": "Celta Vigo",
+              "awayTeam": "Malaga",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "06:15",
+              "homeTeam": "Levante",
+              "awayTeam": "Barcelona",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "08:30",
+              "homeTeam": "Getafe",
+              "awayTeam": "Deportivo A Coruna",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "11:00",
+              "homeTeam": "Real Sociedad",
+              "awayTeam": "Atletico Madrid",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "19:00",
+              "homeTeam": "Villarreal",
+              "awayTeam": "Real Betis",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "18:00",
+              "homeTeam": "Rayo Vallecano",
+              "awayTeam": "Espanyol",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "19:00",
+              "homeTeam": "Deportivo Alaves",
+              "awayTeam": "Valencia",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "20:30",
+              "homeTeam": "Elche",
+              "awayTeam": "Real Madrid",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "Atletico Madrid",
+              "awayTeam": "Osasuna",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "Deportivo A Coruna",
+              "awayTeam": "Sevilla",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "20:30",
+              "homeTeam": "Barcelona",
+              "awayTeam": "Racing Santander",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "20:30",
+              "homeTeam": "Levante",
+              "awayTeam": "Athletic Club",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "18:00",
+              "homeTeam": "Real Betis",
+              "awayTeam": "Getafe",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-17",
+              "kickoffTime": "20:30",
+              "homeTeam": "Malaga",
+              "awayTeam": "Villarreal",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Allsvenskan",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-16",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "14:00",
+              "homeTeam": "AIK",
+              "awayTeam": "Vasteraas SK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:30",
+              "homeTeam": "IFK Gothenburg",
+              "awayTeam": "Halmstads BK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "AIK",
+              "awayTeam": "Mjaellby",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Swiss Super League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-16",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "St. Gallen",
+              "awayTeam": "Sion",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "17:00",
+              "homeTeam": "Thun",
+              "awayTeam": "Grasshopper",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Lugano",
+              "awayTeam": "Young Boys",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-15",
+              "kickoffTime": "18:00",
+              "homeTeam": "Grasshopper",
+              "awayTeam": "Sion",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "Lugano",
+              "awayTeam": "St. Gallen",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-16",
+              "kickoffTime": "18:00",
+              "homeTeam": "Thun",
+              "awayTeam": "Servette",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Süper Lig",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Eyupspor",
+              "awayTeam": "Rizespor",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "15:00",
+              "homeTeam": "Samsunspor",
+              "awayTeam": "Corum FK",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Alanyaspor",
+              "awayTeam": "Goztepe",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "18:00",
+              "homeTeam": "Konyaspor",
+              "awayTeam": "Trabzonspor",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-14",
+              "kickoffTime": "17:00",
+              "homeTeam": "Gaziantep FK",
+              "awayTeam": "Fenerbahçe",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ukrainian Premier League",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": null,
+          "roundName": "Verified date-range fixtures",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Cherkasy",
+              "awayTeam": "FC Obolon Kyiv",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "11:00",
+              "homeTeam": "Kryvbas",
+              "awayTeam": "Metalist 1925",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-12",
+              "kickoffTime": "16:00",
+              "homeTeam": "Veres Rivne",
+              "awayTeam": "Kudrivka",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "11:00",
+              "homeTeam": "Livyi Bereg",
+              "awayTeam": "Polissya Zhytomyr",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            },
+            {
+              "matchId": "",
+              "dateIso": "2026-09-13",
+              "kickoffTime": "16:00",
+              "homeTeam": "Bukovyna Chernivtsi",
+              "awayTeam": "Zorya",
+              "homeTeamId": "",
+              "awayTeamId": "",
+              "venue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "leagueId": "",
+      "officialName": "Russian Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "FFAS Senior League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Cook Islands Round Cup",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Fiji Premier League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Kiribati National Championship",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "New Caledonia Super Ligue",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "New Zealand National League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "PNG Premier Soccer League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Samoa National League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "S-League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Ligue 1 Vini",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Tonga Major League",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "Tuvalu A-Division",
+      "season": "2026-2027",
+      "rounds": []
+    },
+    {
+      "leagueId": "",
+      "officialName": "VFF National Super League",
+      "season": "2026-2027",
+      "rounds": []
+    }
+  ]
+}

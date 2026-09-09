@@ -1,0 +1,4839 @@
+{
+  "metadata": {
+    "schemaVersion": "1.1.0",
+    "datasetType": "GLOBAL_FOOTBALL_TEAM_LOGO_DATABASE",
+    "datasetVersion": "2026.09.09",
+    "season": "2026-2027",
+    "lastUpdatedIso": "2026-09-09T20:10:22Z",
+    "datasetStatus": "EVIDENCE_BACKED_PARTIAL",
+    "scopeSource": "League_GLOBAL_FINAL.txt",
+    "scopeLeagueCount": 211,
+    "verifiedTeamRecordCount": 203,
+    "verifiedLeagueCount": 14,
+    "description": "Team logo records retained only where a concrete logo URL already exists in the supplied evidence-backed database. League registry is derived from League_GLOBAL_FINAL.txt. No team, membership, or logo URL has been fabricated."
+  },
+  "leagueRegistry": [
+    {
+      "leagueId": "afg.1",
+      "countryId": "afghanistan",
+      "country": "Afghanistan",
+      "officialName": "Afghan Premier ال League ال",
+      "arabicName": "دوري الأفغاني ممتاز"
+    },
+    {
+      "leagueId": "aus.1",
+      "countryId": "australia",
+      "country": "Australia",
+      "officialName": "A-League Men ال لل",
+      "arabicName": "دوري الأسترالي محترفين"
+    },
+    {
+      "leagueId": "bhr.1",
+      "countryId": "bahrain",
+      "country": "Bahrain",
+      "officialName": "Bahraini Premier ال League ال",
+      "arabicName": "دوري البحريني ممتاز"
+    },
+    {
+      "leagueId": "bgd.1",
+      "countryId": "bangladesh",
+      "country": "Bangladesh",
+      "officialName": "Bangladesh ال Premier League ال ال",
+      "arabicName": "دوري بنغلاديشي ممتاز"
+    },
+    {
+      "leagueId": "bhutan.1",
+      "countryId": "bhutan",
+      "country": "Bhutan",
+      "officialName": "Bhutan Premier ال League ال",
+      "arabicName": "دوري البوتاني ممتاز"
+    },
+    {
+      "leagueId": "brunei.1",
+      "countryId": "brunei",
+      "country": "Brunei Darussalam",
+      "officialName": "Brunei Super ال League ال",
+      "arabicName": "دوري البروناوي ممتاز"
+    },
+    {
+      "leagueId": "cambodia.1",
+      "countryId": "cambodia",
+      "country": "Cambodia",
+      "officialName": "Cambodian Premier ال League ال",
+      "arabicName": "دوري الكمبودي ممتاز"
+    },
+    {
+      "leagueId": "chn.1",
+      "countryId": "china",
+      "country": "China",
+      "officialName": "Chinese Super ال League ال",
+      "arabicName": "دوري الصيني ممتاز"
+    },
+    {
+      "leagueId": "chinese_taipei.1",
+      "countryId": "chinese_taipei",
+      "country": "Chinese Taipei",
+      "officialName": "Taiwan Football ال Premier League ال",
+      "arabicName": "دوري التايواني ممتاز"
+    },
+    {
+      "leagueId": "hkg.1",
+      "countryId": "hong_kong",
+      "country": "Hong Kong",
+      "officialName": "Hong Kong Premier ال League هو",
+      "arabicName": "دوري الممتاز في نغ كونغ"
+    },
+    {
+      "leagueId": "ind.1",
+      "countryId": "india",
+      "country": "India",
+      "officialName": "Indian Super ال League ال",
+      "arabicName": "دوري الهندي ممتاز"
+    },
+    {
+      "leagueId": "idn.1",
+      "countryId": "indonesia",
+      "country": "Indonesia",
+      "officialName": "Liga 1 ال",
+      "arabicName": "دوري الإندونيسي"
+    },
+    {
+      "leagueId": "irn.1",
+      "countryId": "iran",
+      "country": "Iran",
+      "officialName": "Persian Gulf Pro ال League لل",
+      "arabicName": "دوري الإيراني محترفين"
+    },
+    {
+      "leagueId": "irq.1",
+      "countryId": "iraq",
+      "country": "Iraq",
+      "officialName": "Iraq Stars League دو",
+      "arabicName": "ري نجوم العراق"
+    },
+    {
+      "leagueId": "jpn.1",
+      "countryId": "japan",
+      "country": "Japan",
+      "officialName": "J1 League ال J1",
+      "arabicName": "دوري الياباني"
+    },
+    {
+      "leagueId": "jor.1",
+      "countryId": "jordan",
+      "country": "Jordan",
+      "officialName": "Jordanian Pro ال League لل",
+      "arabicName": "دوري الأردني محترفين"
+    },
+    {
+      "leagueId": "kuw.1",
+      "countryId": "kuwait",
+      "country": "Kuwait",
+      "officialName": "Kuwait Premier ال League ال",
+      "arabicName": "دوري الكويتي ممتاز"
+    },
+    {
+      "leagueId": "kyrgyzstan.1",
+      "countryId": "kyrgyzstan",
+      "country": "Kyrgyzstan",
+      "officialName": "Kyrgyz Premier ال League ال ال",
+      "arabicName": "دوري قرغيزستاني ممتاز"
+    },
+    {
+      "leagueId": "laos.1",
+      "countryId": "laos",
+      "country": "Laos",
+      "officialName": "Lao League 1 ال ال",
+      "arabicName": "دوري اللاوسي أول"
+    },
+    {
+      "leagueId": "lebanon.1",
+      "countryId": "lebanon",
+      "country": "Lebanon",
+      "officialName": "Lebanese Premier ال League ال",
+      "arabicName": "دوري اللبناني ممتاز"
+    },
+    {
+      "leagueId": "macau.1",
+      "countryId": "macau",
+      "country": "Macau",
+      "officialName": "Liga de Elite دو ما",
+      "arabicName": "ري النخبة في كاو"
+    },
+    {
+      "leagueId": "mys.1",
+      "countryId": "malaysia",
+      "country": "Malaysia",
+      "officialName": "Malaysia Super ال League ال",
+      "arabicName": "دوري الماليزي ممتاز"
+    },
+    {
+      "leagueId": "maldives.1",
+      "countryId": "maldives",
+      "country": "Maldives",
+      "officialName": "Dhivehi Premier ال League ال",
+      "arabicName": "دوري المالديفي ممتاز"
+    },
+    {
+      "leagueId": "mongolia.1",
+      "countryId": "mongolia",
+      "country": "Mongolia",
+      "officialName": "Mongolia Premier ال League ال",
+      "arabicName": "دوري المنغولي ممتاز"
+    },
+    {
+      "leagueId": "myanmar.1",
+      "countryId": "myanmar",
+      "country": "Myanmar",
+      "officialName": "Myanmar National ال League ال",
+      "arabicName": "دوري الوطني ميانماري"
+    },
+    {
+      "leagueId": "nep.1",
+      "countryId": "nepal",
+      "country": "Nepal",
+      "officialName": "Martyr’s Memorial دو A-Division League ال",
+      "arabicName": "ري الدرجة أولى النيبالي"
+    },
+    {
+      "leagueId": "north_korea.1",
+      "countryId": "north_korea",
+      "country": "North Korea",
+      "officialName": "DPR Korea Premier ال Football League ال",
+      "arabicName": "دوري الكوري شمالي الممتاز"
+    },
+    {
+      "leagueId": "omn.1",
+      "countryId": "oman",
+      "country": "Oman",
+      "officialName": "Oman Professional ال League لل",
+      "arabicName": "دوري العماني محترفين"
+    },
+    {
+      "leagueId": "pak.1",
+      "countryId": "pakistan",
+      "country": "Pakistan",
+      "officialName": "Pakistan Premier ال League ال",
+      "arabicName": "دوري الباكستاني ممتاز"
+    },
+    {
+      "leagueId": "pal.1",
+      "countryId": "palestine",
+      "country": "Palestine",
+      "officialName": "West Bank Premier دو League ال",
+      "arabicName": "ري الضفة غربية الممتاز"
+    },
+    {
+      "leagueId": "phl.1",
+      "countryId": "philippines",
+      "country": "Philippines",
+      "officialName": "Philippines ال Football League",
+      "arabicName": "دوري الفلبيني"
+    },
+    {
+      "leagueId": "qat.1",
+      "countryId": "qatar",
+      "country": "Qatar",
+      "officialName": "Qatar Stars دو League",
+      "arabicName": "ري نجوم قطر"
+    },
+    {
+      "leagueId": "ksa.1",
+      "countryId": "saudi_arabia",
+      "country": "Saudi Arabia",
+      "officialName": "Saudi Pro League ال لل",
+      "arabicName": "دوري السعودي محترفين"
+    },
+    {
+      "leagueId": "sgp.1",
+      "countryId": "singapore",
+      "country": "Singapore",
+      "officialName": "Singapore Premier ال League ال",
+      "arabicName": "دوري السنغافوري ممتاز"
+    },
+    {
+      "leagueId": "kor.1",
+      "countryId": "south_korea",
+      "country": "South Korea",
+      "officialName": "K League 1 ال ال",
+      "arabicName": "دوري الكوري جنوبي K1"
+    },
+    {
+      "leagueId": "sri_lanka.1",
+      "countryId": "sri_lanka",
+      "country": "Sri Lanka",
+      "officialName": "Sri Lanka Super ال League ال",
+      "arabicName": "دوري السريلانكي ممتاز"
+    },
+    {
+      "leagueId": "syria.1",
+      "countryId": "syria",
+      "country": "Syria",
+      "officialName": "Syrian Premier ال League ال",
+      "arabicName": "دوري السوري ممتاز"
+    },
+    {
+      "leagueId": "tajikistan.1",
+      "countryId": "tajikistan",
+      "country": "Tajikistan",
+      "officialName": "Tajikistan Higher ال League ال",
+      "arabicName": "دوري الطاجيكي ممتاز"
+    },
+    {
+      "leagueId": "tha.1",
+      "countryId": "thailand",
+      "country": "Thailand",
+      "officialName": "Thai League 1 ال ال",
+      "arabicName": "دوري التايلاندي أول"
+    },
+    {
+      "leagueId": "timor_leste.1",
+      "countryId": "timor_leste",
+      "country": "Timor-Leste",
+      "officialName": "Liga Futebol دو Amadora ال",
+      "arabicName": "ري تيمور شرقية"
+    },
+    {
+      "leagueId": "turkmenistan.1",
+      "countryId": "turkmenistan",
+      "country": "Turkmenistan",
+      "officialName": "Ýokary Liga ال ال",
+      "arabicName": "دوري التركماني ممتاز"
+    },
+    {
+      "leagueId": "uae.1",
+      "countryId": "united_arab_emirates",
+      "country": "United Arab Emirates",
+      "officialName": "UAE Pro League دو لل",
+      "arabicName": "ري أدنوك محترفين"
+    },
+    {
+      "leagueId": "uzb.1",
+      "countryId": "uzbekistan",
+      "country": "Uzbekistan",
+      "officialName": "Uzbekistan Super ال League ال",
+      "arabicName": "دوري الأوزبكي ممتاز"
+    },
+    {
+      "leagueId": "vnm.1",
+      "countryId": "vietnam",
+      "country": "Vietnam",
+      "officialName": "V.League 1 ال ال",
+      "arabicName": "دوري الفيتنامي أول"
+    },
+    {
+      "leagueId": "yem.1",
+      "countryId": "yemen",
+      "country": "Yemen",
+      "officialName": "Yemeni League ال",
+      "arabicName": "دوري اليمني"
+    },
+    {
+      "leagueId": "alg.1",
+      "countryId": "algeria",
+      "country": "Algeria",
+      "officialName": "Ligue ال Professionnelle 1 ال",
+      "arabicName": "رابطة الجزائرية محترفة الأولى"
+    },
+    {
+      "leagueId": "ang.1",
+      "countryId": "angola",
+      "country": "Angola",
+      "officialName": "Girabola ال ال",
+      "arabicName": "دوري الأنغولي ممتاز"
+    },
+    {
+      "leagueId": "benin.1",
+      "countryId": "benin",
+      "country": "Benin",
+      "officialName": "Ligue ال Professionnelle",
+      "arabicName": "دوري البنيني"
+    },
+    {
+      "leagueId": "bots.1",
+      "countryId": "botswana",
+      "country": "Botswana",
+      "officialName": "Botswana Premier ال League ال",
+      "arabicName": "دوري البوتسواني ممتاز"
+    },
+    {
+      "leagueId": "burkina_faso.1",
+      "countryId": "burkina_faso",
+      "country": "Burkina Faso",
+      "officialName": "Burkinabè Premier ال League ال ال",
+      "arabicName": "دوري بوركينابي ممتاز"
+    },
+    {
+      "leagueId": "burundi.1",
+      "countryId": "burundi",
+      "country": "Burundi",
+      "officialName": "Ligue A ال ال",
+      "arabicName": "دوري البوروندي ممتاز"
+    },
+    {
+      "leagueId": "cabo_verde.1",
+      "countryId": "cabo_verde",
+      "country": "Cabo Verde",
+      "officialName": "Campeonato ال Nacional في",
+      "arabicName": "بطولة الوطنية الرأس الأخضر"
+    },
+    {
+      "leagueId": "cmr.1",
+      "countryId": "cameroon",
+      "country": "Cameroon",
+      "officialName": "Elite One ال ال",
+      "arabicName": "دوري الكاميروني ممتاز"
+    },
+    {
+      "leagueId": "central_african_republic.1",
+      "countryId": "central_african_republic",
+      "country": "Central African Republic",
+      "officialName": "Central African ال Republic League أف",
+      "arabicName": "دوري لجمهورية ريقيا الوسطى"
+    },
+    {
+      "leagueId": "chad.1",
+      "countryId": "chad",
+      "country": "Chad",
+      "officialName": "Chad Premier ال League ال",
+      "arabicName": "دوري التشادي ممتاز"
+    },
+    {
+      "leagueId": "comoros.1",
+      "countryId": "comoros",
+      "country": "Comoros",
+      "officialName": "Comoros Premier ال League ال",
+      "arabicName": "دوري القمري ممتاز"
+    },
+    {
+      "leagueId": "congo.1",
+      "countryId": "congo",
+      "country": "Republic of the Congo",
+      "officialName": "Ligue 1 ال",
+      "arabicName": "دوري الكونغولي"
+    },
+    {
+      "leagueId": "dr_congo.1",
+      "countryId": "dr_congo",
+      "country": "DR Congo",
+      "officialName": "Linafoot Ligue 1 ال ال",
+      "arabicName": "دوري الكونغولي ديمقراطي"
+    },
+    {
+      "leagueId": "cote_divoire.1",
+      "countryId": "cote_divoire",
+      "country": "Côte d’Ivoire",
+      "officialName": "Ligue 1 ال ال",
+      "arabicName": "دوري الإيفواري ممتاز"
+    },
+    {
+      "leagueId": "djibouti.1",
+      "countryId": "djibouti",
+      "country": "Djibouti",
+      "officialName": "Djibouti Premier ال League ال",
+      "arabicName": "دوري الجيبوتي ممتاز"
+    },
+    {
+      "leagueId": "egypt.1",
+      "countryId": "egypt",
+      "country": "Egypt",
+      "officialName": "Egyptian Premier ال League ال",
+      "arabicName": "دوري المصري ممتاز"
+    },
+    {
+      "leagueId": "equatorial_guinea.1",
+      "countryId": "equatorial_guinea",
+      "country": "Equatorial Guinea",
+      "officialName": "Primera División ال ال",
+      "arabicName": "دوري الغيني استوائي"
+    },
+    {
+      "leagueId": "eritrea.1",
+      "countryId": "eritrea",
+      "country": "Eritrea",
+      "officialName": "Eritrean Premier ال League ال",
+      "arabicName": "دوري الإريتري ممتاز"
+    },
+    {
+      "leagueId": "esw.1",
+      "countryId": "eswatini",
+      "country": "Eswatini",
+      "officialName": "Premier League of ال Eswatini ال",
+      "arabicName": "دوري الإسواتيني ممتاز"
+    },
+    {
+      "leagueId": "eth.1",
+      "countryId": "ethiopia",
+      "country": "Ethiopia",
+      "officialName": "Ethiopian Premier ال League ال",
+      "arabicName": "دوري الإثيوبي ممتاز"
+    },
+    {
+      "leagueId": "gabon.1",
+      "countryId": "gabon",
+      "country": "Gabon",
+      "officialName": "Gabon Championnat ال National D1 ال",
+      "arabicName": "دوري الغابوني ممتاز"
+    },
+    {
+      "leagueId": "gambia.1",
+      "countryId": "gambia",
+      "country": "The Gambia",
+      "officialName": "GFA League First دو Division",
+      "arabicName": "ري غامبيا الأول"
+    },
+    {
+      "leagueId": "gha.1",
+      "countryId": "ghana",
+      "country": "Ghana",
+      "officialName": "Ghana Premier ال League ال",
+      "arabicName": "دوري الغاني ممتاز"
+    },
+    {
+      "leagueId": "guinea.1",
+      "countryId": "guinea",
+      "country": "Guinea",
+      "officialName": "Ligue 1 ال ال",
+      "arabicName": "دوري الغيني ممتاز"
+    },
+    {
+      "leagueId": "guinea_bissau.1",
+      "countryId": "guinea_bissau",
+      "country": "Guinea-Bissau",
+      "officialName": "Campeonato ال Nacional da لغ Guiné-Bissau",
+      "arabicName": "دوري الوطني ينيا بيساو"
+    },
+    {
+      "leagueId": "ken.1",
+      "countryId": "kenya",
+      "country": "Kenya",
+      "officialName": "Kenyan Premier ال League ال",
+      "arabicName": "دوري الكيني ممتاز"
+    },
+    {
+      "leagueId": "les.1",
+      "countryId": "lesotho",
+      "country": "Lesotho",
+      "officialName": "Lesotho Premier ال League ال",
+      "arabicName": "دوري الليسوتي ممتاز"
+    },
+    {
+      "leagueId": "liberia.1",
+      "countryId": "liberia",
+      "country": "Liberia",
+      "officialName": "Liberian First ال Division ال",
+      "arabicName": "دوري الليبيري أول"
+    },
+    {
+      "leagueId": "lby.1",
+      "countryId": "libya",
+      "country": "Libya",
+      "officialName": "Libyan Premier ال League ال",
+      "arabicName": "دوري الليبي ممتاز"
+    },
+    {
+      "leagueId": "mad.1",
+      "countryId": "madagascar",
+      "country": "Madagascar",
+      "officialName": "Orange Pro League ال ال",
+      "arabicName": "دوري الملغاشي ممتاز"
+    },
+    {
+      "leagueId": "mwi.1",
+      "countryId": "malawi",
+      "country": "Malawi",
+      "officialName": "Malawi Super ال League ال",
+      "arabicName": "دوري المالاوي ممتاز"
+    },
+    {
+      "leagueId": "mali.1",
+      "countryId": "mali",
+      "country": "Mali",
+      "officialName": "Malian Première ال Division ال",
+      "arabicName": "دوري المالي ممتاز"
+    },
+    {
+      "leagueId": "mauritania.1",
+      "countryId": "mauritania",
+      "country": "Mauritania",
+      "officialName": "Ligue 1 ال ال",
+      "arabicName": "دوري الموريتاني ممتاز"
+    },
+    {
+      "leagueId": "mauritius.1",
+      "countryId": "mauritius",
+      "country": "Mauritius",
+      "officialName": "Mauritian Premier ال League ال",
+      "arabicName": "دوري الموريشي ممتاز"
+    },
+    {
+      "leagueId": "mar.1",
+      "countryId": "morocco",
+      "country": "Morocco",
+      "officialName": "Botola Pro ال ال ال",
+      "arabicName": "بطولة احترافية مغربية"
+    },
+    {
+      "leagueId": "moz.1",
+      "countryId": "mozambique",
+      "country": "Mozambique",
+      "officialName": "Moçambola ال ال",
+      "arabicName": "دوري الموزمبيقي ممتاز"
+    },
+    {
+      "leagueId": "nam.1",
+      "countryId": "namibia",
+      "country": "Namibia",
+      "officialName": "Namibia Premier ال Football League ال",
+      "arabicName": "دوري الناميبي ممتاز"
+    },
+    {
+      "leagueId": "niger.1",
+      "countryId": "niger",
+      "country": "Niger",
+      "officialName": "Super Ligue ال ال",
+      "arabicName": "دوري النيجري ممتاز"
+    },
+    {
+      "leagueId": "nga.1",
+      "countryId": "nigeria",
+      "country": "Nigeria",
+      "officialName": "Nigeria Premier ال Football League ال",
+      "arabicName": "دوري النيجيري ممتاز"
+    },
+    {
+      "leagueId": "rwa.1",
+      "countryId": "rwanda",
+      "country": "Rwanda",
+      "officialName": "Rwanda Premier ال League ال",
+      "arabicName": "دوري الرواندي ممتاز"
+    },
+    {
+      "leagueId": "sao_tome.1",
+      "countryId": "sao_tome",
+      "country": "São Tomé and Príncipe",
+      "officialName": "Campeonato ال Nacional لس وب",
+      "arabicName": "دوري الوطني او تومي رينسيبي"
+    },
+    {
+      "leagueId": "sen.1",
+      "countryId": "senegal",
+      "country": "Senegal",
+      "officialName": "Ligue 1 ال ال",
+      "arabicName": "دوري السنغالي ممتاز"
+    },
+    {
+      "leagueId": "seychelles.1",
+      "countryId": "seychelles",
+      "country": "Seychelles",
+      "officialName": "Seychelles ال Premier League ال",
+      "arabicName": "دوري السيشيلي ممتاز"
+    },
+    {
+      "leagueId": "sierra_leone.1",
+      "countryId": "sierra_leone",
+      "country": "Sierra Leone",
+      "officialName": "Sierra Leone ال Premier League ال ال",
+      "arabicName": "دوري سيراليوني ممتاز"
+    },
+    {
+      "leagueId": "som.1",
+      "countryId": "somalia",
+      "country": "Somalia",
+      "officialName": "Somali Premier ال League ال",
+      "arabicName": "دوري الصومالي ممتاز"
+    },
+    {
+      "leagueId": "rsa.1",
+      "countryId": "south_africa",
+      "country": "South Africa",
+      "officialName": "Betway ال Premiership أف",
+      "arabicName": "دوري الجنوب ريقي الممتاز"
+    },
+    {
+      "leagueId": "ssd.1",
+      "countryId": "south_sudan",
+      "country": "South Sudan",
+      "officialName": "South Sudan ال Premier League سو",
+      "arabicName": "دوري الجنوب داني الممتاز"
+    },
+    {
+      "leagueId": "sud.1",
+      "countryId": "sudan",
+      "country": "Sudan",
+      "officialName": "Sudan Premier ال League ال",
+      "arabicName": "دوري السوداني ممتاز"
+    },
+    {
+      "leagueId": "tan.1",
+      "countryId": "tanzania",
+      "country": "Tanzania",
+      "officialName": "NBC Premier ال League ال",
+      "arabicName": "دوري التنزاني ممتاز"
+    },
+    {
+      "leagueId": "togo.1",
+      "countryId": "togo",
+      "country": "Togo",
+      "officialName": "Championnat ال National ال",
+      "arabicName": "دوري التوغولي ممتاز"
+    },
+    {
+      "leagueId": "tun.1",
+      "countryId": "tunisia",
+      "country": "Tunisia",
+      "officialName": "Ligue ال Professionnelle 1 ال",
+      "arabicName": "رابطة التونسية محترفة الأولى"
+    },
+    {
+      "leagueId": "uga.1",
+      "countryId": "uganda",
+      "country": "Uganda",
+      "officialName": "Uganda Premier ال League ال",
+      "arabicName": "دوري الأوغندي ممتاز"
+    },
+    {
+      "leagueId": "zmb.1",
+      "countryId": "zambia",
+      "country": "Zambia",
+      "officialName": "Zambia Super ال League ال",
+      "arabicName": "دوري الزامبي ممتاز"
+    },
+    {
+      "leagueId": "zim.1",
+      "countryId": "zimbabwe",
+      "country": "Zimbabwe",
+      "officialName": "Zimbabwe Premier ال Soccer League ال",
+      "arabicName": "دوري الزيمبابوي ممتاز"
+    },
+    {
+      "leagueId": "arg.1",
+      "countryId": "argentina",
+      "country": "Argentina",
+      "officialName": "Liga Profesional ال de Fútbol لل",
+      "arabicName": "دوري الأرجنتيني محترفين"
+    },
+    {
+      "leagueId": "bol.1",
+      "countryId": "bolivia",
+      "country": "Bolivia",
+      "officialName": "División ال Profesional لل",
+      "arabicName": "دوري البوليفي محترفين"
+    },
+    {
+      "leagueId": "bra.1",
+      "countryId": "brazil",
+      "country": "Brazil",
+      "officialName": "Campeonato ال Brasileiro Série ال A",
+      "arabicName": "دوري البرازيلي درجة الأولى"
+    },
+    {
+      "leagueId": "chl.1",
+      "countryId": "chile",
+      "country": "Chile",
+      "officialName": "Liga de Primera ال ال",
+      "arabicName": "دوري التشيلي ممتاز"
+    },
+    {
+      "leagueId": "col.1",
+      "countryId": "colombia",
+      "country": "Colombia",
+      "officialName": "Categoría Primera ال A ال",
+      "arabicName": "دوري الكولومبي ممتاز"
+    },
+    {
+      "leagueId": "ecu.1",
+      "countryId": "ecuador",
+      "country": "Ecuador",
+      "officialName": "LigaPro Serie A ال ال",
+      "arabicName": "دوري الإكوادوري ممتاز"
+    },
+    {
+      "leagueId": "par.1",
+      "countryId": "paraguay",
+      "country": "Paraguay",
+      "officialName": "División de Honor دو ال ال",
+      "arabicName": "ري الدرجة أولى باراغواياني"
+    },
+    {
+      "leagueId": "per.1",
+      "countryId": "peru",
+      "country": "Peru",
+      "officialName": "Liga 1 ال ال",
+      "arabicName": "دوري البيروفي ممتاز"
+    },
+    {
+      "leagueId": "ury.1",
+      "countryId": "uruguay",
+      "country": "Uruguay",
+      "officialName": "Liga AUF Uruguaya ال ال",
+      "arabicName": "دوري أوروغواياني"
+    },
+    {
+      "leagueId": "ven.1",
+      "countryId": "venezuela",
+      "country": "Venezuela",
+      "officialName": "Liga FUTVE ال ال",
+      "arabicName": "دوري الفنزويلي ممتاز"
+    },
+    {
+      "leagueId": "antigua_barbuda.1",
+      "countryId": "antigua_barbuda",
+      "country": "Antigua and Barbuda",
+      "officialName": "Premier Division ال لأ",
+      "arabicName": "دوري الممتاز نتيغوا وبربودا"
+    },
+    {
+      "leagueId": "anguilla.1",
+      "countryId": "anguilla",
+      "country": "Anguilla",
+      "officialName": "AFA Senior Male دو League لل",
+      "arabicName": "ري أنغويلا رجال"
+    },
+    {
+      "leagueId": "aruba.1",
+      "countryId": "aruba",
+      "country": "Aruba",
+      "officialName": "Aruban Division دو di Honor ال",
+      "arabicName": "ري أروبا ممتاز"
+    },
+    {
+      "leagueId": "bahamas.1",
+      "countryId": "bahamas",
+      "country": "Bahamas",
+      "officialName": "New Providence دو Football League",
+      "arabicName": "ري جزر البهاما"
+    },
+    {
+      "leagueId": "barbados.1",
+      "countryId": "barbados",
+      "country": "Barbados",
+      "officialName": "Barbados Premier ال League ال",
+      "arabicName": "دوري البربادوسي ممتاز"
+    },
+    {
+      "leagueId": "belize.1",
+      "countryId": "belize",
+      "country": "Belize",
+      "officialName": "Premier League of ال Belize ال",
+      "arabicName": "دوري البلِيزِي ممتاز"
+    },
+    {
+      "leagueId": "ber.1",
+      "countryId": "bermuda",
+      "country": "Bermuda",
+      "officialName": "Bermuda Premier ال Division ال",
+      "arabicName": "دوري البرمودي ممتاز"
+    },
+    {
+      "leagueId": "bonaire.1",
+      "countryId": "bonaire",
+      "country": "Bonaire",
+      "officialName": "Bonaire League دو",
+      "arabicName": "ري بونير"
+    },
+    {
+      "leagueId": "british_virgin_islands.1",
+      "countryId": "british_virgin_islands",
+      "country": "British Virgin Islands",
+      "officialName": "BVIFA National ال League لج ال",
+      "arabicName": "دوري الوطني زر العذراء بريطانية"
+    },
+    {
+      "leagueId": "can.1",
+      "countryId": "canada",
+      "country": "Canada",
+      "officialName": "Canadian Premier ال League ال",
+      "arabicName": "دوري الكندي ممتاز"
+    },
+    {
+      "leagueId": "cayman_islands.1",
+      "countryId": "cayman_islands",
+      "country": "Cayman Islands",
+      "officialName": "Cayman Islands ال Premier League لج",
+      "arabicName": "دوري الممتاز زر كايمان"
+    },
+    {
+      "leagueId": "crc.1",
+      "countryId": "costa_rica",
+      "country": "Costa Rica",
+      "officialName": "Liga Promerica ال ال ال",
+      "arabicName": "دوري كوستاريكي ممتاز"
+    },
+    {
+      "leagueId": "cub.1",
+      "countryId": "cuba",
+      "country": "Cuba",
+      "officialName": "Campeonato ال Nacional de ال Fútbol",
+      "arabicName": "بطولة الوطنية كوبية"
+    },
+    {
+      "leagueId": "cur.1",
+      "countryId": "curacao",
+      "country": "Curaçao",
+      "officialName": "Curaçao Promé ال Divishon كو",
+      "arabicName": "دوري الممتاز في راساو"
+    },
+    {
+      "leagueId": "dominica.1",
+      "countryId": "dominica",
+      "country": "Dominica",
+      "officialName": "Dominica Premier ال League ال",
+      "arabicName": "دوري الدومينيكي ممتاز"
+    },
+    {
+      "leagueId": "dom.1",
+      "countryId": "dominican_republic",
+      "country": "Dominican Republic",
+      "officialName": "Liga Dominicana ال de Fútbol ال",
+      "arabicName": "دوري دومينيكاني"
+    },
+    {
+      "leagueId": "slv.1",
+      "countryId": "el_salvador",
+      "country": "El Salvador",
+      "officialName": "Primera División ال ال",
+      "arabicName": "دوري السلفادوري ممتاز"
+    },
+    {
+      "leagueId": "grenada.1",
+      "countryId": "grenada",
+      "country": "Grenada",
+      "officialName": "GFA Premier ال League ال",
+      "arabicName": "دوري الغرينادي ممتاز"
+    },
+    {
+      "leagueId": "gua.1",
+      "countryId": "guatemala",
+      "country": "Guatemala",
+      "officialName": "Liga Nacional ال ال ال",
+      "arabicName": "دوري غواتيمالي ممتاز"
+    },
+    {
+      "leagueId": "guy.1",
+      "countryId": "guyana",
+      "country": "Guyana",
+      "officialName": "GFF Elite League ال ال",
+      "arabicName": "دوري الغوياني ممتاز"
+    },
+    {
+      "leagueId": "hai.1",
+      "countryId": "haiti",
+      "country": "Haiti",
+      "officialName": "Ligue Haïtienne ال ال",
+      "arabicName": "دوري الهايتي ممتاز"
+    },
+    {
+      "leagueId": "hon.1",
+      "countryId": "honduras",
+      "country": "Honduras",
+      "officialName": "Liga Nacional ال ال",
+      "arabicName": "دوري الهندوراسي ممتاز"
+    },
+    {
+      "leagueId": "jam.1",
+      "countryId": "jamaica",
+      "country": "Jamaica",
+      "officialName": "Jamaica Premier ال League ال",
+      "arabicName": "دوري الجامايكي ممتاز"
+    },
+    {
+      "leagueId": "mex.1",
+      "countryId": "mexico",
+      "country": "Mexico",
+      "officialName": "Liga MX ال ال",
+      "arabicName": "دوري المكسيكي ممتاز"
+    },
+    {
+      "leagueId": "montserrat.1",
+      "countryId": "montserrat",
+      "country": "Montserrat",
+      "officialName": "Montserrat دو Championship",
+      "arabicName": "ري مونتسرات"
+    },
+    {
+      "leagueId": "nic.1",
+      "countryId": "nicaragua",
+      "country": "Nicaragua",
+      "officialName": "Liga Primera ال ال ال",
+      "arabicName": "دوري نيكاراغوي ممتاز"
+    },
+    {
+      "leagueId": "pan.1",
+      "countryId": "panama",
+      "country": "Panama",
+      "officialName": "Liga Panameña de ال Fútbol ال",
+      "arabicName": "دوري البنمي ممتاز"
+    },
+    {
+      "leagueId": "pur.1",
+      "countryId": "puerto_rico",
+      "country": "Puerto Rico",
+      "officialName": "Liga Puerto Rico ال ال",
+      "arabicName": "دوري بورتوريكي"
+    },
+    {
+      "leagueId": "saint_kitts_nevis.1",
+      "countryId": "saint_kitts_nevis",
+      "country": "Saint Kitts and Nevis",
+      "officialName": "SKNFA Premier ال League لس",
+      "arabicName": "دوري الممتاز انت كيتس ونيفيس"
+    },
+    {
+      "leagueId": "saint_lucia.1",
+      "countryId": "saint_lucia",
+      "country": "Saint Lucia",
+      "officialName": "SLFA First دو Division ال",
+      "arabicName": "ري سانت لوسيا أول"
+    },
+    {
+      "leagueId": "saint_vincent_grenadines.1",
+      "countryId": "saint_vincent_grenadines",
+      "country": "Saint Vincent and the Grenadines",
+      "officialName": "NLA Premier ال League لس وا",
+      "arabicName": "دوري الممتاز انت فنسنت لغرينادين"
+    },
+    {
+      "leagueId": "sur.1",
+      "countryId": "suriname",
+      "country": "Suriname",
+      "officialName": "Suriname Major ال League ال",
+      "arabicName": "دوري السورينامي ممتاز"
+    },
+    {
+      "leagueId": "trinidad.1",
+      "countryId": "trinidad_tobago",
+      "country": "Trinidad and Tobago",
+      "officialName": "Trinidad and ال Tobago Premier تر Football League",
+      "arabicName": "دوري الممتاز في ينيداد وتوباغو"
+    },
+    {
+      "leagueId": "turks_caicos.1",
+      "countryId": "turks_caicos",
+      "country": "Turks and Caicos Islands",
+      "officialName": "Provo Premier دو League ال",
+      "arabicName": "ري بروفو ممتاز"
+    },
+    {
+      "leagueId": "usa.1",
+      "countryId": "united_states",
+      "country": "United States",
+      "officialName": "Major League ال Soccer لل",
+      "arabicName": "دوري الأمريكي محترفين"
+    },
+    {
+      "leagueId": "us_virgin_islands.1",
+      "countryId": "us_virgin_islands",
+      "country": "U.S. Virgin Islands",
+      "officialName": "USVI Premier ال League لج ال",
+      "arabicName": "دوري الممتاز زر العذراء أمريكية"
+    },
+    {
+      "leagueId": "wales.1",
+      "countryId": "wales",
+      "country": "Wales",
+      "officialName": "Cymru Premier ال ال",
+      "arabicName": "دوري الويلزي ممتاز"
+    },
+    {
+      "leagueId": "eng.1",
+      "countryId": "england",
+      "country": "England",
+      "officialName": "Premier League ال ال",
+      "arabicName": "دوري الإنجليزي ممتاز"
+    },
+    {
+      "leagueId": "sco.1",
+      "countryId": "scotland",
+      "country": "Scotland",
+      "officialName": "Scottish ال Premiership ال",
+      "arabicName": "دوري الاسكتلندي ممتاز"
+    },
+    {
+      "leagueId": "northern_ireland.1",
+      "countryId": "northern_ireland",
+      "country": "Northern Ireland",
+      "officialName": "NIFL Premiership ال أي",
+      "arabicName": "دوري الممتاز في رلندا الشمالية"
+    },
+    {
+      "leagueId": "albania.1",
+      "countryId": "albania",
+      "country": "Albania",
+      "officialName": "Kategoria ال Superiore ال",
+      "arabicName": "دوري الألباني ممتاز"
+    },
+    {
+      "leagueId": "andorra.1",
+      "countryId": "andorra",
+      "country": "Andorra",
+      "officialName": "Primera Divisió ال",
+      "arabicName": "دوري الأندوري"
+    },
+    {
+      "leagueId": "armenia.1",
+      "countryId": "armenia",
+      "country": "Armenia",
+      "officialName": "Armenian Premier ال League ال",
+      "arabicName": "دوري الأرميني ممتاز"
+    },
+    {
+      "leagueId": "aut.1",
+      "countryId": "austria",
+      "country": "Austria",
+      "officialName": "Austrian ال Bundesliga ال",
+      "arabicName": "دوري النمساوي ممتاز"
+    },
+    {
+      "leagueId": "azerbaijan.1",
+      "countryId": "azerbaijan",
+      "country": "Azerbaijan",
+      "officialName": "Azerbaijan ال Premier League ال ال",
+      "arabicName": "دوري أذربيجاني ممتاز"
+    },
+    {
+      "leagueId": "belarus.1",
+      "countryId": "belarus",
+      "country": "Belarus",
+      "officialName": "Belarusian ال Premier League ال",
+      "arabicName": "دوري البيلاروسي ممتاز"
+    },
+    {
+      "leagueId": "bel.1",
+      "countryId": "belgium",
+      "country": "Belgium",
+      "officialName": "Belgian Pro ال League لل",
+      "arabicName": "دوري البلجيكي محترفين"
+    },
+    {
+      "leagueId": "bosnia_herzegovina.1",
+      "countryId": "bosnia_herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "officialName": "Premier League of ال Bosnia and لل Herzegovina",
+      "arabicName": "دوري الممتاز بوسنة والهرسك"
+    },
+    {
+      "leagueId": "bul.1",
+      "countryId": "bulgaria",
+      "country": "Bulgaria",
+      "officialName": "First ال Professional ال Football League",
+      "arabicName": "دوري البلغاري ممتاز"
+    },
+    {
+      "leagueId": "hrv.1",
+      "countryId": "croatia",
+      "country": "Croatia",
+      "officialName": "HNL ال",
+      "arabicName": "دوري الكرواتي"
+    },
+    {
+      "leagueId": "cyprus.1",
+      "countryId": "cyprus",
+      "country": "Cyprus",
+      "officialName": "Cypriot First ال Division ال",
+      "arabicName": "دوري القبرصي أول"
+    },
+    {
+      "leagueId": "czechia.1",
+      "countryId": "czechia",
+      "country": "Czechia",
+      "officialName": "Czech First ال League ال",
+      "arabicName": "دوري التشيكي أول"
+    },
+    {
+      "leagueId": "den.1",
+      "countryId": "denmark",
+      "country": "Denmark",
+      "officialName": "Danish Superliga ال ال",
+      "arabicName": "دوري الدنماركي ممتاز"
+    },
+    {
+      "leagueId": "estonia.1",
+      "countryId": "estonia",
+      "country": "Estonia",
+      "officialName": "Meistriliiga ال ال",
+      "arabicName": "دوري الإستوني ممتاز"
+    },
+    {
+      "leagueId": "faroe_islands.1",
+      "countryId": "faroe_islands",
+      "country": "Faroe Islands",
+      "officialName": "Betri deildin ال لج",
+      "arabicName": "دوري الممتاز زر فارو"
+    },
+    {
+      "leagueId": "fin.1",
+      "countryId": "finland",
+      "country": "Finland",
+      "officialName": "Veikkausliiga ال ال",
+      "arabicName": "دوري الفنلندي ممتاز"
+    },
+    {
+      "leagueId": "fra.1",
+      "countryId": "france",
+      "country": "France",
+      "officialName": "Ligue 1 ال",
+      "arabicName": "دوري الفرنسي"
+    },
+    {
+      "leagueId": "georgia.1",
+      "countryId": "georgia",
+      "country": "Georgia",
+      "officialName": "Erovnuli Liga ال ال",
+      "arabicName": "دوري الجورجي ممتاز"
+    },
+    {
+      "leagueId": "ger.1",
+      "countryId": "germany",
+      "country": "Germany",
+      "officialName": "Bundesliga ال",
+      "arabicName": "دوري الألماني"
+    },
+    {
+      "leagueId": "gibraltar.1",
+      "countryId": "gibraltar",
+      "country": "Gibraltar",
+      "officialName": "Gibraltar ال Football League",
+      "arabicName": "دوري الجبرلتاري"
+    },
+    {
+      "leagueId": "gre.1",
+      "countryId": "greece",
+      "country": "Greece",
+      "officialName": "Super League ال Greece ال",
+      "arabicName": "دوري اليوناني ممتاز"
+    },
+    {
+      "leagueId": "hun.1",
+      "countryId": "hungary",
+      "country": "Hungary",
+      "officialName": "Nemzeti Bajnokság ال I ال",
+      "arabicName": "دوري المجري ممتاز"
+    },
+    {
+      "leagueId": "iceland.1",
+      "countryId": "iceland",
+      "country": "Iceland",
+      "officialName": "Besta deild karla ال ال",
+      "arabicName": "دوري الأيسلندي ممتاز"
+    },
+    {
+      "leagueId": "ireland.1",
+      "countryId": "ireland",
+      "country": "Republic of Ireland",
+      "officialName": "League of Ireland ال Premier Division ال",
+      "arabicName": "دوري الأيرلندي ممتاز"
+    },
+    {
+      "leagueId": "ita.1",
+      "countryId": "italy",
+      "country": "Italy",
+      "officialName": "Serie A ال",
+      "arabicName": "دوري الإيطالي"
+    },
+    {
+      "leagueId": "kazakhstan.1",
+      "countryId": "kazakhstan",
+      "country": "Kazakhstan",
+      "officialName": "Kazakhstan ال Premier League ال ال",
+      "arabicName": "دوري كازاخستاني ممتاز"
+    },
+    {
+      "leagueId": "kosovo.1",
+      "countryId": "kosovo",
+      "country": "Kosovo",
+      "officialName": "Football ال Superleague of كو Kosovo",
+      "arabicName": "دوري الممتاز في سوفو"
+    },
+    {
+      "leagueId": "latvia.1",
+      "countryId": "latvia",
+      "country": "Latvia",
+      "officialName": "Virslīga ال ال",
+      "arabicName": "دوري اللاتفي ممتاز"
+    },
+    {
+      "leagueId": "lithuania.1",
+      "countryId": "lithuania",
+      "country": "Lithuania",
+      "officialName": "A Lyga ال ال",
+      "arabicName": "دوري الليتواني ممتاز"
+    },
+    {
+      "leagueId": "luxembourg.1",
+      "countryId": "luxembourg",
+      "country": "Luxembourg",
+      "officialName": "Luxembourg ال National Division ال",
+      "arabicName": "دوري الوطني لوكسمبورغي"
+    },
+    {
+      "leagueId": "malta.1",
+      "countryId": "malta",
+      "country": "Malta",
+      "officialName": "Maltese Premier ال League ال",
+      "arabicName": "دوري المالطي ممتاز"
+    },
+    {
+      "leagueId": "moldova.1",
+      "countryId": "moldova",
+      "country": "Moldova",
+      "officialName": "Super Liga ال ال",
+      "arabicName": "دوري المولدوفي ممتاز"
+    },
+    {
+      "leagueId": "montenegro.1",
+      "countryId": "montenegro",
+      "country": "Montenegro",
+      "officialName": "Montenegrin First ال League ال ال",
+      "arabicName": "دوري مونتينيغري أول"
+    },
+    {
+      "leagueId": "ned.1",
+      "countryId": "netherlands",
+      "country": "Netherlands",
+      "officialName": "Eredivisie ال",
+      "arabicName": "دوري الهولندي"
+    },
+    {
+      "leagueId": "north_macedonia.1",
+      "countryId": "north_macedonia",
+      "country": "North Macedonia",
+      "officialName": "Macedonian First ال Football League ال",
+      "arabicName": "دوري المقدوني أول"
+    },
+    {
+      "leagueId": "nor.1",
+      "countryId": "norway",
+      "country": "Norway",
+      "officialName": "Eliteserien ال ال",
+      "arabicName": "دوري النرويجي ممتاز"
+    },
+    {
+      "leagueId": "pol.1",
+      "countryId": "poland",
+      "country": "Poland",
+      "officialName": "Ekstraklasa ال ال",
+      "arabicName": "دوري البولندي ممتاز"
+    },
+    {
+      "leagueId": "por.1",
+      "countryId": "portugal",
+      "country": "Portugal",
+      "officialName": "Primeira Liga ال",
+      "arabicName": "دوري البرتغالي"
+    },
+    {
+      "leagueId": "rou.1",
+      "countryId": "romania",
+      "country": "Romania",
+      "officialName": "SuperLiga ال ال",
+      "arabicName": "دوري الروماني ممتاز"
+    },
+    {
+      "leagueId": "san_marino.1",
+      "countryId": "san_marino",
+      "country": "San Marino",
+      "officialName": "Campionato ال Sammarinese ما",
+      "arabicName": "دوري السان ريني"
+    },
+    {
+      "leagueId": "srb.1",
+      "countryId": "serbia",
+      "country": "Serbia",
+      "officialName": "Serbian SuperLiga ال ال",
+      "arabicName": "دوري الصربي ممتاز"
+    },
+    {
+      "leagueId": "slovakia.1",
+      "countryId": "slovakia",
+      "country": "Slovakia",
+      "officialName": "Niké Liga ال ال",
+      "arabicName": "دوري السلوفاكي ممتاز"
+    },
+    {
+      "leagueId": "slovenia.1",
+      "countryId": "slovenia",
+      "country": "Slovenia",
+      "officialName": "PrvaLiga ال ال",
+      "arabicName": "دوري السلوفيني ممتاز"
+    },
+    {
+      "leagueId": "esp.1",
+      "countryId": "spain",
+      "country": "Spain",
+      "officialName": "LaLiga ال",
+      "arabicName": "دوري الإسباني"
+    },
+    {
+      "leagueId": "swe.1",
+      "countryId": "sweden",
+      "country": "Sweden",
+      "officialName": "Allsvenskan ال ال",
+      "arabicName": "دوري السويدي ممتاز"
+    },
+    {
+      "leagueId": "sui.1",
+      "countryId": "switzerland",
+      "country": "Switzerland",
+      "officialName": "Swiss Super ال League ال",
+      "arabicName": "دوري السويسري ممتاز"
+    },
+    {
+      "leagueId": "turkey.1",
+      "countryId": "turkey",
+      "country": "Türkiye",
+      "officialName": "Süper Lig ال ال",
+      "arabicName": "دوري التركي ممتاز"
+    },
+    {
+      "leagueId": "ukr.1",
+      "countryId": "ukraine",
+      "country": "Ukraine",
+      "officialName": "Ukrainian Premier ال League ال",
+      "arabicName": "دوري الأوكراني ممتاز"
+    },
+    {
+      "leagueId": "russia.1",
+      "countryId": "russia",
+      "country": "Russia",
+      "officialName": "Russian Premier ال League ال",
+      "arabicName": "دوري الروسي ممتاز"
+    },
+    {
+      "leagueId": "american_samoa.1",
+      "countryId": "american_samoa",
+      "country": "American Samoa",
+      "officialName": "FFAS Senior دو League ال",
+      "arabicName": "ري ساموا أمريكية"
+    },
+    {
+      "leagueId": "cook_islands.1",
+      "countryId": "cook_islands",
+      "country": "Cook Islands",
+      "officialName": "Cook Islands كأ Round Cup",
+      "arabicName": "س جزر كوك"
+    },
+    {
+      "leagueId": "fiji.1",
+      "countryId": "fiji",
+      "country": "Fiji",
+      "officialName": "Fiji Premier ال League ال",
+      "arabicName": "دوري الفيجي ممتاز"
+    },
+    {
+      "leagueId": "kiribati.1",
+      "countryId": "kiribati",
+      "country": "Kiribati",
+      "officialName": "Kiribati National ال Championship لك",
+      "arabicName": "بطولة الوطنية يريباتي"
+    },
+    {
+      "leagueId": "new_caledonia.1",
+      "countryId": "new_caledonia",
+      "country": "New Caledonia",
+      "officialName": "New Caledonia ال Super Ligue كا",
+      "arabicName": "دوري الممتاز في ليدونيا الجديدة"
+    },
+    {
+      "leagueId": "new_zealand.1",
+      "countryId": "new_zealand",
+      "country": "New Zealand",
+      "officialName": "New Zealand ال National League ال",
+      "arabicName": "دوري الوطني نيوزيلندي"
+    },
+    {
+      "leagueId": "papua_new_guinea.1",
+      "countryId": "papua_new_guinea",
+      "country": "Papua New Guinea",
+      "officialName": "PNG Premier ال Soccer League لب ال",
+      "arabicName": "دوري الممتاز ابوا غينيا جديدة"
+    },
+    {
+      "leagueId": "samoa.1",
+      "countryId": "samoa",
+      "country": "Samoa",
+      "officialName": "Samoa National ال League لس",
+      "arabicName": "دوري الوطني اموا"
+    },
+    {
+      "leagueId": "solomon_islands.1",
+      "countryId": "solomon_islands",
+      "country": "Solomon Islands",
+      "officialName": "S-League دو",
+      "arabicName": "ري جزر سليمان"
+    },
+    {
+      "leagueId": "tahiti.1",
+      "countryId": "tahiti",
+      "country": "Tahiti",
+      "officialName": "Ligue 1 Vini ال ال",
+      "arabicName": "دوري التاهيتي ممتاز"
+    },
+    {
+      "leagueId": "tonga.1",
+      "countryId": "tonga",
+      "country": "Tonga",
+      "officialName": "Tonga Major ال League تو",
+      "arabicName": "دوري الرئيسي في نغا"
+    },
+    {
+      "leagueId": "tuvalu.1",
+      "countryId": "tuvalu",
+      "country": "Tuvalu",
+      "officialName": "Tuvalu A-Division دو",
+      "arabicName": "ري توفالو"
+    },
+    {
+      "leagueId": "vanuatu.1",
+      "countryId": "vanuatu",
+      "country": "Vanuatu",
+      "officialName": "VFF National ال Super League ال",
+      "arabicName": "دوري الوطني ممتاز لفانواتو"
+    }
+  ],
+  "teamLogos": [
+    {
+      "teamId": "team_canonical_arsenal",
+      "canonicalName": "Arsenal FC",
+      "displayName": "Arsenal",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Arsenal",
+        "Arsenal FC",
+        "Gunners"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_aston_villa",
+      "canonicalName": "Aston Villa FC",
+      "displayName": "Aston Villa",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Aston Villa",
+        "Aston Villa FC",
+        "Villa"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_bournemouth",
+      "canonicalName": "AFC Bournemouth",
+      "displayName": "Bournemouth",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Bournemouth",
+        "AFC Bournemouth",
+        "Cherries"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/8678.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_brentford",
+      "canonicalName": "Brentford FC",
+      "displayName": "Brentford",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Brentford",
+        "Bees"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_brighton",
+      "canonicalName": "Brighton & Hove Albion FC",
+      "displayName": "Brighton",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Brighton",
+        "Brighton & Hove Albion"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/397.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_chelsea",
+      "canonicalName": "Chelsea FC",
+      "displayName": "Chelsea",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Chelsea",
+        "Chelsea FC",
+        "Blues"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_coventry_city",
+      "canonicalName": "Coventry City FC",
+      "displayName": "Coventry City",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Coventry",
+        "Coventry City",
+        "Sky Blues"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3828.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_crystal_palace",
+      "canonicalName": "Crystal Palace FC",
+      "displayName": "Crystal Palace",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Crystal Palace",
+        "Palace",
+        "Eagles"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_everton",
+      "canonicalName": "Everton FC",
+      "displayName": "Everton",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Everton",
+        "Toffees"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_fulham",
+      "canonicalName": "Fulham FC",
+      "displayName": "Fulham",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Fulham",
+        "Cottagers"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_hull_city",
+      "canonicalName": "Hull City AFC",
+      "displayName": "Hull City",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Hull",
+        "Hull City",
+        "Tigers"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_ipswich_town",
+      "canonicalName": "Ipswich Town FC",
+      "displayName": "Ipswich Town",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Ipswich",
+        "Ipswich Town",
+        "Tractor Boys"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_leeds_united",
+      "canonicalName": "Leeds United FC",
+      "displayName": "Leeds United",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Leeds",
+        "Leeds United",
+        "Whites"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_liverpool",
+      "canonicalName": "Liverpool FC",
+      "displayName": "Liverpool",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Liverpool",
+        "Liverpool FC",
+        "Reds"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_manchester_city",
+      "canonicalName": "Manchester City FC",
+      "displayName": "Manchester City",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Manchester City",
+        "Man City",
+        "City"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_manchester_united",
+      "canonicalName": "Manchester United FC",
+      "displayName": "Manchester United",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Manchester United",
+        "Man United",
+        "Red Devils"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_newcastle_united",
+      "canonicalName": "Newcastle United FC",
+      "displayName": "Newcastle United",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Newcastle",
+        "Newcastle United",
+        "Magpies"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_nottingham_forest",
+      "canonicalName": "Nottingham Forest FC",
+      "displayName": "Nottingham Forest",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Nottingham Forest",
+        "Forest",
+        "Tricky Trees"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_sunderland",
+      "canonicalName": "Sunderland AFC",
+      "displayName": "Sunderland",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sunderland",
+        "Black Cats"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_tottenham",
+      "canonicalName": "Tottenham Hotspur FC",
+      "displayName": "Tottenham Hotspur",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Tottenham",
+        "Spurs",
+        "Tottenham Hotspur"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_wolverhampton",
+      "canonicalName": "Wolverhampton Wanderers FC",
+      "displayName": "Wolverhampton",
+      "country": "England",
+      "continent": "EUROPE",
+      "leagueId": "eng.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Wolves",
+        "Wolverhampton Wanderers"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_athletic_club",
+      "canonicalName": "Athletic Club",
+      "displayName": "Athletic Club",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Athletic Club",
+        "Athletic Bilbao",
+        "Athletic"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_atletico_madrid",
+      "canonicalName": "Atlético de Madrid",
+      "displayName": "Atlético Madrid",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Atlético de Madrid",
+        "Atlético Madrid",
+        "Atleti"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_ca_osasuna",
+      "canonicalName": "CA Osasuna",
+      "displayName": "Osasuna",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "CA Osasuna",
+        "Osasuna"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_deportivo_alaves",
+      "canonicalName": "Deportivo Alavés",
+      "displayName": "Alavés",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Deportivo Alavés",
+        "Alavés"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_elche_cf",
+      "canonicalName": "Elche CF",
+      "displayName": "Elche",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Elche CF",
+        "Elche"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_barcelona",
+      "canonicalName": "FC Barcelona",
+      "displayName": "Barcelona",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Barcelona",
+        "Barcelona",
+        "Barça"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_getafe_cf",
+      "canonicalName": "Getafe CF",
+      "displayName": "Getafe",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Getafe CF",
+        "Getafe"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_levante_ud",
+      "canonicalName": "Levante UD",
+      "displayName": "Levante",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Levante UD",
+        "Levante"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_malaga_cf",
+      "canonicalName": "Málaga CF",
+      "displayName": "Málaga",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Málaga CF",
+        "Málaga",
+        "Malaga"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_r_racing_club",
+      "canonicalName": "R. Racing Club",
+      "displayName": "Racing Santander",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "R. Racing Club",
+        "Racing Santander",
+        "Racing de Santander",
+        "Racing"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rayo_vallecano",
+      "canonicalName": "Rayo Vallecano",
+      "displayName": "Rayo Vallecano",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Rayo Vallecano",
+        "Rayo"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rc_celta",
+      "canonicalName": "RC Celta",
+      "displayName": "Celta Vigo",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RC Celta",
+        "Celta Vigo",
+        "Celta de Vigo",
+        "Celta"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rc_deportivo",
+      "canonicalName": "RC Deportivo",
+      "displayName": "Deportivo La Coruña",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RC Deportivo",
+        "Deportivo La Coruña",
+        "Deportivo",
+        "Depor"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rcd_espanyol",
+      "canonicalName": "RCD Espanyol de Barcelona",
+      "displayName": "Espanyol",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RCD Espanyol de Barcelona",
+        "RCD Espanyol",
+        "Espanyol"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/238.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_real_betis",
+      "canonicalName": "Real Betis",
+      "displayName": "Real Betis",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Betis",
+        "Betis"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_real_madrid",
+      "canonicalName": "Real Madrid",
+      "displayName": "Real Madrid",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Madrid",
+        "Los Blancos",
+        "Madrid"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_real_sociedad",
+      "canonicalName": "Real Sociedad",
+      "displayName": "Real Sociedad",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Sociedad",
+        "La Real"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sevilla_fc",
+      "canonicalName": "Sevilla FC",
+      "displayName": "Sevilla",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sevilla FC",
+        "Sevilla"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_valencia_cf",
+      "canonicalName": "Valencia CF",
+      "displayName": "Valencia",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Valencia CF",
+        "Valencia"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_villarreal_cf",
+      "canonicalName": "Villarreal CF",
+      "displayName": "Villarreal",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Villarreal CF",
+        "Villarreal",
+        "Yellow Submarine"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_bayer_leverkusen",
+      "canonicalName": "Bayer 04 Leverkusen",
+      "displayName": "Bayer Leverkusen",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Bayer 04 Leverkusen",
+        "Bayer Leverkusen",
+        "Leverkusen"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_bayern_munich",
+      "canonicalName": "FC Bayern München",
+      "displayName": "Bayern Munich",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Bayern München",
+        "Bayern Munich",
+        "Bayern"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_borussia_dortmund",
+      "canonicalName": "Borussia Dortmund",
+      "displayName": "Borussia Dortmund",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Borussia Dortmund",
+        "BVB",
+        "Dortmund"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_borussia_monchengladbach",
+      "canonicalName": "Borussia Mönchengladbach",
+      "displayName": "Mönchengladbach",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Borussia Mönchengladbach",
+        "Gladbach",
+        "Mönchengladbach"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_eintracht_frankfurt",
+      "canonicalName": "Eintracht Frankfurt",
+      "displayName": "Eintracht Frankfurt",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Eintracht Frankfurt",
+        "Frankfurt"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_augsburg",
+      "canonicalName": "FC Augsburg",
+      "displayName": "Augsburg",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Augsburg",
+        "Augsburg"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_koln",
+      "canonicalName": "1. FC Köln",
+      "displayName": "Köln",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "1. FC Köln",
+        "Köln",
+        "FC Koln"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_schalke_04",
+      "canonicalName": "FC Schalke 04",
+      "displayName": "Schalke 04",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Schalke 04",
+        "Schalke 04",
+        "Schalke"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_union_berlin",
+      "canonicalName": "1. FC Union Berlin",
+      "displayName": "Union Berlin",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "1. FC Union Berlin",
+        "Union Berlin"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fsv_mainz_05",
+      "canonicalName": "1. FSV Mainz 05",
+      "displayName": "Mainz 05",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "1. FSV Mainz 05",
+        "Mainz 05",
+        "Mainz"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_hamburger_sv",
+      "canonicalName": "Hamburger SV",
+      "displayName": "Hamburger SV",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Hamburger SV",
+        "HSV",
+        "Hamburg"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rb_leipzig",
+      "canonicalName": "RB Leipzig",
+      "displayName": "RB Leipzig",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RB Leipzig",
+        "Leipzig"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sc_freiburg",
+      "canonicalName": "SC Freiburg",
+      "displayName": "SC Freiburg",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SC Freiburg",
+        "Freiburg"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sc_paderborn_07",
+      "canonicalName": "SC Paderborn 07",
+      "displayName": "Paderborn",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SC Paderborn 07",
+        "Paderborn"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sv_elversberg",
+      "canonicalName": "SV Elversberg",
+      "displayName": "Elversberg",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SV Elversberg",
+        "Elversberg"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/18789.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_tsg_hoffenheim",
+      "canonicalName": "TSG Hoffenheim",
+      "displayName": "Hoffenheim",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "TSG 1899 Hoffenheim",
+        "TSG Hoffenheim",
+        "Hoffenheim"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_vfb_stuttgart",
+      "canonicalName": "VfB Stuttgart",
+      "displayName": "Stuttgart",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "VfB Stuttgart",
+        "Stuttgart"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_werder_bremen",
+      "canonicalName": "SV Werder Bremen",
+      "displayName": "Werder Bremen",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SV Werder Bremen",
+        "Werder Bremen",
+        "Bremen"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/135.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_atalanta",
+      "canonicalName": "Atalanta BC",
+      "displayName": "Atalanta",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Atalanta",
+        "Atalanta BC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_bologna",
+      "canonicalName": "Bologna FC 1909",
+      "displayName": "Bologna",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Bologna",
+        "Bologna FC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_cagliari",
+      "canonicalName": "Cagliari Calcio",
+      "displayName": "Cagliari",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Cagliari",
+        "Cagliari Calcio"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2852.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_como",
+      "canonicalName": "Como 1907",
+      "displayName": "Como",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Como",
+        "Como 1907"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_fiorentina",
+      "canonicalName": "ACF Fiorentina",
+      "displayName": "Fiorentina",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Fiorentina",
+        "ACF Fiorentina"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_frosinone",
+      "canonicalName": "Frosinone Calcio",
+      "displayName": "Frosinone",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Frosinone",
+        "Frosinone Calcio"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_genoa",
+      "canonicalName": "Genoa CFC",
+      "displayName": "Genoa",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Genoa",
+        "Genoa CFC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_inter",
+      "canonicalName": "FC Internazionale Milano",
+      "displayName": "Inter",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Inter",
+        "Inter Milan",
+        "Internazionale"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_juventus",
+      "canonicalName": "Juventus FC",
+      "displayName": "Juventus",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Juventus",
+        "Juve"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_lazio",
+      "canonicalName": "SS Lazio",
+      "displayName": "Lazio",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lazio",
+        "SS Lazio"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_lecce",
+      "canonicalName": "US Lecce",
+      "displayName": "Lecce",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lecce",
+        "US Lecce"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_milan",
+      "canonicalName": "AC Milan",
+      "displayName": "Milan",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Milan",
+        "AC Milan"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_monza",
+      "canonicalName": "AC Monza",
+      "displayName": "Monza",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Monza",
+        "AC Monza"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_napoli",
+      "canonicalName": "SSC Napoli",
+      "displayName": "Napoli",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Napoli",
+        "SSC Napoli"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_parma",
+      "canonicalName": "Parma Calcio 1913",
+      "displayName": "Parma",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Parma",
+        "Parma Calcio"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_roma",
+      "canonicalName": "AS Roma",
+      "displayName": "Roma",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Roma",
+        "AS Roma"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/117.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sassuolo",
+      "canonicalName": "US Sassuolo Calcio",
+      "displayName": "Sassuolo",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sassuolo",
+        "US Sassuolo"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_torino",
+      "canonicalName": "Torino FC",
+      "displayName": "Torino",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Torino",
+        "Torino FC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_udinese",
+      "canonicalName": "Udinese Calcio",
+      "displayName": "Udinese",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Udinese",
+        "Udinese Calcio"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_venezia",
+      "canonicalName": "Venezia FC",
+      "displayName": "Venezia",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Venezia",
+        "Venezia FC"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_angers",
+      "canonicalName": "Angers SCO",
+      "displayName": "Angers",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Angers SCO",
+        "Angers"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_auxerre",
+      "canonicalName": "AJ Auxerre",
+      "displayName": "Auxerre",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "AJ Auxerre",
+        "Auxerre"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/162.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_brest",
+      "canonicalName": "Stade Brestois 29",
+      "displayName": "Brest",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Stade Brestois 29",
+        "Stade Brestois",
+        "Brest"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_le_havre",
+      "canonicalName": "Le Havre AC",
+      "displayName": "Le Havre",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Le Havre AC",
+        "Le Havre"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_le_mans",
+      "canonicalName": "Le Mans FC",
+      "displayName": "Le Mans",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Le Mans FC",
+        "Le Mans"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_lens",
+      "canonicalName": "RC Lens",
+      "displayName": "Lens",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RC Lens",
+        "Lens"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_lille",
+      "canonicalName": "LOSC Lille",
+      "displayName": "Lille",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "LOSC Lille",
+        "Lille",
+        "LOSC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_lorient",
+      "canonicalName": "FC Lorient",
+      "displayName": "Lorient",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Lorient",
+        "Lorient"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_lyon",
+      "canonicalName": "Olympique Lyonnais",
+      "displayName": "Lyon",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Olympique Lyonnais",
+        "Lyon",
+        "OL"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_marseille",
+      "canonicalName": "Olympique de Marseille",
+      "displayName": "Marseille",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Olympique de Marseille",
+        "Marseille",
+        "OM"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_monaco",
+      "canonicalName": "AS Monaco",
+      "displayName": "AS Monaco",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "AS Monaco",
+        "Monaco"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_nice",
+      "canonicalName": "OGC Nice",
+      "displayName": "Nice",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "OGC Nice",
+        "Nice"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/171.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_paris_fc",
+      "canonicalName": "Paris FC",
+      "displayName": "Paris FC",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Paris FC"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_paris_saint_germain",
+      "canonicalName": "Paris Saint-Germain",
+      "displayName": "Paris Saint-Germain",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Paris Saint-Germain",
+        "PSG",
+        "Paris SG"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rennes",
+      "canonicalName": "Stade Rennais FC",
+      "displayName": "Rennes",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Stade Rennais FC",
+        "Stade Rennais",
+        "Rennes"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_strasbourg",
+      "canonicalName": "RC Strasbourg Alsace",
+      "displayName": "Strasbourg",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RC Strasbourg Alsace",
+        "RC Strasbourg",
+        "Strasbourg"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_toulouse",
+      "canonicalName": "Toulouse FC",
+      "displayName": "Toulouse",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Toulouse FC",
+        "Toulouse"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/178.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_troyes",
+      "canonicalName": "ESTAC Troyes",
+      "displayName": "Troyes",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "ESTAC Troyes",
+        "ESTAC",
+        "Troyes"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_ado_den_haag",
+      "canonicalName": "ADO Den Haag",
+      "displayName": "ADO Den Haag",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "ADO Den Haag"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_afc_ajax",
+      "canonicalName": "AFC Ajax",
+      "displayName": "Ajax",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "AFC Ajax",
+        "Ajax"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_az_alkmaar",
+      "canonicalName": "AZ Alkmaar",
+      "displayName": "AZ",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "AZ Alkmaar",
+        "AZ"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_excelsior_rotterdam",
+      "canonicalName": "Excelsior Rotterdam",
+      "displayName": "Excelsior Rotterdam",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Excelsior Rotterdam",
+        "Excelsior"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_groningen",
+      "canonicalName": "FC Groningen",
+      "displayName": "Groningen",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Groningen",
+        "Groningen"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/141.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_twente",
+      "canonicalName": "FC Twente",
+      "displayName": "FC Twente",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Twente",
+        "Twente"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_utrecht",
+      "canonicalName": "FC Utrecht",
+      "displayName": "Utrecht",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Utrecht",
+        "Utrecht"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_feyenoord",
+      "canonicalName": "Feyenoord Rotterdam",
+      "displayName": "Feyenoord",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Feyenoord Rotterdam",
+        "Feyenoord"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/144.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fortuna_sittard",
+      "canonicalName": "Fortuna Sittard",
+      "displayName": "Fortuna Sittard",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Fortuna Sittard"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_go_ahead_eagles",
+      "canonicalName": "Go Ahead Eagles",
+      "displayName": "Go Ahead Eagles",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Go Ahead Eagles"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_nec_nijmegen",
+      "canonicalName": "N.E.C. Nijmegen",
+      "displayName": "NEC",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "N.E.C. Nijmegen",
+        "NEC Nijmegen",
+        "NEC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_pec_zwolle",
+      "canonicalName": "PEC Zwolle",
+      "displayName": "PEC Zwolle",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "PEC Zwolle"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_psv_eindhoven",
+      "canonicalName": "PSV Eindhoven",
+      "displayName": "PSV",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "PSV Eindhoven",
+        "PSV"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sc_cambuur",
+      "canonicalName": "SC Cambuur",
+      "displayName": "Cambuur",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SC Cambuur",
+        "Cambuur"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/b3rap31579463652.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_sc_heerenveen",
+      "canonicalName": "sc Heerenveen",
+      "displayName": "Heerenveen",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "sc Heerenveen",
+        "Heerenveen"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sparta_rotterdam",
+      "canonicalName": "Sparta Rotterdam",
+      "displayName": "Sparta Rotterdam",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sparta Rotterdam"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_telstar",
+      "canonicalName": "SC Telstar",
+      "displayName": "Telstar",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Telstar",
+        "SC Telstar"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_willem_ii",
+      "canonicalName": "Willem II",
+      "displayName": "Willem II",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Willem II Tilburg",
+        "Willem II"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_academico",
+      "canonicalName": "Académico de Viseu",
+      "displayName": "Académico",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Académico de Viseu",
+        "Académico",
+        "Academico Viseu"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/l9okbc1593020122.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_casa_pia_ac",
+      "canonicalName": "Casa Pia AC",
+      "displayName": "Casa Pia",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Casa Pia AC",
+        "Casa Pia"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/d8ugsc1678717133.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_cd_nacional",
+      "canonicalName": "CD Nacional",
+      "displayName": "Nacional",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "CD Nacional",
+        "Nacional",
+        "Nacional de Madeira"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/fvg3s21649793329.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_estoril_praia",
+      "canonicalName": "GD Estoril Praia",
+      "displayName": "Estoril",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "GD Estoril Praia",
+        "Estoril Praia",
+        "Estoril"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/lq9h8m1628854051.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_estrela_amadora",
+      "canonicalName": "CF Estrela da Amadora",
+      "displayName": "Estrela Amadora",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "CF Estrela da Amadora",
+        "Estrela Amadora",
+        "Estrela da Amadora"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/2tx5621626095555.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_alverca",
+      "canonicalName": "FC Alverca",
+      "displayName": "Alverca",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Alverca",
+        "Alverca"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/6ljryf1691990098.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_arouca",
+      "canonicalName": "FC Arouca",
+      "displayName": "Arouca",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Arouca",
+        "Arouca"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/vgbzjq1628853833.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_famalicao",
+      "canonicalName": "FC Famalicão",
+      "displayName": "Famalicão",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Famalicão",
+        "Famalicão",
+        "Famalicao"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/18377.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_fc_porto",
+      "canonicalName": "FC Porto",
+      "displayName": "Porto",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "FC Porto",
+        "Porto"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_gil_vicente",
+      "canonicalName": "Gil Vicente FC",
+      "displayName": "Gil Vicente",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Gil Vicente FC",
+        "Gil Vicente"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_maritimo",
+      "canonicalName": "CS Marítimo",
+      "displayName": "Marítimo",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "CS Marítimo",
+        "Marítimo",
+        "Maritimo"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/xlr0tw1656336618.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_moreirense",
+      "canonicalName": "Moreirense FC",
+      "displayName": "Moreirense",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Moreirense FC",
+        "Moreirense"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_rio_ave",
+      "canonicalName": "Rio Ave FC",
+      "displayName": "Rio Ave",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Rio Ave FC",
+        "Rio Ave"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3845.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_santa_clara",
+      "canonicalName": "CD Santa Clara",
+      "displayName": "Santa Clara",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "CD Santa Clara",
+        "Santa Clara"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/7337a61724860742.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_sc_braga",
+      "canonicalName": "SC Braga",
+      "displayName": "Braga",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SC Braga",
+        "Braga"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/skbiwo1785775946.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_sl_benfica",
+      "canonicalName": "SL Benfica",
+      "displayName": "Benfica",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SL Benfica",
+        "Benfica"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_sporting_cp",
+      "canonicalName": "Sporting CP",
+      "displayName": "Sporting CP",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sporting CP",
+        "Sporting Lisbon",
+        "Sporting"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_vitoria_sc",
+      "canonicalName": "Vitória SC",
+      "displayName": "Vitória SC",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Vitória SC",
+        "Vitória Guimarães",
+        "Vitoria Guimaraes"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/af52z61628855707.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_cercle_brugge",
+      "canonicalName": "Cercle Brugge KSV",
+      "displayName": "Cercle Brugge",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Cercle Brugge",
+        "Cercle Brugge KSV"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2919.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_charleroi",
+      "canonicalName": "Sporting Charleroi",
+      "displayName": "Charleroi",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sporting Charleroi",
+        "Charleroi"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2918.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_club_brugge",
+      "canonicalName": "Club Brugge KV",
+      "displayName": "Club Brugge",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Club Brugge",
+        "Club Brugge KV"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_kaa_gent",
+      "canonicalName": "KAA Gent",
+      "displayName": "Gent",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "KAA Gent",
+        "Gent"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/48e27o1750703124.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_krc_genk",
+      "canonicalName": "KRC Genk",
+      "displayName": "Genk",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "KRC Genk",
+        "Genk"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2917.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_kv_kortrijk",
+      "canonicalName": "KV Kortrijk",
+      "displayName": "Kortrijk",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "KV Kortrijk",
+        "Kortrijk"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/ssvvtu1447618084.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_kv_mechelen",
+      "canonicalName": "KV Mechelen",
+      "displayName": "KV Mechelen",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "KV Mechelen",
+        "Mechelen"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/sxsxpt1447618693.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_kvc_westerlo",
+      "canonicalName": "KVC Westerlo",
+      "displayName": "Westerlo",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "KVC Westerlo",
+        "Westerlo"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/xrxtrq1447620014.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_lommel_sk",
+      "canonicalName": "Lommel SK",
+      "displayName": "Lommel",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lommel SK",
+        "Lommel"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/gj2c1v1658141968.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_oh_leuven",
+      "canonicalName": "Oud-Heverlee Leuven",
+      "displayName": "OH Leuven",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Oud-Heverlee Leuven",
+        "OH Leuven",
+        "OHL"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/3ra01v1783527582.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_raal_la_louviere",
+      "canonicalName": "RAAL La Louvière",
+      "displayName": "La Louvière",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RAAL La Louvière",
+        "La Louvière"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/z4iv4k1770956799.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_royal_antwerp",
+      "canonicalName": "Royal Antwerp FC",
+      "displayName": "Antwerp",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Royal Antwerp FC",
+        "Antwerp"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/gawwcf1691182178.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_royale_union_saint_gilloise",
+      "canonicalName": "Royale Union Saint-Gilloise",
+      "displayName": "Union SG",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Royale Union Saint-Gilloise",
+        "Union SG",
+        "Union Saint-Gilloise"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/18522.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rsc_anderlecht",
+      "canonicalName": "RSC Anderlecht",
+      "displayName": "Anderlecht",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "RSC Anderlecht",
+        "Anderlecht"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/auindn1771129464.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_sk_beveren",
+      "canonicalName": "SK Beveren",
+      "displayName": "Beveren",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SK Beveren",
+        "Beveren"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/3837.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_standard_liege",
+      "canonicalName": "Standard de Liège",
+      "displayName": "Standard Liège",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Standard de Liège",
+        "Standard Liège",
+        "Standard Liege"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/0ynlvb1771130035.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_stvv",
+      "canonicalName": "STVV",
+      "displayName": "STVV",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "STVV",
+        "Sint-Truiden"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/2923.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_zulte_waregem",
+      "canonicalName": "SV Zulte Waregem",
+      "displayName": "Zulte Waregem",
+      "country": "Belgium",
+      "continent": "EUROPE",
+      "leagueId": "bel.1",
+      "season": "2026-2027",
+      "aliases": [
+        "SV Zulte Waregem",
+        "Zulte Waregem"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/6mdsut1695740517.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_aberdeen",
+      "canonicalName": "Aberdeen FC",
+      "displayName": "Aberdeen",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Aberdeen FC",
+        "Aberdeen"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/302.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_celtic",
+      "canonicalName": "Celtic FC",
+      "displayName": "Celtic",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Celtic FC",
+        "Celtic"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/303.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_dundee",
+      "canonicalName": "Dundee FC",
+      "displayName": "Dundee",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Dundee FC",
+        "Dundee"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/304.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_dundee_united",
+      "canonicalName": "Dundee United FC",
+      "displayName": "Dundee United",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Dundee United FC",
+        "Dundee United"
+      ],
+      "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/orfh821655722356.png",
+      "logoProvider": "TheSportsDb",
+      "verified": true
+    },
+    {
+      "teamId": "team_falkirk",
+      "canonicalName": "Falkirk FC",
+      "displayName": "Falkirk",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Falkirk FC",
+        "Falkirk"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_heart_of_midlothian",
+      "canonicalName": "Heart of Midlothian FC",
+      "displayName": "Hearts",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Heart of Midlothian FC",
+        "Heart of Midlothian",
+        "Hearts"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/307.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_hibernian",
+      "canonicalName": "Hibernian FC",
+      "displayName": "Hibernian",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Hibernian FC",
+        "Hibernian",
+        "Hibs"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/308.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_kilmarnock",
+      "canonicalName": "Kilmarnock FC",
+      "displayName": "Kilmarnock",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Kilmarnock FC",
+        "Kilmarnock"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/309.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_motherwell",
+      "canonicalName": "Motherwell FC",
+      "displayName": "Motherwell",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Motherwell FC",
+        "Motherwell"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/310.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_rangers",
+      "canonicalName": "Rangers FC",
+      "displayName": "Rangers",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Rangers FC",
+        "Rangers"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/311.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_st_johnstone",
+      "canonicalName": "St Johnstone FC",
+      "displayName": "St Johnstone",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "St Johnstone FC",
+        "St Johnstone"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/312.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_st_mirren",
+      "canonicalName": "St Mirren FC",
+      "displayName": "St Mirren",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "St Mirren FC",
+        "St Mirren"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/313.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_hilal",
+      "canonicalName": "Al-Hilal SFC",
+      "displayName": "Al-Hilal",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Hilal",
+        "Al-Hilal SFC",
+        "Al Hilal Saudi"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7008.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_nassr",
+      "canonicalName": "Al-Nassr FC",
+      "displayName": "Al-Nassr",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Nassr",
+        "Al-Nassr FC",
+        "Al Nassr Saudi"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7010.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_ittihad",
+      "canonicalName": "Al-Ittihad Club",
+      "displayName": "Al-Ittihad",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Ittihad",
+        "Al-Ittihad Jeddah",
+        "Ittihad FC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7009.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_ahli_saudi",
+      "canonicalName": "Al-Ahli Saudi FC",
+      "displayName": "Al-Ahli Saudi",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Ahli",
+        "Al-Ahli Jeddah",
+        "Al Ahli Saudi"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7007.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_galatasaray",
+      "canonicalName": "Galatasaray SK",
+      "displayName": "Galatasaray",
+      "country": "Turkey",
+      "continent": "EUROPE",
+      "leagueId": "tur.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Galatasaray",
+        "Galatasaray SK",
+        "Cimbom"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_fenerbahce",
+      "canonicalName": "Fenerbahçe SK",
+      "displayName": "Fenerbahçe",
+      "country": "Turkey",
+      "continent": "EUROPE",
+      "leagueId": "tur.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Fenerbahce",
+        "Fenerbahçe SK",
+        "Fener"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_besiktas",
+      "canonicalName": "Beşiktaş JK",
+      "displayName": "Beşiktaş",
+      "country": "Turkey",
+      "continent": "EUROPE",
+      "leagueId": "tur.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Besiktas",
+        "Beşiktaş JK",
+        "Black Eagles"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/434.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_boca_juniors",
+      "canonicalName": "Club Atlético Boca Juniors",
+      "displayName": "Boca Juniors",
+      "country": "Argentina",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "arg.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Boca Juniors",
+        "Boca",
+        "CA Boca Juniors"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_river_plate",
+      "canonicalName": "Club Atlético River Plate",
+      "displayName": "River Plate",
+      "country": "Argentina",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "arg.1",
+      "season": "2026-2027",
+      "aliases": [
+        "River Plate",
+        "River",
+        "CA River Plate"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_flamengo",
+      "canonicalName": "Clube de Regatas do Flamengo",
+      "displayName": "Flamengo",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Flamengo",
+        "CR Flamengo",
+        "Mengão"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_palmeiras",
+      "canonicalName": "Sociedade Esportiva Palmeiras",
+      "displayName": "Palmeiras",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Palmeiras",
+        "SE Palmeiras",
+        "Verdão"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/824.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_sao_paulo",
+      "canonicalName": "São Paulo Futebol Clube",
+      "displayName": "São Paulo",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Sao Paulo",
+        "São Paulo FC",
+        "Tricolor Paulista"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/826.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_inter_miami",
+      "canonicalName": "Inter Miami CF",
+      "displayName": "Inter Miami",
+      "country": "United States",
+      "continent": "NORTH_AMERICA",
+      "leagueId": "usa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Inter Miami",
+        "Inter Miami CF",
+        "Miami CF"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/19129.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_la_galaxy",
+      "canonicalName": "LA Galaxy",
+      "displayName": "LA Galaxy",
+      "country": "United States",
+      "continent": "NORTH_AMERICA",
+      "leagueId": "usa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "LA Galaxy",
+        "Los Angeles Galaxy",
+        "Galaxy"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_ajax",
+      "canonicalName": "AFC Ajax",
+      "displayName": "Ajax",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Ajax",
+        "AFC Ajax",
+        "Ajax Amsterdam"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_psv",
+      "canonicalName": "PSV Eindhoven",
+      "displayName": "PSV",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "PSV",
+        "PSV Eindhoven",
+        "Philips SV"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_feyenoord",
+      "canonicalName": "Feyenoord Rotterdam",
+      "displayName": "Feyenoord",
+      "country": "Netherlands",
+      "continent": "EUROPE",
+      "leagueId": "ned.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Feyenoord",
+        "Feyenoord Rotterdam"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_celtic",
+      "canonicalName": "Celtic FC",
+      "displayName": "Celtic",
+      "country": "Scotland",
+      "continent": "EUROPE",
+      "leagueId": "sco.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Celtic",
+        "Celtic FC",
+        "The Hoops"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/305.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_porto",
+      "canonicalName": "FC Porto",
+      "displayName": "Porto",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Porto",
+        "FC Porto",
+        "Dragões"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_benfica",
+      "canonicalName": "SL Benfica",
+      "displayName": "Benfica",
+      "country": "Portugal",
+      "continent": "EUROPE",
+      "leagueId": "por.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Benfica",
+        "SL Benfica",
+        "Águias"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_real_betis",
+      "canonicalName": "Real Betis Balompié",
+      "displayName": "Real Betis",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Betis",
+        "Betis"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_real_sociedad",
+      "canonicalName": "Real Sociedad de Fútbol",
+      "displayName": "Real Sociedad",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Real Sociedad",
+        "La Real"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_villarreal",
+      "canonicalName": "Villarreal CF",
+      "displayName": "Villarreal",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Villarreal",
+        "Villarreal CF",
+        "Yellow Submarine"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_athletic_bilbao",
+      "canonicalName": "Athletic Club",
+      "displayName": "Athletic Club",
+      "country": "Spain",
+      "continent": "EUROPE",
+      "leagueId": "esp.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Athletic Club",
+        "Athletic Bilbao",
+        "Los Leones"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_eintracht_frankfurt",
+      "canonicalName": "Eintracht Frankfurt",
+      "displayName": "Eintracht Frankfurt",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Eintracht Frankfurt",
+        "Frankfurt",
+        "Die Adler"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_borussia_monchengladbach",
+      "canonicalName": "Borussia Mönchengladbach",
+      "displayName": "Borussia M'gladbach",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Borussia Monchengladbach",
+        "Gladbach",
+        "BMG"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_wolfsburg",
+      "canonicalName": "VfL Wolfsburg",
+      "displayName": "Wolfsburg",
+      "country": "Germany",
+      "continent": "EUROPE",
+      "leagueId": "ger.1",
+      "season": "2026-2027",
+      "aliases": [
+        "VfL Wolfsburg",
+        "Wolfsburg",
+        "Die Wölfe"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_fiorentina",
+      "canonicalName": "ACF Fiorentina",
+      "displayName": "Fiorentina",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Fiorentina",
+        "ACF Fiorentina",
+        "La Viola"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_bologna",
+      "canonicalName": "Bologna FC 1909",
+      "displayName": "Bologna",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Bologna",
+        "Bologna FC",
+        "I Rossoblù"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_lazio",
+      "canonicalName": "S.S. Lazio",
+      "displayName": "Lazio",
+      "country": "Italy",
+      "continent": "EUROPE",
+      "leagueId": "ita.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lazio",
+        "SS Lazio",
+        "I Biancocelesti"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_lille",
+      "canonicalName": "LOSC Lille",
+      "displayName": "Lille",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Lille",
+        "LOSC Lille",
+        "LOSC"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_nice",
+      "canonicalName": "OGC Nice",
+      "displayName": "Nice",
+      "country": "France",
+      "continent": "EUROPE",
+      "leagueId": "fra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Nice",
+        "OGC Nice",
+        "Les Aiglons"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_shabab",
+      "canonicalName": "Al-Shabab FC",
+      "displayName": "Al-Shabab",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Shabab",
+        "Al-Shabab FC",
+        "Al Shabab Riyadh"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7011.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_al_ettifaq",
+      "canonicalName": "Ettifaq FC",
+      "displayName": "Al-Ettifaq",
+      "country": "Saudi Arabia",
+      "continent": "ASIA",
+      "leagueId": "ksa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Al Ettifaq",
+        "Ettifaq FC",
+        "Al-Ettifaq Dammam"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/7006.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_trabzonspor",
+      "canonicalName": "Trabzonspor Club",
+      "displayName": "Trabzonspor",
+      "country": "Turkey",
+      "continent": "EUROPE",
+      "leagueId": "tur.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Trabzonspor",
+        "Trabzonspor BK",
+        "Fırtına"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/512.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_racing_club",
+      "canonicalName": "Racing Club de Avellaneda",
+      "displayName": "Racing Club",
+      "country": "Argentina",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "arg.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Racing Club",
+        "Racing",
+        "La Academia"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_independiente",
+      "canonicalName": "Club Atlético Independiente",
+      "displayName": "Independiente",
+      "country": "Argentina",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "arg.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Independiente",
+        "CA Independiente",
+        "El Rojo"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_corinthians",
+      "canonicalName": "Sport Club Corinthians Paulista",
+      "displayName": "Corinthians",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Corinthians",
+        "SC Corinthians",
+        "Timão"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/814.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_santos",
+      "canonicalName": "Santos Futebol Clube",
+      "displayName": "Santos",
+      "country": "Brazil",
+      "continent": "SOUTH_AMERICA",
+      "leagueId": "bra.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Santos",
+        "Santos FC",
+        "Peixe"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/825.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    },
+    {
+      "teamId": "team_canonical_seattle_sounders",
+      "canonicalName": "Seattle Sounders FC",
+      "displayName": "Seattle Sounders",
+      "country": "United States",
+      "continent": "NORTH_AMERICA",
+      "leagueId": "usa.1",
+      "season": "2026-2027",
+      "aliases": [
+        "Seattle Sounders",
+        "Sounders FC",
+        "Seattle"
+      ],
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/soccer/500/9844.png",
+      "logoProvider": "ESPN",
+      "verified": true
+    }
+  ],
+  "coverageNote": {
+    "important": "This file is not falsely marked complete. It contains the verified logo records available in the supplied database and the full league scope registry. Missing team rosters/logos remain absent rather than fabricated."
+  }
+}
