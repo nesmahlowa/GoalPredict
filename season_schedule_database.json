@@ -4665,6 +4665,183 @@
           ]
         }
       ]
+    },
+    {
+      "leagueId": "fin.1",
+      "officialName": "Veikkausliiga",
+      "season": "2026-2027",
+      "rounds": [
+        {
+          "roundNumber": 2,
+          "roundName": "Round 2 - الجولة الثانية",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_fin1_2627_r2_m1",
+              "homeTeamId": "team_ifk_mariehamn",
+              "homeTeamName": "IFK Mariehamn",
+              "awayTeamId": "team_tps_turku",
+              "awayTeamName": "TPS",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "17:00 EEST"
+              },
+              "venue": {
+                "venueName": "Wiklöf Holding Arena",
+                "city": "Mariehamn"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fin1_2627_r2_m2",
+              "homeTeamId": "team_ilves_tampere",
+              "homeTeamName": "Ilves",
+              "awayTeamId": "team_fc_lahti",
+              "awayTeamName": "FC Lahti",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "Tammelan Stadion",
+                "city": "Tampere"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fin1_2627_r2_m3",
+              "homeTeamId": "team_ac_oulu",
+              "homeTeamName": "AC Oulu",
+              "awayTeamId": "team_if_gnistan",
+              "awayTeamName": "IF Gnistan",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "OTC Stadion",
+                "city": "Oulu"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fin1_2627_r2_m4",
+              "homeTeamId": "team_ff_jaro",
+              "homeTeamName": "FF Jaro",
+              "awayTeamId": "team_sjk_seinajoki",
+              "awayTeamName": "SJK",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "Project LIV Arena",
+                "city": "Pietarsaari"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fin1_2627_r2_m5",
+              "homeTeamId": "team_kups_kuopio",
+              "homeTeamName": "KuPS",
+              "awayTeamId": "team_hjk_helsinki",
+              "awayTeamName": "HJK",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "15:00 EEST"
+              },
+              "venue": {
+                "venueName": "Väre Areena",
+                "city": "Kuopio"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_fin1_2627_r2_m6",
+              "homeTeamId": "team_fc_inter_turku",
+              "homeTeamName": "FC Inter",
+              "awayTeamId": "team_vps_vaasa",
+              "awayTeamName": "VPS",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "18:00 EEST"
+              },
+              "venue": {
+                "venueName": "Veritas Stadion",
+                "city": "Turku"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }
