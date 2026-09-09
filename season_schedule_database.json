@@ -3342,6 +3342,149 @@
           "startDateIso": "2026-08-07",
           "endDateIso": "2026-09-03",
           "matches": []
+        },
+        {
+          "roundNumber": 8,
+          "roundName": "Round 8 - الجولة الثامنة",
+          "startDateIso": "2026-09-13",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_den1_2627_r8_m1",
+              "homeTeamId": "team_lyngby_bk",
+              "homeTeamName": "Lyngby BK",
+              "awayTeamId": "team_sonderjyske",
+              "awayTeamName": "SønderjyskE",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "Lyngby Stadion",
+                "city": "Lyngby"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r8_m2",
+              "homeTeamId": "team_silkeborg_if",
+              "homeTeamName": "Silkeborg IF",
+              "awayTeamId": "team_viborg_ff",
+              "awayTeamName": "Viborg FF",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "JYSK park",
+                "city": "Silkeborg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r8_m3",
+              "homeTeamId": "team_randers_fc",
+              "homeTeamName": "Randers FC",
+              "awayTeamId": "team_ob_odense",
+              "awayTeamName": "Odense BK",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "14:00:00Z",
+                "formattedLocalTime": "16:00 CEST"
+              },
+              "venue": {
+                "venueName": "Cepheus Park Randers",
+                "city": "Randers"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r8_m4",
+              "homeTeamId": "team_fc_nordsjaelland",
+              "homeTeamName": "FC Nordsjælland",
+              "awayTeamId": "team_agf_aarhus",
+              "awayTeamName": "AGF",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "18:00 CEST"
+              },
+              "venue": {
+                "venueName": "Right to Dream Park",
+                "city": "Farum"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_den1_2627_r8_m5",
+              "homeTeamId": "team_fc_midtjylland",
+              "homeTeamName": "FC Midtjylland",
+              "awayTeamId": "team_brondby_if",
+              "awayTeamName": "Brøndby IF",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "MCH Arena",
+                "city": "Herning"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
