@@ -311,6 +311,508 @@
           "startDateIso": "2026-08-28",
           "endDateIso": "2026-08-31",
           "matches": []
+        },
+        {
+          "roundNumber": 4,
+          "roundName": "Round 4 - الجولة الرابعة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-14",
+          "matches": [
+            {
+              "matchId": "evt_esp1_2627_m1",
+              "homeTeamId": "team_r_racing_club",
+              "homeTeamName": "Racing Santander",
+              "awayTeamId": "team_deportivo_alaves",
+              "awayTeamName": "Deportivo Alavés",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "El Sardinero",
+                "city": "Santander"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m2",
+              "homeTeamId": "team_ca_osasuna",
+              "homeTeamName": "Osasuna",
+              "awayTeamId": "team_rcd_espanyol",
+              "awayTeamName": "Espanyol",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "14:15:00Z",
+                "formattedLocalTime": "16:15 CEST"
+              },
+              "venue": {
+                "venueName": "El Sadar",
+                "city": "Pamplona"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m3",
+              "homeTeamId": "team_athletic_club",
+              "homeTeamName": "Athletic Club",
+              "awayTeamId": "team_elche_cf",
+              "awayTeamName": "Elche",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "18:30 CEST"
+              },
+              "venue": {
+                "venueName": "San Mamés",
+                "city": "Bilbao"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m4",
+              "homeTeamId": "team_real_madrid",
+              "homeTeamName": "Real Madrid",
+              "awayTeamId": "team_rayo_vallecano",
+              "awayTeamName": "Rayo Vallecano",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "21:00 CEST"
+              },
+              "venue": {
+                "venueName": "Estadio Bernabéu",
+                "city": "Madrid"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m5",
+              "homeTeamId": "team_rc_celta",
+              "homeTeamName": "Celta Vigo",
+              "awayTeamId": "team_malaga_cf",
+              "awayTeamName": "Málaga",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:00:00Z",
+                "formattedLocalTime": "14:00 CEST"
+              },
+              "venue": {
+                "venueName": "Estadio Abanca-Balaídos",
+                "city": "Vigo"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m6",
+              "homeTeamId": "team_levante_ud",
+              "homeTeamName": "Levante",
+              "awayTeamId": "team_fc_barcelona",
+              "awayTeamName": "Barcelona",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "14:15:00Z",
+                "formattedLocalTime": "16:15 CEST"
+              },
+              "venue": {
+                "venueName": "Ciutat de València",
+                "city": "Valencia"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m7",
+              "homeTeamId": "team_getafe_cf",
+              "homeTeamName": "Getafe",
+              "awayTeamId": "team_rc_deportivo",
+              "awayTeamName": "Deportivo La Coruña",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "18:30 CEST"
+              },
+              "venue": {
+                "venueName": "Coliseum",
+                "city": "Getafe"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m8",
+              "homeTeamId": "team_real_sociedad",
+              "homeTeamName": "Real Sociedad",
+              "awayTeamId": "team_atletico_madrid",
+              "awayTeamName": "Atlético Madrid",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "21:00 CEST"
+              },
+              "venue": {
+                "venueName": "Estadio Municipal de Anoeta",
+                "city": "San Sebastián"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m9",
+              "homeTeamId": "team_villarreal_cf",
+              "homeTeamName": "Villarreal",
+              "awayTeamId": "team_real_betis",
+              "awayTeamName": "Real Betis",
+              "schedule": {
+                "dateIso": "2026-09-14",
+                "kickoffTimeUtc": "19:00:00Z",
+                "formattedLocalTime": "21:00 CEST"
+              },
+              "venue": {
+                "venueName": "Estadio de la Cerámica",
+                "city": "Villarreal"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
+        },
+        {
+          "roundNumber": 5,
+          "roundName": "Round 5 - الجولة الخامسة",
+          "startDateIso": "2026-09-15",
+          "endDateIso": "2026-09-17",
+          "matches": [
+            {
+              "matchId": "evt_esp1_2627_m10",
+              "homeTeamId": "team_rayo_vallecano",
+              "homeTeamName": "Rayo Vallecano",
+              "awayTeamId": "team_rcd_espanyol",
+              "awayTeamName": "Espanyol",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "Estadio de Vallecas",
+                "city": "Madrid"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m11",
+              "homeTeamId": "team_deportivo_alaves",
+              "homeTeamName": "Deportivo Alavés",
+              "awayTeamId": "team_valencia_cf",
+              "awayTeamName": "Valencia",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "20:00 CEST"
+              },
+              "venue": {
+                "venueName": "Mendizorroza",
+                "city": "Vitoria-Gasteiz"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m12",
+              "homeTeamId": "team_elche_cf",
+              "homeTeamName": "Elche",
+              "awayTeamId": "team_real_madrid",
+              "awayTeamName": "Real Madrid",
+              "schedule": {
+                "dateIso": "2026-09-15",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CEST"
+              },
+              "venue": {
+                "venueName": "Martínez Valero",
+                "city": "Elche"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m13",
+              "homeTeamId": "team_atletico_madrid",
+              "homeTeamName": "Atlético Madrid",
+              "awayTeamId": "team_ca_osasuna",
+              "awayTeamName": "Osasuna",
+              "schedule": {
+                "dateIso": "2026-09-16",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "Cívitas Metropolitano",
+                "city": "Madrid"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m14",
+              "homeTeamId": "team_rc_deportivo",
+              "homeTeamName": "Deportivo La Coruña",
+              "awayTeamId": "team_sevilla_fc",
+              "awayTeamName": "Sevilla",
+              "schedule": {
+                "dateIso": "2026-09-16",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "ABANCA-Riazor",
+                "city": "A Coruña"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m15",
+              "homeTeamId": "team_fc_barcelona",
+              "homeTeamName": "Barcelona",
+              "awayTeamId": "team_r_racing_club",
+              "awayTeamName": "Racing Santander",
+              "schedule": {
+                "dateIso": "2026-09-16",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CEST"
+              },
+              "venue": {
+                "venueName": "Spotify Camp Nou",
+                "city": "Barcelona"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m16",
+              "homeTeamId": "team_levante_ud",
+              "homeTeamName": "Levante",
+              "awayTeamId": "team_athletic_club",
+              "awayTeamName": "Athletic Club",
+              "schedule": {
+                "dateIso": "2026-09-16",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CEST"
+              },
+              "venue": {
+                "venueName": "Ciutat de València",
+                "city": "Valencia"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m17",
+              "homeTeamId": "team_real_betis",
+              "homeTeamName": "Real Betis",
+              "awayTeamId": "team_getafe_cf",
+              "awayTeamName": "Getafe",
+              "schedule": {
+                "dateIso": "2026-09-17",
+                "kickoffTimeUtc": "17:00:00Z",
+                "formattedLocalTime": "19:00 CEST"
+              },
+              "venue": {
+                "venueName": "Benito Villamarín",
+                "city": "Seville"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_esp1_2627_m18",
+              "homeTeamId": "team_malaga_cf",
+              "homeTeamName": "Málaga",
+              "awayTeamId": "team_villarreal_cf",
+              "awayTeamName": "Villarreal",
+              "schedule": {
+                "dateIso": "2026-09-17",
+                "kickoffTimeUtc": "19:30:00Z",
+                "formattedLocalTime": "21:30 CEST"
+              },
+              "venue": {
+                "venueName": "La Rosaleda",
+                "city": "Málaga"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
