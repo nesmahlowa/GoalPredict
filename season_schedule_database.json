@@ -2467,6 +2467,149 @@
           "startDateIso": "2026-08-14",
           "endDateIso": "2026-08-16",
           "matches": []
+        },
+        {
+          "roundNumber": 6,
+          "roundName": "Round 6 - الجولة السادسة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "evt_aut1_2627_r6_m1",
+              "homeTeamId": "team_scr_altach",
+              "homeTeamName": "SCR Altach",
+              "awayTeamId": "team_grazer_ak",
+              "awayTeamName": "Grazer AK 1902",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CEST"
+              },
+              "venue": {
+                "venueName": "CASHPOINT Arena",
+                "city": "Altach"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r6_m2",
+              "homeTeamId": "team_wolfsberger_ac",
+              "homeTeamName": "Wolfsberger AC",
+              "awayTeamId": "team_sk_rapid_wien",
+              "awayTeamName": "SK Rapid",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "17:30:00Z",
+                "formattedLocalTime": "19:30 CEST"
+              },
+              "venue": {
+                "venueName": "Lavanttal-Arena",
+                "city": "Wolfsberg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r6_m3",
+              "homeTeamId": "team_wsg_tirol",
+              "homeTeamName": "WSG Tirol",
+              "awayTeamId": "team_tsv_hartberg",
+              "awayTeamName": "TSV Egger Glas Hartberg",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:30:00Z",
+                "formattedLocalTime": "14:30 CEST"
+              },
+              "venue": {
+                "venueName": "Tivoli Stadion Tirol",
+                "city": "Innsbruck"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r6_m4",
+              "homeTeamId": "team_fk_austria_wien",
+              "homeTeamName": "FK Austria Wien",
+              "awayTeamId": "team_sc_austria_lustenau",
+              "awayTeamName": "SC Austria Lustenau",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "12:30:00Z",
+                "formattedLocalTime": "14:30 CEST"
+              },
+              "venue": {
+                "venueName": "Generali Arena",
+                "city": "Vienna"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_aut1_2627_r6_m5",
+              "homeTeamId": "team_sturm_graz",
+              "homeTeamName": "SK Puntigamer Sturm Graz",
+              "awayTeamId": "team_lask",
+              "awayTeamName": "LASK",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "17:00 CEST"
+              },
+              "venue": {
+                "venueName": "Stadion Graz-Liebenau",
+                "city": "Graz"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
