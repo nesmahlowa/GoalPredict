@@ -824,9 +824,226 @@
         {
           "roundNumber": 3,
           "roundName": "Round 3 - الجولة الثالثة",
-          "startDateIso": "2026-09-11",
+          "startDateIso": "2026-09-12",
           "endDateIso": "2026-09-13",
-          "matches": []
+          "matches": [
+            {
+              "matchId": "evt_ger1_2627_r3_m1",
+              "homeTeamId": "team_borussia_dortmund",
+              "homeTeamName": "Borussia Dortmund",
+              "awayTeamId": "team_sc_paderborn_07",
+              "awayTeamName": "SC Paderborn 07",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "SIGNAL IDUNA PARK",
+                "city": "Dortmund"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m2",
+              "homeTeamId": "team_tsg_hoffenheim",
+              "homeTeamName": "TSG Hoffenheim",
+              "awayTeamId": "team_vfb_stuttgart",
+              "awayTeamName": "VfB Stuttgart",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "SNP Arena",
+                "city": "Sinsheim"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m3",
+              "homeTeamId": "team_sc_freiburg",
+              "homeTeamName": "SC Freiburg",
+              "awayTeamId": "team_borussia_monchengladbach",
+              "awayTeamName": "Borussia Mönchengladbach",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "Europa-Park Stadion",
+                "city": "Freiburg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m4",
+              "homeTeamId": "team_fc_augsburg",
+              "homeTeamName": "FC Augsburg",
+              "awayTeamId": "team_bayer_leverkusen",
+              "awayTeamName": "Bayer 04 Leverkusen",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "WWK ARENA",
+                "city": "Augsburg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m5",
+              "homeTeamId": "team_fsv_mainz_05",
+              "homeTeamName": "1. FSV Mainz 05",
+              "awayTeamId": "team_eintracht_frankfurt",
+              "awayTeamName": "Eintracht Frankfurt",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "MEWA ARENA",
+                "city": "Mainz"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m6",
+              "homeTeamId": "team_fc_koln",
+              "homeTeamName": "1. FC Köln",
+              "awayTeamId": "team_werder_bremen",
+              "awayTeamName": "SV Werder Bremen",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:30:00Z",
+                "formattedLocalTime": "18:30 CEST"
+              },
+              "venue": {
+                "venueName": "RheinEnergieSTADION",
+                "city": "Cologne"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m7",
+              "homeTeamId": "team_rb_leipzig",
+              "homeTeamName": "RB Leipzig",
+              "awayTeamId": "team_hamburger_sv",
+              "awayTeamName": "Hamburger SV",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "13:30:00Z",
+                "formattedLocalTime": "15:30 CEST"
+              },
+              "venue": {
+                "venueName": "Red Bull Arena",
+                "city": "Leipzig"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_ger1_2627_r3_m8",
+              "homeTeamId": "team_sv_elversberg",
+              "homeTeamName": "SV Elversberg",
+              "awayTeamId": "team_bayern_munich",
+              "awayTeamName": "FC Bayern München",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:30:00Z",
+                "formattedLocalTime": "17:30 CEST"
+              },
+              "venue": {
+                "venueName": "URSAPHARM-Arena",
+                "city": "Spiesen-Elversberg"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
