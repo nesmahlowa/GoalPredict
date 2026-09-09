@@ -3132,6 +3132,203 @@
           "startDateIso": "2026-09-05",
           "endDateIso": "2026-09-07",
           "matches": []
+        },
+        {
+          "roundNumber": 4,
+          "roundName": "Round 4 - الجولة الرابعة",
+          "startDateIso": "2026-09-12",
+          "endDateIso": "2026-09-13",
+          "matches": [
+            {
+              "matchId": "evt_gre1_2627_r4_m1",
+              "homeTeamId": "team_olympiacos",
+              "homeTeamName": "Olympiacos",
+              "awayTeamId": "team_ofi_crete",
+              "awayTeamName": "OFI Crete FC",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "Stadio Georgios Karaiskáki",
+                "city": "Piraeus"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r4_m2",
+              "homeTeamId": "team_pot_iraklis",
+              "homeTeamName": "P.O.T. Iraklis",
+              "awayTeamId": "team_atromitos",
+              "awayTeamName": "Atromitos FC",
+              "schedule": {
+                "dateIso": "2026-09-12",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 EEST"
+              },
+              "venue": {
+                "venueName": "Kaftanzoglio Stadium",
+                "city": "Thessaloniki"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r4_m3",
+              "homeTeamId": "team_kalamata",
+              "homeTeamName": "Kalamata",
+              "awayTeamId": "team_volos_nfc",
+              "awayTeamName": "Volos NFC",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "15:00:00Z",
+                "formattedLocalTime": "18:00 EEST"
+              },
+              "venue": {
+                "venueName": "Kalamata Municipal Stadium",
+                "city": "Kalamata"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r4_m4",
+              "homeTeamId": "team_asteras_tripolis",
+              "homeTeamName": "Asteras Tripolis",
+              "awayTeamId": "team_aek_athens",
+              "awayTeamName": "AEK Athens FC",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "16:00:00Z",
+                "formattedLocalTime": "19:00 EEST"
+              },
+              "venue": {
+                "venueName": "Theodoros Kolokotronis Stadium",
+                "city": "Tripoli"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r4_m5",
+              "homeTeamId": "team_kifisia",
+              "homeTeamName": "Kifisia",
+              "awayTeamId": "team_levadiakos",
+              "awayTeamName": "Levadiakos FC",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 EEST"
+              },
+              "venue": {
+                "venueName": "Zirineio Municipal Stadium",
+                "city": "Kifisia"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r4_m6",
+              "homeTeamId": "team_paok",
+              "homeTeamName": "PAOK",
+              "awayTeamId": "team_aris",
+              "awayTeamName": "Aris Thessaloniki",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "18:00:00Z",
+                "formattedLocalTime": "21:00 EEST"
+              },
+              "venue": {
+                "venueName": "Toumba Stadium",
+                "city": "Thessaloniki"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            },
+            {
+              "matchId": "evt_gre1_2627_r4_m7",
+              "homeTeamId": "team_panathinaikos",
+              "homeTeamName": "Panathinaikos FC",
+              "awayTeamId": "team_panetolikos",
+              "awayTeamName": "Panetolikos",
+              "schedule": {
+                "dateIso": "2026-09-13",
+                "kickoffTimeUtc": "18:30:00Z",
+                "formattedLocalTime": "21:30 EEST"
+              },
+              "venue": {
+                "venueName": "Olympic Stadium (OAKA)",
+                "city": "Athens"
+              },
+              "status": {
+                "matchStatus": "SCHEDULED",
+                "verificationStatus": "VERIFIED"
+              },
+              "score": {
+                "homeScore": null,
+                "awayScore": null,
+                "halfTimeHomeScore": null,
+                "halfTimeAwayScore": null
+              },
+              "refereeName": null
+            }
+          ]
         }
       ]
     },
