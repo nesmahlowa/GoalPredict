@@ -12545,7 +12545,7 @@
       "notes": "TT Premier League (TTPL) 2025/2026 season had extensive fixtures and results through at least March 2026 (Defence Force, Club Sando, Prison Service among top teams per Soccerway, Scoresway, Forza Football, Soca Warriors Online). No multi-source verified detailed fixtures (home/away, exact dates, kickoff times, venues) published for a 2026-2027 season within TARGET_DATE_RANGE 17/09–31/10/2026 as of 15 Sep 2026. Secondary Schools Football League (SSFL) activity noted around September 2026 but is not senior club competition. Sources: Soccerway, Scoresway, Flashscore, Soca Warriors, Forza Football, general web. No matches inserted (Zero-Hallucination)."
     },
     {
-      "leagueId": "ESP1",
+      "leagueId": "eng.1",
       "officialName": "LaLiga",
       "season": "2026-2027",
       "rounds": [
