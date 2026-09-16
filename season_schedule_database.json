@@ -9,7 +9,7 @@
   },
   "leagueSchedules": [
     {
-      "leagueId": "eng.1",
+      "leagueId": "1",
       "officialName": "English Premier League Season 2026/2027",
       "season": "2026-2027",
       "rounds": [
@@ -27,7 +27,7 @@
               "awayTeamName": "Chelsea",
               "schedule": {
                 "dateIso": "2026-09-18",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-18T19:00:00Z",
                 "formattedLocalTime": "20:00 UK"
               },
               "venue": {
@@ -54,7 +54,7 @@
               "awayTeamName": "Ipswich Town",
               "schedule": {
                 "dateIso": "2026-09-19",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-19T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -81,7 +81,7 @@
               "awayTeamName": "Hull City",
               "schedule": {
                 "dateIso": "2026-09-19",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-19T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -108,7 +108,7 @@
               "awayTeamName": "Aston Villa",
               "schedule": {
                 "dateIso": "2026-09-19",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-19T11:30:00Z",
                 "formattedLocalTime": "12:30 UK"
               },
               "venue": {
@@ -135,7 +135,7 @@
               "awayTeamName": "Liverpool",
               "schedule": {
                 "dateIso": "2026-09-20",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-20T13:00:00Z",
                 "formattedLocalTime": "14:00 UK"
               },
               "venue": {
@@ -162,7 +162,7 @@
               "awayTeamName": "Crystal Palace",
               "schedule": {
                 "dateIso": "2026-09-20",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-20T13:00:00Z",
                 "formattedLocalTime": "14:00 UK"
               },
               "venue": {
@@ -189,7 +189,7 @@
               "awayTeamName": "Sunderland",
               "schedule": {
                 "dateIso": "2026-09-20",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-20T13:00:00Z",
                 "formattedLocalTime": "14:00 UK"
               },
               "venue": {
@@ -216,7 +216,7 @@
               "awayTeamName": "Manchester United",
               "schedule": {
                 "dateIso": "2026-09-20",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-09-20T15:30:00Z",
                 "formattedLocalTime": "16:30 UK"
               },
               "venue": {
@@ -251,7 +251,7 @@
               "awayTeamName": "Leeds United",
               "schedule": {
                 "dateIso": "2026-10-10",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-10T11:30:00Z",
                 "formattedLocalTime": "12:30 UK"
               },
               "venue": {
@@ -278,7 +278,7 @@
               "awayTeamName": "Brentford",
               "schedule": {
                 "dateIso": "2026-10-10",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-10T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -305,7 +305,7 @@
               "awayTeamName": "Fulham",
               "schedule": {
                 "dateIso": "2026-10-10",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-10T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -332,7 +332,7 @@
               "awayTeamName": "Brighton & Hove Albion",
               "schedule": {
                 "dateIso": "2026-10-10",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-10T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -359,7 +359,7 @@
               "awayTeamName": "Nottingham Forest",
               "schedule": {
                 "dateIso": "2026-10-11",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-11T13:00:00Z",
                 "formattedLocalTime": "14:00 UK"
               },
               "venue": {
@@ -386,7 +386,7 @@
               "awayTeamName": "Manchester City",
               "schedule": {
                 "dateIso": "2026-10-11",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-11T15:30:00Z",
                 "formattedLocalTime": "16:30 UK"
               },
               "venue": {
@@ -421,7 +421,7 @@
               "awayTeamName": "Liverpool",
               "schedule": {
                 "dateIso": "2026-10-17",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-17T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -448,7 +448,7 @@
               "awayTeamName": "Chelsea",
               "schedule": {
                 "dateIso": "2026-10-17",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-17T11:30:00Z",
                 "formattedLocalTime": "12:30 UK"
               },
               "venue": {
@@ -475,7 +475,7 @@
               "awayTeamName": "Ipswich Town",
               "schedule": {
                 "dateIso": "2026-10-17",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-17T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -510,7 +510,7 @@
               "awayTeamName": "Everton",
               "schedule": {
                 "dateIso": "2026-10-24",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-24T14:00:00Z",
                 "formattedLocalTime": "15:00 UK"
               },
               "venue": {
@@ -545,7 +545,7 @@
               "awayTeamName": "Arsenal",
               "schedule": {
                 "dateIso": "2026-10-31",
-                "kickoffTimeUtc": "",
+                "kickoffTimeUtc": "2026-10-31T16:30:00Z",
                 "formattedLocalTime": "16:30 UK"
               },
               "venue": {
